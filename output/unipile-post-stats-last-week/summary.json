@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-03-17T14:36:11.248668+00:00",
+  "base_url": "https://api29.unipile.com:15971",
+  "account_id": "HoL10NZzQbGT2kIG1-FLrA",
+  "identifier": "ACoAACuJcssBSpRfDWhuMposFSW7QX3eWmYGjq8",
+  "timezone": "Europe/Kiev",
+  "since": "2026-03-09",
+  "until": "2026-03-15",
+  "totals": {
+    "post_count": 6,
+    "reactions": 16,
+    "comments": 8,
+    "views": 388,
+    "reposts": 2
+  },
+  "daily_rows": 6,
+  "weekly_rows": 1,
+  "files": {
+    "posts_csv": "C:\\Users\\daniv\\OneDrive\\\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0438\\Playground\\output\\unipile-post-stats-last-week\\posts.csv",
+    "daily_csv": "C:\\Users\\daniv\\OneDrive\\\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0438\\Playground\\output\\unipile-post-stats-last-week\\daily.csv",
+    "weekly_csv": "C:\\Users\\daniv\\OneDrive\\\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0438\\Playground\\output\\unipile-post-stats-last-week\\weekly.csv"
+  }
+}

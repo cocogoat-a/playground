@@ -21,3 +21,8 @@
 - For `$multi-agent-detailed-research`, include all agent drafts, updated versions, recommendations, the final answer, and reasoning summary in a Notion page.
 - The user's website on Webflow is etavrian.com.
 - Do not use Chrome MCP to inspect CMS items or page inventories; only use Chrome MCP to confirm live URLs on the website.
+- Remember the user's Unipile API key and DNS by creating a skill.
+- When storing the user's Unipile API key and DNS in a skill, include the raw values in the skill file.
+- For `$stochastic-multi-agent-consensus`, use `gpt-5.4` with `medium` reasoning by default.
+- For `$stochastic-multi-agent-consensus`, use `gpt-5.4-mini` with `xhigh` reasoning by default.
+- For `$stochastic-multi-agent-consensus`, use `gpt-5.4-mini` with `xhigh` reasoning only for subagents; the main agent should stay on `gpt-5.4` with `xhigh`.
