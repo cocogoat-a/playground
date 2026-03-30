@@ -1,0 +1,66 @@
+Quarter	Device	Level	Campaign	Ad group	Bid adj.	Ad group bid adj.	Currency code	Avg. CPM	Impr.	Interactions	Interaction rate	Avg. cost	Cost	Conv. rate	Conversions	Cost / conv.
+Current Quarter	Mobile Phones	Campaign	ADa_Pants_NL	--	--	None	EUR	13.52	22146	1080	0.0488	0.28	299.51	0.0019	2	149.76
+Current Quarter	Computers	Campaign	ADa_Pants_NL	--	--	None	EUR	17.11	1431	23	0.0161	1.06	24.48	0	0	0
+Current Quarter	Mobile Phones	Campaign	S | General | EU | EN	--	--	None	EUR	44.31	10833	594	0.0548	0.81	479.98	0.0067	4	120
+Current Quarter	Tablets	Campaign	S | General | EU | EN	--	--	None	EUR	69.75	122	11	0.0902	0.77	8.51	0	0	0
+Current Quarter	Computers	Campaign	S | General | EU | EN	--	--	None	EUR	61.31	2574	126	0.049	1.25	157.8	0.0159	2	78.9
+Current Quarter	Computers	Campaign	PMax | Rem | US | EN	--	--	None	EUR	25.26	1152	22	0.0191	1.32	29.1	0	0	0
+Current Quarter	Mobile Phones	Campaign	PMax | Rem | US | EN	--	--	None	EUR	12	4150	63	0.0152	0.79	49.81	0.0159	1	49.81
+Current Quarter	Tablets	Campaign	PMax | Rem | US | EN	--	--	None	EUR	5.69	153	2	0.0131	0.44	0.87	0	0	0
+Current Quarter	Computers	Campaign	PMax | Rem | CA | EN	--	--	None	EUR	5.8	782	7	0.009000000000000001	0.65	4.53	0	0	0
+Current Quarter	Mobile Phones	Campaign	PMax | Rem | AU-NZ | EN	--	--	None	EUR	21.93	2171	103	0.0474	0.46	47.62	0	0	0
+Current Quarter	Computers	Campaign	PMax | Rem | AU-NZ | EN	--	--	None	EUR	16.6	1085	22	0.0203	0.82	18.01	0	0	0
+Current Quarter	TV screens	Campaign	PMax | Rem | CA | EN	--	--	None	EUR	3.14	1	0	0	0	0	0	0	0
+Current Quarter	Mobile Phones	Campaign	PMax | Rem | CA | EN	--	--	None	EUR	10.12	1527	107	0.0701	0.14	15.45	0	0	0
+Current Quarter	Tablets	Campaign	PMax | Rem | AU-NZ | EN	--	--	None	EUR	10.9	201	6	0.0299	0.37	2.19	0	0	0
+Current Quarter	Tablets	Campaign	PMax | Rem | CA | EN	--	--	None	EUR	7.13	150	3	0.02	0.36	1.07	0	0	0
+Current Quarter	Mobile Phones	Campaign	S | Brand | EU | EN	--	--	None	EUR	37.03	15	6	0.4	0.09	0.56	0	0	0
+Current Quarter	Mobile Phones	Campaign	S | Brand | EU | FR	--	--	None	EUR	487.5	4	2	0.5	0.98	1.95	0	0	0
+Current Quarter	Computers	Campaign	S | Brand | EU | FR	--	--	None	EUR	10	1	1	1	0.01	0.01	0	0	0
+Current Quarter	Tablets	Campaign	S | Brand | EU | EN	--	--	None	EUR	443.44	1	1	1	0.44	0.44	0	0	0
+Current Quarter	Computers	Campaign	S | Brand | EU | EN	--	--	None	EUR	180	11	4	0.3636	0.5	1.98	0	0	0
+Current Quarter	Tablets	Campaign	PMax | Rem | DE	--	--	None	EUR	14.15	2940	136	0.0463	0.31	41.6	0.0147	2	20.8
+Current Quarter	Computers	Campaign	PMax | Rem | DE	--	--	None	EUR	4.42	24278	450	0.0185	0.24	107.35	0.0044	2	53.68
+Current Quarter	Mobile Phones	Campaign	PMax | Rem | DE	--	--	None	EUR	20.26	30499	1439	0.0472	0.43	617.85	0.0063	9	68.65
+Current Quarter	TV screens	Campaign	PMax | Rem | DE	--	--	None	EUR	6.33	95	46	0.4842	0.01	0.6	0	0	0
+Current Quarter	Mobile Phones	Campaign	ADa_Panty_NL	--	--	None	EUR	13.37	23670	1444	0.061	0.22	316.45	0.0028	4	79.11
+Current Quarter	Computers	Campaign	ADa_Panty_NL	--	--	None	EUR	18.01	1015	14	0.0138	1.31	18.28	0	0	0
+Current Quarter	Mobile Phones	Campaign	S | Brand | UK	--	--	None	EUR	118	5	2	0.4	0.3	0.59	0	0	0
+Current Quarter	Computers	Campaign	S | Brand | UK	--	--	None	EUR	0	1	0	0	0	0	0	0	0
+Current Quarter	Tablets	Campaign	S | General | NL	--	--	None	EUR	134.78	103	5	0.04849999999999999	2.78	13.88	0	0	0
+Current Quarter	Mobile Phones	Campaign	S | Brand | EU | DE	--	--	None	EUR	32.04	68	24	0.3529	0.09	2.18	0.125	3	0.73
+Current Quarter	Mobile Phones	Campaign	PMAX | shopping | EU | EN	--	--	None	EUR	7.59	28973	1941	0.067	0.11	219.84	0.001	2	109.92
+Current Quarter	Computers	Campaign	S | Brand | EU | DE	--	--	None	EUR	23.33	27	9	0.3333	0.07	0.63	0.1111	1	0.63
+Current Quarter	Mobile Phones	Campaign	S | General | NL	--	--	None	EUR	91.9	10765	499	0.0464	1.98	989.36	0.0291	14.5	68.23
+Current Quarter	Computers	Campaign	S | General | NL	--	--	None	EUR	137.77	1456	64	0.044	3.13	200.59	0	0	0
+Current Quarter	Tablets	Campaign	PMAX | shopping | EU | EN	--	--	None	EUR	4.56	774	87	0.1124	0.04	3.53	0	0	0
+Current Quarter	Computers	Campaign	PMAX | shopping | EU | EN	--	--	None	EUR	3.54	11005	235	0.0214	0.17	38.92	0.0005	0.12	328.71
+Current Quarter	TV screens	Campaign	PMAX | shopping | EU | EN	--	--	None	EUR	0	3	0	0	0	0	0	0	0
+Current Quarter	Computers	Campaign	S | General | UK	--	--	None	EUR	92.96	135	9	0.0667	1.39	12.55	0	0	0
+Current Quarter	Mobile Phones	Campaign	Sh | General | NL	--	--	None	EUR	19.27	2409	39	0.0162	1.19	46.42	0	0	0
+Current Quarter	Computers	Campaign	Sh | General | NL	--	--	None	EUR	6.96	425	2	0.004699999999999999	1.48	2.96	0	0	0
+Current Quarter	Tablets	Campaign	S | General | UK	--	--	None	EUR	0	16	0	0	0	0	0	0	0
+Current Quarter	Mobile Phones	Campaign	S | General | UK	--	--	None	EUR	77.73	696	47	0.0675	1.15	54.1	0.0213	1	54.1
+Current Quarter	Tablets	Campaign	Sh | General | NL	--	--	None	EUR	39.35	77	3	0.039	1.01	3.03	0	0	0
+Current Quarter	Tablets	Campaign	ADa_Brand_NL	--	--	None	EUR	20	9	4	0.4444	0.05	0.18	0	0	0
+Current Quarter	Mobile Phones	Campaign	ADa_Brand_NL	--	--	None	EUR	5.01	68	12	0.1765	0.03	0.34	0.3333	4	0.09
+Current Quarter	Computers	Campaign	ADa_Brand_NL	--	--	None	EUR	375	8	5	0.625	0.6	3	0.2	1	3
+Current Quarter	Computers	Campaign	DGen | EN	--	--	None	EUR	0.34	261382	286	0.0011	0.31	89.71	0	0	0
+Current Quarter	TV screens	Campaign	DGen | EN	--	--	None	EUR	0.25	44	0	0	0	0.01	0	0	0
+Current Quarter	Mobile Phones	Campaign	DGen | EN	--	--	None	EUR	1.29	174533	1102	0.0063	0.2	224.39	0	0	0
+Current Quarter	Tablets	Campaign	DGen | EN	--	--	None	EUR	0.76	10454	52	0.005	0.15	7.93	0	0	0
+Current Quarter	Tablets	Campaign	PMax | Rem | EU | EN	--	--	None	EUR	11.78	1194	122	0.1022	0.12	14.07	0	0	0
+Current Quarter	Computers	Campaign	S | Brand | NL	--	--	None	EUR	107.9	150	44	0.2933	0.37	16.18	0.0682	3	5.39
+Current Quarter	Mobile Phones	Campaign	PMax | Rem | EU | EN	--	--	None	EUR	11.61	35866	2632	0.07339999999999999	0.16	416.37	0.0019	5	83.27
+Current Quarter	Tablets	Campaign	S | Brand | NL	--	--	None	EUR	270	13	4	0.3077	0.88	3.51	0	0	0
+Current Quarter	Computers	Campaign	PMax | Rem | EU | EN	--	--	None	EUR	3.7	39309	1169	0.0297	0.12	145.46	0.0008	0.88	165
+Current Quarter	Mobile Phones	Campaign	S | Brand | NL	--	--	None	EUR	97.63	821	263	0.3203	0.3	80.15	0.1682	44.25	1.81
+Current Quarter	TV screens	Campaign	PMax | Rem | EU | EN	--	--	None	EUR	2.83	207	95	0.4589	0.01	0.59	0	0	0
+Current Quarter	Tablets	Campaign	PMax | Rem | UK	--	--	None	EUR	9.43	676	77	0.1139	0.08	6.38	0	0	0
+Current Quarter	TV screens	Campaign	PMax | Rem | NL | New	--	--	None	EUR	8.35	402	248	0.6169	0.01	3.36	0	0	0
+Current Quarter	Computers	Campaign	PMax | Rem | NL | New	--	--	None	EUR	17.43	8667	106	0.0122	1.43	151.09	0.0283	3	50.36
+Current Quarter	Mobile Phones	Campaign	PMax | Rem | NL | New	--	--	None	EUR	17.28	81378	4620	0.0568	0.3	1406.34	0.0074	34.25	41.06
+Current Quarter	Tablets	Campaign	PMax | Rem | NL | New	--	--	None	EUR	9.07	3936	183	0.04650000000000001	0.2	35.69	0.0164	3	11.9
+Current Quarter	Mobile Phones	Campaign	PMax | Rem | UK	--	--	None	EUR	20.17	11381	653	0.0574	0.35	229.55	0.0077	5	45.91
+Current Quarter	TV screens	Campaign	PMax | Rem | UK	--	--	None	EUR	7.75	77	39	0.5065	0.02	0.6	0	0	0
+Current Quarter	Computers	Campaign	PMax | Rem | UK	--	--	None	EUR	9.94	6588	97	0.0147	0.67	65.46	0	0	0

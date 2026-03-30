@@ -1,0 +1,769 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - banner "Top navigation" [ref=e6]:
+      - status
+      - generic [ref=e7]:
+        - button [expanded] [ref=e8] [cursor=pointer]:
+          - img [ref=e11]: menu
+        - heading "Google Ads – Go to starting page" [level=1] [ref=e13]:
+          - button "Google Ads – Go to starting page" [ref=e14]:
+            - img [ref=e16] [cursor=pointer]
+        - button "Etavrian MCC 837-167-0101" [ref=e26] [cursor=pointer]:
+          - generic [ref=e29]:
+            - generic [ref=e30]: Etavrian MCC
+            - generic [ref=e31]: 837-167-0101
+            - img [ref=e33]: arrow_drop_down
+      - generic [ref=e36]:
+        - button "Page search" [ref=e39] [cursor=pointer]:
+          - generic [ref=e41]:
+            - img [ref=e42]: search
+            - text: Search
+        - generic [ref=e44]:
+          - button "Appearance" [ref=e47] [cursor=pointer]:
+            - generic [ref=e49]:
+              - img [ref=e50]: responsive_layout
+              - text: Appearance
+          - button "Refresh" [ref=e54] [cursor=pointer]:
+            - generic [ref=e56]:
+              - img [ref=e57]: refresh
+              - text: Refresh
+          - button "Open the quick help panel" [ref=e60] [cursor=pointer]:
+            - generic [ref=e61]:
+              - text: Help
+              - generic [ref=e62]:
+                - img [ref=e63]: help_outline
+                - text: Help
+          - generic [ref=e67]:
+            - button "Notifications" [ref=e70] [cursor=pointer]:
+              - generic [ref=e72]:
+                - img [ref=e75]: notifications
+                - generic [ref=e76]: Notifications
+            - dialog "Notifications" [ref=e1249]:
+              - generic [ref=e1253]:
+                - generic [ref=e1254]:
+                  - img "Warning notification icon" [ref=e1256]: error_outline
+                  - button "You've got payments due in 2 accounts View" [ref=e1257] [cursor=pointer]:
+                    - text: You've got payments due in 2 accounts
+                    - generic [ref=e1258]: View
+                - generic [ref=e1259]:
+                  - img "Warning notification icon" [ref=e1261]: error_outline
+                  - button "8 accounts have billing announcements View" [ref=e1262] [cursor=pointer]:
+                    - text: 8 accounts have billing announcements
+                    - generic [ref=e1263]: View
+                - button "Close notifications" [ref=e1264] [cursor=pointer]:
+                  - img [ref=e1267]: clear
+      - button "Google Account" [ref=e83] [cursor=pointer]:
+        - img "Google Account (team@etavrian.com)" [ref=e84]
+    - generic [ref=e87]:
+      - generic [ref=e89]:
+        - generic [ref=e90]:
+          - generic [ref=e91]:
+            - button "Create" [ref=e93] [cursor=pointer]:
+              - img [ref=e96]
+            - generic [ref=e98]: Create
+          - menu [ref=e99]:
+            - menu [ref=e1269]:
+              - menuitem "Accounts" [ref=e1272] [cursor=pointer]:
+                - generic [ref=e1273]:
+                  - img [ref=e1275]: team_drive_outline
+                  - generic [ref=e1276]: Accounts
+              - menuitem "Campaigns" [ref=e1279] [cursor=pointer]:
+                - generic [ref=e1280]:
+                  - img [ref=e1282]: campaign
+                  - generic [ref=e1283]: Campaigns
+              - menuitem "Goals" [ref=e1286] [cursor=pointer]:
+                - generic [ref=e1287]:
+                  - img [ref=e1289]: rewarded_ads
+                  - generic [ref=e1290]: Goals
+              - menuitem "Tools" [ref=e1293] [cursor=pointer]:
+                - generic [ref=e1294]:
+                  - img [ref=e1296]: construction
+                  - generic [ref=e1297]: Tools
+              - menuitem "Billing" [ref=e1300] [cursor=pointer]:
+                - generic [ref=e1301]:
+                  - img [ref=e1303]: credit_card
+                  - generic [ref=e1304]: Billing
+              - menuitem "Admin" [ref=e1307] [cursor=pointer]:
+                - generic [ref=e1308]:
+                  - img [ref=e1310]: settings
+                  - generic [ref=e1311]: Admin
+        - navigation [ref=e143]:
+          - menu [ref=e144]:
+            - generic [ref=e1312]:
+              - menuitem "Performance" [ref=e1315] [cursor=pointer]:
+                - generic [ref=e1317]: Performance
+              - menuitem "Budgets" [ref=e1321] [cursor=pointer]:
+                - generic [ref=e1323]: Budgets
+              - menuitem "Notifications" [ref=e1327] [cursor=pointer]:
+                - generic [ref=e1329]: Notifications
+              - menuitem "Sub-account settings" [ref=e1333] [cursor=pointer]:
+                - generic [ref=e1335]: Sub-account settings
+          - group [ref=e198]:
+            - generic [ref=e199]:
+              - generic [ref=e200]:
+                - generic "Get the Google Ads app" [ref=e201]:
+                  - img [ref=e203]: app_promo
+                  - generic [ref=e204]: Get the Google Ads app
+                - button "Get the Google Ads app dismiss" [ref=e205] [cursor=pointer]:
+                  - img [ref=e208]: close
+              - generic [ref=e210]:
+                - img "QR Code for Ads Mobile" [ref=e211]
+                - generic "Scan to download the mobile app and get updates for your campaigns on the go" [ref=e212]
+      - generic [ref=e213]:
+        - generic [ref=e215]:
+          - generic [ref=e216]:
+            - button "View (2 filters) All campaigns" [ref=e221] [cursor=pointer]:
+              - generic [ref=e222]:
+                - generic [ref=e223]: View (2 filters)
+                - generic [ref=e224]:
+                  - img [ref=e227]: home
+                  - button "All campaigns" [ref=e228]
+              - img [ref=e230]: arrow_drop_down
+            - button "Campaigns (321) Select a campaign" [ref=e235] [cursor=pointer]:
+              - generic [ref=e236]:
+                - generic [ref=e237]: Campaigns (321)
+                - generic [ref=e238]: Select a campaign
+              - img [ref=e240]: arrow_drop_down
+          - generic [ref=e241]:
+            - img [ref=e243]: warning
+            - generic [ref=e244]: View filters aren't applied to this page
+        - group [ref=e248]:
+          - generic [ref=e249]:
+            - generic [ref=e250] [cursor=pointer]:
+              - generic: Filters
+            - generic: "Filters Applied:"
+            - grid "Filters Applied:" [ref=e251]:
+              - 'row "Campaign status: Enabled, Paused" [ref=e1338] [cursor=pointer]':
+                - 'gridcell "Campaign status: Enabled, Paused" [ref=e1339]':
+                  - 'button "Campaign status: Enabled, Paused" [ref=e1340]': "Campaign status: Enabled, Paused"
+              - 'row "Ad group status: Enabled, Paused" [ref=e1342] [cursor=pointer]':
+                - 'gridcell "Ad group status: Enabled, Paused" [ref=e1343]':
+                  - 'button "Ad group status: Enabled, Paused" [ref=e1344]': "Ad group status: Enabled, Paused"
+              - row [ref=e260]:
+                - gridcell [ref=e261]:
+                  - combobox "Add filter" [ref=e262]
+                  - status [ref=e263]
+            - button "Save" [ref=e266] [cursor=pointer]:
+              - generic [ref=e267]:
+                - img [ref=e269]: save
+                - generic [ref=e270]: Save
+        - generic [ref=e273]:
+          - generic [ref=e274]:
+            - generic [ref=e275]:
+              - heading "Performance" [level=2] [ref=e1345]
+              - generic [ref=e281]:
+                - generic [ref=e283] [cursor=pointer]:
+                  - generic [ref=e284]: Custom
+                  - generic [ref=e286]:
+                    - button "1 Jan - 26 Mar 2026 Not applicable" [ref=e288]:
+                      - generic [ref=e289]: 1 Jan - 26 Mar 2026
+                      - img [ref=e291]: arrow_drop_down
+                    - generic [ref=e292]:
+                      - button "Previous" [ref=e293]:
+                        - img [ref=e296]: chevron_left
+                      - button "Next" [disabled]:
+                        - generic:
+                          - generic:
+                            - img: chevron_right
+                - button "Show last 30 days" [ref=e298] [cursor=pointer]:
+                  - generic [ref=e299]: Show last 30 days
+            - tablist [ref=e1349]:
+              - tab "Table" [selected] [ref=e1350] [cursor=pointer]:
+                - generic [ref=e1351]: Table
+              - tab "Map" [ref=e1353] [cursor=pointer]:
+                - generic [ref=e1354]: Map
+          - main [ref=e1359]:
+            - generic [ref=e1361]:
+              - generic [ref=e1366]:
+                - generic: info Chart type Expand Adjust
+                - region "Primary toolbelt for Performance" [ref=e1371]:
+                  - generic [ref=e1372]:
+                    - button "Add account" [ref=e1376] [cursor=pointer]:
+                      - img [ref=e1379]: add
+                    - generic [ref=e1383] [cursor=pointer]:
+                      - group [ref=e1384]:
+                        - generic [ref=e1385]:
+                          - button "Show 2 active filters" [ref=e1388]:
+                            - generic [ref=e1390]:
+                              - img [ref=e1392]: filter_alt
+                              - generic [ref=e1393]: "2"
+                          - generic: "Filters Applied:"
+                          - grid "Filters Applied:"
+                      - generic [ref=e1395]:
+                        - generic [ref=e1396]: + 2 more
+                        - button "Add filter" [ref=e1397]:
+                          - generic [ref=e1398]: Add filter
+                  - generic [ref=e1400]:
+                    - search [ref=e1403] [cursor=pointer]:
+                      - button "Search" [ref=e1406]:
+                        - generic [ref=e1407]:
+                          - img [ref=e1409]: search
+                          - generic [ref=e1410]: Search
+                    - button "Layers" [ref=e1415] [cursor=pointer]:
+                      - generic [ref=e1416]:
+                        - img [ref=e1418]: layers
+                        - generic [ref=e1419]: Layers
+                    - button "Segment. Segmentation off" [ref=e1425] [cursor=pointer]:
+                      - generic [ref=e1426]:
+                        - img [ref=e1428]: segment
+                        - generic [ref=e1429]: Segment
+                    - button "Columns" [ref=e1435] [cursor=pointer]:
+                      - generic [ref=e1436]:
+                        - img [ref=e1438]: view_column
+                        - generic [ref=e1439]: Columns
+                    - button "Download" [ref=e1445] [cursor=pointer]:
+                      - generic [ref=e1446]:
+                        - img [ref=e1448]: file_download
+                        - generic [ref=e1449]: Download
+                    - button "Expand" [ref=e1455] [cursor=pointer]:
+                      - generic [ref=e1456]:
+                        - img [ref=e1458]: fullscreen
+                        - generic [ref=e1459]: Expand
+                    - button "More options" [ref=e1465] [cursor=pointer]:
+                      - generic [ref=e1466]:
+                        - img [ref=e1468]: more_vert
+                        - generic [ref=e1469]: More
+                    - button "Show chart" [ref=e1478] [cursor=pointer]:
+                      - img [ref=e1481]: keyboard_arrow_up
+                - generic [ref=e1483]:
+                  - grid "Performance" [ref=e1486]:
+                    - row "Select all rows status Account Optimisation score Direct manager Account type Clicks Impr. CTR Avg. CPC Cost Conversions Conv. rate Account labels" [ref=e1487]:
+                      - gridcell "Select all rows" [ref=e1488]:
+                        - checkbox "Select all rows" [ref=e1491] [cursor=pointer]:
+                          - img [ref=e1493]
+                      - columnheader "status" [ref=e1494] [cursor=pointer]:
+                        - img "status" [ref=e1495]
+                      - columnheader "Account" [ref=e1496] [cursor=pointer]:
+                        - button [ref=e1498]:
+                          - img [ref=e1499]: expand_more
+                        - text: Account
+                      - columnheader "Optimisation score" [ref=e1501] [cursor=pointer]:
+                        - text: Optimisation score
+                        - img [ref=e1503]: help_outline
+                      - columnheader "Direct manager" [ref=e1505] [cursor=pointer]:
+                        - text: Direct manager
+                        - img [ref=e1507]: help_outline
+                      - columnheader "Account type" [ref=e1509]: Account type
+                      - columnheader "Clicks" [ref=e1511] [cursor=pointer]:
+                        - text: Clicks
+                        - img [ref=e1513]: help_outline
+                      - columnheader "Impr." [ref=e1515] [cursor=pointer]:
+                        - text: Impr.
+                        - img [ref=e1517]: help_outline
+                      - columnheader "CTR" [ref=e1519] [cursor=pointer]:
+                        - text: CTR
+                        - img [ref=e1521]: help_outline
+                      - columnheader "Avg. CPC" [ref=e1523] [cursor=pointer]:
+                        - text: Avg. CPC
+                        - img [ref=e1525]: help_outline
+                      - columnheader "Cost" [ref=e1527] [cursor=pointer]:
+                        - text: Cost
+                        - img [ref=e1529]: help_outline
+                      - columnheader "Conversions" [ref=e1531] [cursor=pointer]:
+                        - text: Conversions
+                        - img [ref=e1533]: help_outline
+                      - columnheader "Conv. rate" [ref=e1535] [cursor=pointer]:
+                        - text: Conv. rate
+                        - img [ref=e1537]: help_outline
+                      - columnheader "Account labels" [ref=e1539]:
+                        - text: Account labels
+                        - img [ref=e1541]: help_outline
+                    - row "Select row Enabled Boats Ibiza 826-343-5799 Show all accounts hierarchy 96.9% Etavrian MCC (This manager) 837-167-0101 show 1 more Google Ads 25,112 517,075 4.86% €0.36 €9,061.63 2,246.00 6.55%" [ref=e1543]:
+                      - gridcell "Select row" [ref=e1544]:
+                        - checkbox "Select row" [ref=e1547] [cursor=pointer]:
+                          - img [ref=e1549]
+                      - gridcell "Enabled" [ref=e1550]:
+                        - img "Enabled" [ref=e1552]
+                      - gridcell "Boats Ibiza 826-343-5799 Show all accounts hierarchy" [ref=e1553]:
+                        - button [ref=e1555] [cursor=pointer]:
+                          - img [ref=e1556]: expand_more
+                        - generic [ref=e1559]:
+                          - link "Boats Ibiza" [ref=e1561] [cursor=pointer]:
+                            - /url: /aw/overview?ocid=1187578302&ascid=1187578302&authuser=0&__u=6216113857&__c=4614269072
+                          - generic [ref=e1562]: 826-343-5799
+                        - button "Show all accounts hierarchy" [ref=e1564] [cursor=pointer]:
+                          - img [ref=e1567]: account_tree
+                      - gridcell "96.9%" [ref=e1569]:
+                        - link "96.9%" [ref=e1573] [cursor=pointer]:
+                          - /url: /aw/recommendations?ocid=1187578302&ascid=1187578302&src=OptimizationScoreColumn&authuser=0&__u=6216113857&__c=4614269072
+                      - gridcell "Etavrian MCC (This manager) 837-167-0101 show 1 more" [ref=e1574]:
+                        - generic [ref=e1575]:
+                          - generic [ref=e1576]:
+                            - generic [ref=e1577]: Etavrian MCC (This manager)
+                            - generic [ref=e1578]: 837-167-0101
+                          - button "show 1 more" [ref=e1579] [cursor=pointer]:
+                            - generic [ref=e1580]: +1 MORE
+                      - gridcell "Google Ads" [ref=e1582]:
+                        - generic [ref=e1584]: Google Ads
+                      - gridcell "25,112" [ref=e1585]:
+                        - generic [ref=e1587]: 25,112
+                      - gridcell "517,075" [ref=e1588]:
+                        - generic [ref=e1590]: 517,075
+                      - gridcell "4.86%" [ref=e1591]:
+                        - generic [ref=e1593]: 4.86%
+                      - gridcell "€0.36" [ref=e1594]:
+                        - generic [ref=e1596]: €0.36
+                      - gridcell "€9,061.63" [ref=e1597]:
+                        - generic [ref=e1599]: €9,061.63
+                      - gridcell "2,246.00" [ref=e1600]:
+                        - generic [ref=e1602]: 2,246.00
+                      - gridcell "6.55%" [ref=e1603]:
+                        - generic [ref=e1605]: 6.55%
+                      - gridcell [ref=e1606]
+                    - row "Select row Enabled die-tierversicherer 776-424-5203 Show all accounts hierarchy 100% Etavrian MCC (This manager) 837-167-0101 Google Ads 1,478 86,127 1.72% €1.71 €2,533.46 37.00 1.96%" [ref=e1607]:
+                      - gridcell "Select row" [ref=e1608]:
+                        - checkbox "Select row" [ref=e1611] [cursor=pointer]:
+                          - img [ref=e1613]
+                      - gridcell "Enabled" [ref=e1614]:
+                        - img "Enabled" [ref=e1616]
+                      - gridcell "die-tierversicherer 776-424-5203 Show all accounts hierarchy" [ref=e1617]:
+                        - button [ref=e1619] [cursor=pointer]:
+                          - img [ref=e1620]: expand_more
+                        - generic [ref=e1623]:
+                          - link "die-tierversicherer" [ref=e1625] [cursor=pointer]:
+                            - /url: /aw/overview?ocid=8028279506&ascid=8028279506&authuser=0&__u=6216113857&__c=4614269072
+                          - generic [ref=e1626]: 776-424-5203
+                        - button "Show all accounts hierarchy" [ref=e1628] [cursor=pointer]:
+                          - img [ref=e1631]: account_tree
+                      - gridcell "100%" [ref=e1633]:
+                        - link "100%" [ref=e1637] [cursor=pointer]:
+                          - /url: /aw/recommendations?ocid=8028279506&ascid=8028279506&src=OptimizationScoreColumn&authuser=0&__u=6216113857&__c=4614269072
+                      - gridcell "Etavrian MCC (This manager) 837-167-0101" [ref=e1638]:
+                        - generic [ref=e1640]:
+                          - generic [ref=e1641]: Etavrian MCC (This manager)
+                          - generic [ref=e1642]: 837-167-0101
+                      - gridcell "Google Ads" [ref=e1643]:
+                        - generic [ref=e1645]: Google Ads
+                      - gridcell "1,478" [ref=e1646]:
+                        - generic [ref=e1648]: 1,478
+                      - gridcell "86,127" [ref=e1649]:
+                        - generic [ref=e1651]: 86,127
+                      - gridcell "1.72%" [ref=e1652]:
+                        - generic [ref=e1654]: 1.72%
+                      - gridcell "€1.71" [ref=e1655]:
+                        - generic [ref=e1657]: €1.71
+                      - gridcell "€2,533.46" [ref=e1658]:
+                        - generic [ref=e1660]: €2,533.46
+                      - gridcell "37.00" [ref=e1661]:
+                        - generic [ref=e1663]: "37.00"
+                      - gridcell "1.96%" [ref=e1664]:
+                        - generic [ref=e1666]: 1.96%
+                      - gridcell [ref=e1667]
+                    - row "Select row Enabled DOK 32 776-559-1062 Show all accounts hierarchy — Etavrian MCC (This manager) 837-167-0101 Google Ads 6,785 74,527 9.10% US$0.31 US$2,120.67 478.00 6.55%" [ref=e1668]:
+                      - gridcell "Select row" [ref=e1669]:
+                        - checkbox "Select row" [ref=e1672] [cursor=pointer]:
+                          - img [ref=e1674]
+                      - gridcell "Enabled" [ref=e1675]:
+                        - img "Enabled" [ref=e1677]
+                      - gridcell "DOK 32 776-559-1062 Show all accounts hierarchy" [ref=e1678]:
+                        - button [ref=e1680] [cursor=pointer]:
+                          - img [ref=e1681]: expand_more
+                        - generic [ref=e1684]:
+                          - link "DOK 32" [ref=e1686] [cursor=pointer]:
+                            - /url: /aw/overview?ocid=7578128785&ascid=7578128785&authuser=0&__u=6216113857&__c=4614269072
+                          - generic [ref=e1687]: 776-559-1062
+                        - button "Show all accounts hierarchy" [ref=e1689] [cursor=pointer]:
+                          - img [ref=e1692]: account_tree
+                      - gridcell "—" [ref=e1694]:
+                        - generic [ref=e1697]: —
+                      - gridcell "Etavrian MCC (This manager) 837-167-0101" [ref=e1698]:
+                        - generic [ref=e1700]:
+                          - generic [ref=e1701]: Etavrian MCC (This manager)
+                          - generic [ref=e1702]: 837-167-0101
+                      - gridcell "Google Ads" [ref=e1703]:
+                        - generic [ref=e1705]: Google Ads
+                      - gridcell "6,785" [ref=e1706]:
+                        - generic [ref=e1708]: 6,785
+                      - gridcell "74,527" [ref=e1709]:
+                        - generic [ref=e1711]: 74,527
+                      - gridcell "9.10%" [ref=e1712]:
+                        - generic [ref=e1714]: 9.10%
+                      - gridcell "US$0.31" [ref=e1715]:
+                        - generic [ref=e1717]: US$0.31
+                      - gridcell "US$2,120.67" [ref=e1718]:
+                        - generic [ref=e1720]: US$2,120.67
+                      - gridcell "478.00" [ref=e1721]:
+                        - generic [ref=e1723]: "478.00"
+                      - gridcell "6.55%" [ref=e1724]:
+                        - generic [ref=e1726]: 6.55%
+                      - gridcell [ref=e1727]
+                    - row "Select row Enabled Dr.Al Jundi Orthodontic & Dental Centre 392-033-3431 Show all accounts hierarchy 90.9% Etavrian MCC (This manager) 837-167-0101 Google Ads 14,854 499,339 2.97% AED0.84 AED12,527.96 256.29 1.63% Budget_Control" [ref=e1728]:
+                      - gridcell "Select row" [ref=e1729]:
+                        - checkbox "Select row" [ref=e1732] [cursor=pointer]:
+                          - img [ref=e1734]
+                      - gridcell "Enabled" [ref=e1735]:
+                        - img "Enabled" [ref=e1737]
+                      - gridcell "Dr.Al Jundi Orthodontic & Dental Centre 392-033-3431 Show all accounts hierarchy" [ref=e1738]:
+                        - button [ref=e1740] [cursor=pointer]:
+                          - img [ref=e1741]: expand_more
+                        - generic [ref=e1744]:
+                          - link "Dr.Al Jundi Orthodontic & Dental Centre" [ref=e1746] [cursor=pointer]:
+                            - /url: /aw/overview?ocid=6707611827&ascid=6707611827&authuser=0&__u=6216113857&__c=4614269072
+                          - generic [ref=e1747]: 392-033-3431
+                        - button "Show all accounts hierarchy" [ref=e1749] [cursor=pointer]:
+                          - img [ref=e1752]: account_tree
+                      - gridcell "90.9%" [ref=e1754]:
+                        - link "90.9%" [ref=e1758] [cursor=pointer]:
+                          - /url: /aw/recommendations?ocid=6707611827&ascid=6707611827&src=OptimizationScoreColumn&authuser=0&__u=6216113857&__c=4614269072
+                      - gridcell "Etavrian MCC (This manager) 837-167-0101" [ref=e1759]:
+                        - generic [ref=e1761]:
+                          - generic [ref=e1762]: Etavrian MCC (This manager)
+                          - generic [ref=e1763]: 837-167-0101
+                      - gridcell "Google Ads" [ref=e1764]:
+                        - generic [ref=e1766]: Google Ads
+                      - gridcell "14,854" [ref=e1767]:
+                        - generic [ref=e1769]: 14,854
+                      - gridcell "499,339" [ref=e1770]:
+                        - generic [ref=e1772]: 499,339
+                      - gridcell "2.97%" [ref=e1773]:
+                        - generic [ref=e1775]: 2.97%
+                      - gridcell "AED0.84" [ref=e1776]:
+                        - generic [ref=e1778]: AED0.84
+                      - gridcell "AED12,527.96" [ref=e1779]:
+                        - generic [ref=e1781]: AED12,527.96
+                      - gridcell "256.29" [ref=e1782]:
+                        - generic [ref=e1784]: "256.29"
+                      - gridcell "1.63%" [ref=e1785]:
+                        - generic [ref=e1787]: 1.63%
+                      - gridcell "Budget_Control" [ref=e1788]:
+                        - generic [ref=e1794]: Budget_Control
+                    - row "Select row Enabled GBRIS 632-389-9447 Show all accounts hierarchy 85% Etavrian MCC (This manager) 837-167-0101 show 1 more Google Ads 31,368 227,637 13.78% €0.48 €15,036.37 568.00 1.81%" [ref=e1795]:
+                      - gridcell "Select row" [ref=e1796]:
+                        - checkbox "Select row" [ref=e1799] [cursor=pointer]:
+                          - img [ref=e1801]
+                      - gridcell "Enabled" [ref=e1802]:
+                        - img "Enabled" [ref=e1804]
+                      - gridcell "GBRIS 632-389-9447 Show all accounts hierarchy" [ref=e1805]:
+                        - button [ref=e1807] [cursor=pointer]:
+                          - img [ref=e1808]: expand_more
+                        - generic [ref=e1811]:
+                          - link "GBRIS" [ref=e1813] [cursor=pointer]:
+                            - /url: /aw/overview?ocid=1583022360&ascid=1583022360&authuser=0&__u=6216113857&__c=4614269072
+                          - generic [ref=e1814]: 632-389-9447
+                        - button "Show all accounts hierarchy" [ref=e1816] [cursor=pointer]:
+                          - img [ref=e1819]: account_tree
+                      - gridcell "85%" [ref=e1821]:
+                        - link "85%" [ref=e1825] [cursor=pointer]:
+                          - /url: /aw/recommendations?ocid=1583022360&ascid=1583022360&src=OptimizationScoreColumn&authuser=0&__u=6216113857&__c=4614269072
+                      - gridcell "Etavrian MCC (This manager) 837-167-0101 show 1 more" [ref=e1826]:
+                        - generic [ref=e1827]:
+                          - generic [ref=e1828]:
+                            - generic [ref=e1829]: Etavrian MCC (This manager)
+                            - generic [ref=e1830]: 837-167-0101
+                          - button "show 1 more" [ref=e1831] [cursor=pointer]:
+                            - generic [ref=e1832]: +1 MORE
+                      - gridcell "Google Ads" [ref=e1834]:
+                        - generic [ref=e1836]: Google Ads
+                      - gridcell "31,368" [ref=e1837]:
+                        - generic [ref=e1839]: 31,368
+                      - gridcell "227,637" [ref=e1840]:
+                        - generic [ref=e1842]: 227,637
+                      - gridcell "13.78%" [ref=e1843]:
+                        - generic [ref=e1845]: 13.78%
+                      - gridcell "€0.48" [ref=e1846]:
+                        - generic [ref=e1848]: €0.48
+                      - gridcell "€15,036.37" [ref=e1849]:
+                        - generic [ref=e1851]: €15,036.37
+                      - gridcell "568.00" [ref=e1852]:
+                        - generic [ref=e1854]: "568.00"
+                      - gridcell "1.81%" [ref=e1855]:
+                        - generic [ref=e1857]: 1.81%
+                      - gridcell [ref=e1858]
+                    - row "Select row Enabled Light Cove 395-345-0843 Show all accounts hierarchy 74% Etavrian MCC (This manager) 837-167-0101 show 1 more Google Ads 20,409 1,426,044 1.43% US$1.67 US$34,144.13 524.79 0.19%" [ref=e1859]:
+                      - gridcell "Select row" [ref=e1860]:
+                        - checkbox "Select row" [ref=e1863] [cursor=pointer]:
+                          - img [ref=e1865]
+                      - gridcell "Enabled" [ref=e1866]:
+                        - img "Enabled" [ref=e1868]
+                      - gridcell "Light Cove 395-345-0843 Show all accounts hierarchy" [ref=e1869]:
+                        - button [ref=e1871] [cursor=pointer]:
+                          - img [ref=e1872]: expand_more
+                        - generic [ref=e1875]:
+                          - link "Light Cove" [ref=e1877] [cursor=pointer]:
+                            - /url: /aw/overview?ocid=1685330119&ascid=1685330119&authuser=0&__u=6216113857&__c=4614269072
+                          - generic [ref=e1878]: 395-345-0843
+                        - button "Show all accounts hierarchy" [ref=e1880] [cursor=pointer]:
+                          - img [ref=e1883]: account_tree
+                      - gridcell "74%" [ref=e1885]:
+                        - link "74%" [ref=e1889] [cursor=pointer]:
+                          - /url: /aw/recommendations?ocid=1685330119&ascid=1685330119&src=OptimizationScoreColumn&authuser=0&__u=6216113857&__c=4614269072
+                      - gridcell "Etavrian MCC (This manager) 837-167-0101 show 1 more" [ref=e1890]:
+                        - generic [ref=e1891]:
+                          - generic [ref=e1892]:
+                            - generic [ref=e1893]: Etavrian MCC (This manager)
+                            - generic [ref=e1894]: 837-167-0101
+                          - button "show 1 more" [ref=e1895] [cursor=pointer]:
+                            - generic [ref=e1896]: +1 MORE
+                      - gridcell "Google Ads" [ref=e1898]:
+                        - generic [ref=e1900]: Google Ads
+                      - gridcell "20,409" [ref=e1901]:
+                        - generic [ref=e1903]: 20,409
+                      - gridcell "1,426,044" [ref=e1904]:
+                        - generic [ref=e1906]: 1,426,044
+                      - gridcell "1.43%" [ref=e1907]:
+                        - generic [ref=e1909]: 1.43%
+                      - gridcell "US$1.67" [ref=e1910]:
+                        - generic [ref=e1912]: US$1.67
+                      - gridcell "US$34,144.13" [ref=e1913]:
+                        - generic [ref=e1915]: US$34,144.13
+                      - gridcell "524.79" [ref=e1916]:
+                        - generic [ref=e1918]: "524.79"
+                      - gridcell "0.19%" [ref=e1919]:
+                        - generic [ref=e1921]: 0.19%
+                      - gridcell [ref=e1922]
+                    - row "Select row Enabled minvoir.com 416-384-5005 Show all accounts hierarchy 100% Etavrian MCC (This manager) 837-167-0101 show 3 more Google Ads 12,240 824,939 1.48% €0.55 €6,729.91 151.00 0.74%" [ref=e1923]:
+                      - gridcell "Select row" [ref=e1924]:
+                        - checkbox "Select row" [ref=e1927] [cursor=pointer]:
+                          - img [ref=e1929]
+                      - gridcell "Enabled" [ref=e1930]:
+                        - img "Enabled" [ref=e1932]
+                      - gridcell "minvoir.com 416-384-5005 Show all accounts hierarchy" [ref=e1933]:
+                        - button [ref=e1935] [cursor=pointer]:
+                          - img [ref=e1936]: expand_more
+                        - generic [ref=e1939]:
+                          - link "minvoir.com" [ref=e1941] [cursor=pointer]:
+                            - /url: /aw/overview?ocid=854964407&ascid=854964407&authuser=0&__u=6216113857&__c=4614269072
+                          - generic [ref=e1942]: 416-384-5005
+                        - button "Show all accounts hierarchy" [ref=e1944] [cursor=pointer]:
+                          - img [ref=e1947]: account_tree
+                      - gridcell "100%" [ref=e1949]:
+                        - link "100%" [ref=e1953] [cursor=pointer]:
+                          - /url: /aw/recommendations?ocid=854964407&ascid=854964407&src=OptimizationScoreColumn&authuser=0&__u=6216113857&__c=4614269072
+                      - gridcell "Etavrian MCC (This manager) 837-167-0101 show 3 more" [ref=e1954]:
+                        - generic [ref=e1955]:
+                          - generic [ref=e1956]:
+                            - generic [ref=e1957]: Etavrian MCC (This manager)
+                            - generic [ref=e1958]: 837-167-0101
+                          - button "show 3 more" [ref=e1959] [cursor=pointer]:
+                            - generic [ref=e1960]: +3 MORE
+                      - gridcell "Google Ads" [ref=e1962]:
+                        - generic [ref=e1964]: Google Ads
+                      - gridcell "12,240" [ref=e1965]:
+                        - generic [ref=e1967]: 12,240
+                      - gridcell "824,939" [ref=e1968]:
+                        - generic [ref=e1970]: 824,939
+                      - gridcell "1.48%" [ref=e1971]:
+                        - generic [ref=e1973]: 1.48%
+                      - gridcell "€0.55" [ref=e1974]:
+                        - generic [ref=e1976]: €0.55
+                      - gridcell "€6,729.91" [ref=e1977]:
+                        - generic [ref=e1979]: €6,729.91
+                      - gridcell "151.00" [ref=e1980]:
+                        - generic [ref=e1982]: "151.00"
+                      - gridcell "0.74%" [ref=e1983]:
+                        - generic [ref=e1985]: 0.74%
+                      - gridcell [ref=e1986]
+                    - row "Select row Enabled MyLove MyTreasure | USD 510-466-8717 Show all accounts hierarchy — Etavrian MCC (This manager) 837-167-0101 show 2 more Google Ads 1,478 97,178 1.52% US$0.61 US$895.49 1.00 0.04%" [ref=e1987]:
+                      - gridcell "Select row" [ref=e1988]:
+                        - checkbox "Select row" [ref=e1991] [cursor=pointer]:
+                          - img [ref=e1993]
+                      - gridcell "Enabled" [ref=e1994]:
+                        - img "Enabled" [ref=e1996]
+                      - gridcell "MyLove MyTreasure | USD 510-466-8717 Show all accounts hierarchy" [ref=e1997]:
+                        - button [ref=e1999] [cursor=pointer]:
+                          - img [ref=e2000]: expand_more
+                        - generic [ref=e2003]:
+                          - link "MyLove MyTreasure | USD" [ref=e2005] [cursor=pointer]:
+                            - /url: /aw/overview?ocid=7961922141&ascid=7961922141&authuser=0&__u=6216113857&__c=4614269072
+                          - generic [ref=e2006]: 510-466-8717
+                        - button "Show all accounts hierarchy" [ref=e2008] [cursor=pointer]:
+                          - img [ref=e2011]: account_tree
+                      - gridcell "—" [ref=e2013]:
+                        - generic [ref=e2016]: —
+                      - gridcell "Etavrian MCC (This manager) 837-167-0101 show 2 more" [ref=e2017]:
+                        - generic [ref=e2018]:
+                          - generic [ref=e2019]:
+                            - generic [ref=e2020]: Etavrian MCC (This manager)
+                            - generic [ref=e2021]: 837-167-0101
+                          - button "show 2 more" [ref=e2022] [cursor=pointer]:
+                            - generic [ref=e2023]: +2 MORE
+                      - gridcell "Google Ads" [ref=e2025]:
+                        - generic [ref=e2027]: Google Ads
+                      - gridcell "1,478" [ref=e2028]:
+                        - generic [ref=e2030]: 1,478
+                      - gridcell "97,178" [ref=e2031]:
+                        - generic [ref=e2033]: 97,178
+                      - gridcell "1.52%" [ref=e2034]:
+                        - generic [ref=e2036]: 1.52%
+                      - gridcell "US$0.61" [ref=e2037]:
+                        - generic [ref=e2039]: US$0.61
+                      - gridcell "US$895.49" [ref=e2040]:
+                        - generic [ref=e2042]: US$895.49
+                      - gridcell "1.00" [ref=e2043]:
+                        - generic [ref=e2045]: "1.00"
+                      - gridcell "0.04%" [ref=e2046]:
+                        - generic [ref=e2048]: 0.04%
+                      - gridcell [ref=e2049]
+                    - row "Select row Enabled MyLoveMyTreasure 794-297-1747 Show all accounts hierarchy 98.1% Etavrian MCC (This manager) 837-167-0101 show 4 more Google Ads 1,120 140,564 0.80% €1.38 €1,543.12 47.00 0.36%" [ref=e2050]:
+                      - gridcell "Select row" [ref=e2051]:
+                        - checkbox "Select row" [ref=e2054] [cursor=pointer]:
+                          - img [ref=e2056]
+                      - gridcell "Enabled" [ref=e2057]:
+                        - img "Enabled" [ref=e2059]
+                      - gridcell "MyLoveMyTreasure 794-297-1747 Show all accounts hierarchy" [ref=e2060]:
+                        - button [ref=e2062] [cursor=pointer]:
+                          - img [ref=e2063]: expand_more
+                        - generic [ref=e2066]:
+                          - link "MyLoveMyTreasure" [ref=e2068] [cursor=pointer]:
+                            - /url: /aw/overview?ocid=6610102295&ascid=6610102295&authuser=0&__u=6216113857&__c=4614269072
+                          - generic [ref=e2069]: 794-297-1747
+                        - button "Show all accounts hierarchy" [ref=e2071] [cursor=pointer]:
+                          - img [ref=e2074]: account_tree
+                      - gridcell "98.1%" [ref=e2076]:
+                        - link "98.1%" [ref=e2080] [cursor=pointer]:
+                          - /url: /aw/recommendations?ocid=6610102295&ascid=6610102295&src=OptimizationScoreColumn&authuser=0&__u=6216113857&__c=4614269072
+                      - gridcell "Etavrian MCC (This manager) 837-167-0101 show 4 more" [ref=e2081]:
+                        - generic [ref=e2082]:
+                          - generic [ref=e2083]:
+                            - generic [ref=e2084]: Etavrian MCC (This manager)
+                            - generic [ref=e2085]: 837-167-0101
+                          - button "show 4 more" [ref=e2086] [cursor=pointer]:
+                            - generic [ref=e2087]: +4 MORE
+                      - gridcell "Google Ads" [ref=e2089]:
+                        - generic [ref=e2091]: Google Ads
+                      - gridcell "1,120" [ref=e2092]:
+                        - generic [ref=e2094]: 1,120
+                      - gridcell "140,564" [ref=e2095]:
+                        - generic [ref=e2097]: 140,564
+                      - gridcell "0.80%" [ref=e2098]:
+                        - generic [ref=e2100]: 0.80%
+                      - gridcell "€1.38" [ref=e2101]:
+                        - generic [ref=e2103]: €1.38
+                      - gridcell "€1,543.12" [ref=e2104]:
+                        - generic [ref=e2106]: €1,543.12
+                      - gridcell "47.00" [ref=e2107]:
+                        - generic [ref=e2109]: "47.00"
+                      - gridcell "0.36%" [ref=e2110]:
+                        - generic [ref=e2112]: 0.36%
+                      - gridcell [ref=e2113]
+                    - row "Select row Enabled Planck Identity 832-179-9039 Show all accounts hierarchy 88.2% Etavrian MCC (This manager) 837-167-0101 Google Ads 4,673 119,700 3.90% €0.17 €798.96 2,734.00 32.25%" [ref=e2114]:
+                      - gridcell "Select row" [ref=e2115]:
+                        - checkbox "Select row" [ref=e2118] [cursor=pointer]:
+                          - img [ref=e2120]
+                      - gridcell "Enabled" [ref=e2121]:
+                        - img "Enabled" [ref=e2123]
+                      - gridcell "Planck Identity 832-179-9039 Show all accounts hierarchy" [ref=e2124]:
+                        - button [ref=e2126] [cursor=pointer]:
+                          - img [ref=e2127]: expand_more
+                        - generic [ref=e2130]:
+                          - link "Planck Identity" [ref=e2132] [cursor=pointer]:
+                            - /url: /aw/overview?ocid=7935887173&ascid=7935887173&authuser=0&__u=6216113857&__c=4614269072
+                          - generic [ref=e2133]: 832-179-9039
+                        - button "Show all accounts hierarchy" [ref=e2135] [cursor=pointer]:
+                          - img [ref=e2138]: account_tree
+                      - gridcell "88.2%" [ref=e2140]:
+                        - link "88.2%" [ref=e2144] [cursor=pointer]:
+                          - /url: /aw/recommendations?ocid=7935887173&ascid=7935887173&src=OptimizationScoreColumn&authuser=0&__u=6216113857&__c=4614269072
+                      - gridcell "Etavrian MCC (This manager) 837-167-0101" [ref=e2145]:
+                        - generic [ref=e2147]:
+                          - generic [ref=e2148]: Etavrian MCC (This manager)
+                          - generic [ref=e2149]: 837-167-0101
+                      - gridcell "Google Ads" [ref=e2150]:
+                        - generic [ref=e2152]: Google Ads
+                      - gridcell "4,673" [ref=e2153]:
+                        - generic [ref=e2155]: 4,673
+                      - gridcell "119,700" [ref=e2156]:
+                        - generic [ref=e2158]: 119,700
+                      - gridcell "3.90%" [ref=e2159]:
+                        - generic [ref=e2161]: 3.90%
+                      - gridcell "€0.17" [ref=e2162]:
+                        - generic [ref=e2164]: €0.17
+                      - gridcell "€798.96" [ref=e2165]:
+                        - generic [ref=e2167]: €798.96
+                      - gridcell "2,734.00" [ref=e2168]:
+                        - generic [ref=e2170]: 2,734.00
+                      - gridcell "32.25%" [ref=e2171]:
+                        - generic [ref=e2173]: 32.25%
+                      - gridcell [ref=e2174]
+                    - 'row "Filtered total: 0 Manager, 15 Accounts 133,635 4,864,547 2.75% — — 8,045.08 1.83%" [ref=e2211]':
+                      - gridcell [ref=e2212]
+                      - 'gridcell "Filtered total: 0 Manager, 15 Accounts"':
+                        - generic [ref=e2214]: "Filtered total: 0 Manager, 15 Accounts"
+                      - gridcell [ref=e2215]:
+                        - button [ref=e2217] [cursor=pointer]:
+                          - img [ref=e2218]: expand_more
+                      - gridcell [ref=e2219]
+                      - gridcell [ref=e2220]
+                      - gridcell [ref=e2221]
+                      - gridcell [ref=e2222]
+                      - gridcell "133,635" [ref=e2223]:
+                        - generic [ref=e2225]: 133,635
+                      - gridcell "4,864,547" [ref=e2226]:
+                        - generic [ref=e2228]: 4,864,547
+                      - gridcell "2.75%" [ref=e2229]:
+                        - generic [ref=e2231]: 2.75%
+                      - gridcell "—" [ref=e2232]:
+                        - generic [ref=e2234]: —
+                      - gridcell "—" [ref=e2235]:
+                        - generic [ref=e2237]: —
+                      - gridcell "8,045.08" [ref=e2238]:
+                        - generic [ref=e2240]: 8,045.08
+                      - gridcell "1.83%" [ref=e2241]:
+                        - generic [ref=e2243]: 1.83%
+                      - gridcell [ref=e2244]
+                    - 'row "Total: 0 Manager, 15 Accounts 133,635 4,864,547 2.75% UAH35.10 UAH4,690,712.28 8,045.08 1.83%" [ref=e2245]':
+                      - gridcell [ref=e2246]
+                      - 'gridcell "Total: 0 Manager, 15 Accounts"':
+                        - generic [ref=e2248]: "Total: 0 Manager, 15 Accounts"
+                      - gridcell [ref=e2249]:
+                        - button [ref=e2251] [cursor=pointer]:
+                          - img [ref=e2252]: expand_more
+                      - gridcell [ref=e2253]
+                      - gridcell [ref=e2254]
+                      - gridcell [ref=e2255]
+                      - gridcell [ref=e2256]
+                      - gridcell "133,635" [ref=e2257]:
+                        - generic [ref=e2259]: 133,635
+                      - gridcell "4,864,547" [ref=e2260]:
+                        - generic [ref=e2262]: 4,864,547
+                      - gridcell "2.75%" [ref=e2263]:
+                        - generic [ref=e2265]: 2.75%
+                      - gridcell "UAH35.10" [ref=e2266]:
+                        - generic [ref=e2268]: UAH35.10
+                      - gridcell "UAH4,690,712.28" [ref=e2269]:
+                        - generic [ref=e2271]: UAH4,690,712.28
+                      - gridcell "8,045.08" [ref=e2272]:
+                        - generic [ref=e2274]: 8,045.08
+                      - gridcell "1.83%" [ref=e2275]:
+                        - generic [ref=e2277]: 1.83%
+                      - gridcell [ref=e2278]
+                  - generic [ref=e2182]:
+                    - generic [ref=e2183]:
+                      - generic [ref=e2184]: Show rows
+                      - button "Show rows 10 selected." [ref=e2187] [cursor=pointer]:
+                        - generic [ref=e2188]: "10"
+                        - img [ref=e2190]: arrow_drop_down
+                    - generic [ref=e2191]:
+                      - generic [ref=e2193]: 1 - 10 of 15
+                      - generic [ref=e2194]:
+                        - button "Go to the first page" [disabled] [ref=e2195]:
+                          - generic:
+                            - generic:
+                              - img: first_page
+                        - button "Go to the previous page" [disabled] [ref=e2196]:
+                          - generic:
+                            - generic:
+                              - img: chevron_left
+                        - button "Go to the next page" [ref=e2197] [cursor=pointer]:
+                          - img [ref=e2200]: chevron_right
+                        - button "Go to the last page" [ref=e2202] [cursor=pointer]:
+                          - img [ref=e2205]: last_page
+              - generic [ref=e2208]: © Google, 2026.
+  - generic:
+    - dialog:
+      - generic:
+        - generic:
+          - heading [level=1]: Turn off ad blockers
+          - paragraph: Google Ads can't work when you're using an ad blocker. To use Google Ads, please turn off any ad blockers for now.
+  - generic:
+    - generic:
+      - generic:
+        - dialog "dialogue"
+  - generic:
+    - generic:
+      - generic:
+        - dialog "dialogue"
+  - generic:
+    - generic:
+      - generic:
+        - dialog "dialogue"

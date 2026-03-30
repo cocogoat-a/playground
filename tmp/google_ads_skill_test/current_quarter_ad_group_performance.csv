@@ -1,0 +1,11 @@
+Campaign report
+1 January 2026 - 26 March 2026
+Campaign status,Campaign,Budget,Budget name,Budget type,Status,Status reasons,Optimisation score,Campaign type,Impr.,Interactions,Interaction rate,Currency code,Avg. cost,Cost,Bid strategy type,Conv. rate,Conversions,Cost / conv.
+Enabled,ADa - Eng,20.00, --,Daily,Eligible (Limited),unknown; limited by budget,95.89,Search,"8,824",421,4.77%,AED,3.92,1649.27,Manual CPC,0.48%,2.00,824.63
+Paused,ADa - Pmax - Local,10.00, --,Daily,Paused,campaign paused; most asset groups limited by policy, --,Performance Max,0,0, --,AED,0,0.00,Maximise Conversions,0.00%,0.00,0.00
+Enabled,ADa - PMax,140.00, --,Daily,Eligible (Limited),most asset groups limited by policy,90.20,Performance Max,"490,515","15,338",3.13%,AED,0.71,10878.69,Maximise Conversions,1.66%,254.29,42.78
+Enabled,ADa - Eng Eng broad KW,20.00, --,Daily,Ended,unknown; campaign ended, --,Search,0,0, --,AED,0,0.00,Maximise Conversions,0.00%,0.00,0.00
+Total: Campaigns, --, --, --, --, --,, --, --,"499,339","15,759",3.16%,AED,0.79,12527.96, --,1.63%,256.29,48.88
+Total: Account,,,,,,,,,"499,339","15,759",3.16%,AED,0.79,12527.96,,1.63%,256.29,48.88
+Total: Search,,,,,,,,Search,"8,824",421,4.77%,AED,3.92,1649.27,,0.48%,2.00,824.63
+Total: Performance Max,,,,,,,,Performance Max,"490,515","15,338",3.13%,AED,0.71,10878.69,,1.66%,254.29,42.78

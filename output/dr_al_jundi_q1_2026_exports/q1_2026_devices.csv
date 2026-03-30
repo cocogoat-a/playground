@@ -1,0 +1,18 @@
+Device report
+1 January 2026 - 26 March 2026
+Device,Level,Campaign,Ad group,Bid adj.,Ad group bid adj.,Impr.,Interactions,Interaction rate,Currency code,Avg. cost,Cost,Conv. rate,Conversions,Cost / conv.
+Tablets,Campaign,ADa - Eng Eng broad KW, --, --,None,0,0, --,AED,0,0.00,0.00%,0.00,0.00
+Computers,Campaign,ADa - Eng Eng broad KW, --, --,None,0,0, --,AED,0,0.00,0.00%,0.00,0.00
+Mobile Phones,Campaign,ADa - Eng Eng broad KW, --, --,None,0,0, --,AED,0,0.00,0.00%,0.00,0.00
+TV screens,Campaign,ADa - PMax, --,-100%,None,0,0, --,AED,0,0.00,0.00%,0.00,0.00
+Mobile Phones,Campaign,ADa - PMax, --, --,None,"487,684","15,265",3.13%,AED,0.71,10831.95,1.67%,254.29,42.60
+Computers,Campaign,ADa - PMax, --, --,None,"2,776",68,2.45%,AED,0.67,45.85,0.00%,0.00,0.00
+Tablets,Campaign,ADa - PMax, --,-100%,None,0,0, --,AED,0,0.00,0.00%,0.00,0.00
+Computers,Campaign,ADa - Eng, --, --,None,783,24,3.07%,AED,4.43,106.29,4.17%,1.00,106.29
+Mobile Phones,Campaign,ADa - Eng, --, --,None,"8,017",396,4.94%,AED,3.89,1539.53,0.25%,1.00,1539.53
+Tablets,Campaign,ADa - Eng, --, --,None,24,1,4.17%,AED,3.45,3.45,0.00%,0.00,0.00
+TV screens,Campaign,ADa - Pmax - Local, --,-100%,None,0,0, --,AED,0,0.00,0.00%,0.00,0.00
+Tablets,Campaign,ADa - Pmax - Local, --,-100%,None,0,0, --,AED,0,0.00,0.00%,0.00,0.00
+Mobile Phones,Campaign,ADa - Pmax - Local, --, --,None,0,0, --,AED,0,0.00,0.00%,0.00,0.00
+Computers,Campaign,ADa - Pmax - Local, --,-100%,None,0,0, --,AED,0,0.00,0.00%,0.00,0.00
+,,,,Total: Account,,"499,284","15,754",3.16%,AED,0.80,12527.06,1.63%,256.29,48.88

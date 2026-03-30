@@ -1,0 +1,49 @@
+- generic [ref=e13]:
+  - generic [ref=e16]: team@etavrian.com
+  - generic [ref=e18]:
+    - heading "Google Ads account selection" [active] [level=2] [ref=e19]: Select a Google Ads account
+    - menu [ref=e21]:
+      - menuitem "Coddies US 170-607-4568" [ref=e22] [cursor=pointer]:
+        - generic [ref=e24]: Coddies US
+        - generic [ref=e25]: 170-607-4568
+      - menuitem "Etavrian - Andrii Daniv Manager 606-647-7223" [ref=e26] [cursor=pointer]:
+        - generic [ref=e27]:
+          - generic [ref=e28]: Etavrian - Andrii Daniv
+          - generic [ref=e29]: Manager
+        - generic [ref=e30]: 606-647-7223
+      - menuitem "UAParts - автозапчастини 805-922-3012" [ref=e31] [cursor=pointer]:
+        - generic [ref=e33]: UAParts - автозапчастини
+        - generic [ref=e34]: 805-922-3012
+      - menuitem "Hark Music 915-818-2194" [ref=e35] [cursor=pointer]:
+        - generic [ref=e37]: Hark Music
+        - generic [ref=e38]: 915-818-2194
+      - menuitem "Listique 815-896-5472" [ref=e39] [cursor=pointer]:
+        - generic [ref=e41]: Listique
+        - generic [ref=e42]: 815-896-5472
+      - menuitem "cabinetsbay.com (Cancelled) 685-216-0543" [ref=e43] [cursor=pointer]:
+        - generic [ref=e44]:
+          - generic [ref=e45]: cabinetsbay.com
+          - generic [ref=e46]: (Cancelled)
+        - generic [ref=e47]: 685-216-0543
+      - menuitem "StolOss 272-255-7699" [ref=e48] [cursor=pointer]:
+        - generic [ref=e50]: StolOss
+        - generic [ref=e51]: 272-255-7699
+      - menuitem "LS22WS - Manager Account Manager 922-421-4556" [ref=e52] [cursor=pointer]:
+        - generic [ref=e53]:
+          - generic [ref=e54]: LS22WS - Manager Account
+          - generic [ref=e55]: Manager
+        - generic [ref=e56]: 922-421-4556
+      - menuitem "Chainstorm Ads Manager 629-911-8345" [ref=e57] [cursor=pointer]:
+        - generic [ref=e58]:
+          - generic [ref=e59]: Chainstorm Ads
+          - generic [ref=e60]: Manager
+        - generic [ref=e61]: 629-911-8345
+      - menuitem "Etavrian MCC Manager 837-167-0101" [ref=e62] [cursor=pointer]:
+        - generic [ref=e63]:
+          - generic [ref=e64]: Etavrian MCC
+          - generic [ref=e65]: Manager
+        - generic [ref=e66]: 837-167-0101
+    - button "New Google Ads account" [ref=e68]:
+      - generic [ref=e71]: New Google Ads account
+    - button "Switch Google account" [ref=e73]:
+      - generic [ref=e76]: Switch Google account

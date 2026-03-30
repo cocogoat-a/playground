@@ -1,0 +1,573 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - banner "Top navigation" [ref=e6]:
+      - status
+      - generic [ref=e7]:
+        - button [expanded] [ref=e8] [cursor=pointer]:
+          - img [ref=e11]: menu
+        - heading "Google Ads – Go to starting page" [level=1] [ref=e13]:
+          - button "Google Ads – Go to starting page" [ref=e14]:
+            - img [ref=e16] [cursor=pointer]
+      - button "Open Google Account menu" [ref=e27]
+    - generic [ref=e30]:
+      - generic [ref=e32]:
+        - generic [ref=e33]:
+          - generic [ref=e34]:
+            - button "Create" [ref=e36] [cursor=pointer]:
+              - img [ref=e39]
+            - generic [ref=e41]: Create
+          - menu [ref=e42]:
+            - menu [ref=e43]:
+              - menuitem "Accounts" [ref=e46] [cursor=pointer]:
+                - generic [ref=e47]:
+                  - img [ref=e49]: team_drive_outline
+                  - generic [ref=e50]: Accounts
+              - menuitem "Campaigns" [ref=e53] [cursor=pointer]:
+                - generic [ref=e54]:
+                  - img [ref=e56]: campaign
+                  - generic [ref=e57]: Campaigns
+              - menuitem "Goals" [ref=e60] [cursor=pointer]:
+                - generic [ref=e61]:
+                  - img [ref=e63]: rewarded_ads
+                  - generic [ref=e64]: Goals
+              - menuitem "Tools" [ref=e67] [cursor=pointer]:
+                - generic [ref=e68]:
+                  - img [ref=e70]: construction
+                  - generic [ref=e71]: Tools
+              - menuitem "Billing" [ref=e74] [cursor=pointer]:
+                - generic [ref=e75]:
+                  - img [ref=e77]: credit_card
+                  - generic [ref=e78]: Billing
+              - menuitem "Admin" [ref=e81] [cursor=pointer]:
+                - generic [ref=e82]:
+                  - img [ref=e84]: settings
+                  - generic [ref=e85]: Admin
+        - navigation [ref=e86]:
+          - menu [ref=e87]:
+            - generic [ref=e88]:
+              - menuitem "Overview" [ref=e91] [cursor=pointer]:
+                - generic [ref=e93]: Overview
+              - menuitem "Recommendations" [ref=e97] [cursor=pointer]:
+                - generic [ref=e99]: Recommendations
+              - menuitem "Insights and reports" [ref=e103] [cursor=pointer]:
+                - generic [ref=e104]:
+                  - generic [ref=e105]: Insights and reports
+                  - img [ref=e108]: expand_more
+              - menuitem "Campaigns" [ref=e111] [cursor=pointer]:
+                - generic [ref=e112]:
+                  - generic [ref=e113]: Campaigns
+                  - img [ref=e116]: expand_more
+              - menuitem "Assets" [ref=e119] [cursor=pointer]:
+                - generic [ref=e120]:
+                  - generic [ref=e121]: Assets
+                  - img [ref=e124]: expand_more
+              - menuitem "Audiences, keywords and content" [ref=e127] [cursor=pointer]:
+                - generic [ref=e128]:
+                  - generic [ref=e129]: Audiences, keywords and content
+                  - img [ref=e132]: expand_more
+              - menuitem "Change history" [ref=e135] [cursor=pointer]:
+                - generic [ref=e137]: Change history
+          - group [ref=e141]:
+            - generic [ref=e142]:
+              - generic [ref=e143]:
+                - generic "Get the Google Ads app" [ref=e144]:
+                  - img [ref=e146]: app_promo
+                  - generic [ref=e147]: Get the Google Ads app
+                - button "Get the Google Ads app dismiss" [ref=e148] [cursor=pointer]:
+                  - img [ref=e151]: close
+              - generic [ref=e153]:
+                - img "QR Code for Ads Mobile" [ref=e154]
+                - generic "Scan to download the mobile app and get updates for your campaigns on the go" [ref=e155]
+      - generic [ref=e161]:
+        - generic [ref=e163]:
+          - heading "Overview" [level=2] [ref=e166]
+          - generic [ref=e169]:
+            - generic [ref=e171] [cursor=pointer]:
+              - generic [ref=e172]: Custom
+              - generic [ref=e174]:
+                - button "1 Jan - 26 Mar 2026 Not applicable" [ref=e176]:
+                  - generic [ref=e177]: 1 Jan - 26 Mar 2026
+                  - img [ref=e179]: arrow_drop_down
+                - generic [ref=e180]:
+                  - button "Previous" [ref=e181]:
+                    - img [ref=e184]: chevron_left
+                  - button "Next" [disabled]:
+                    - generic:
+                      - generic:
+                        - img: chevron_right
+            - button "Show last 30 days" [ref=e186] [cursor=pointer]:
+              - generic [ref=e187]: Show last 30 days
+        - main [ref=e193]:
+          - generic [ref=e195]:
+            - application [ref=e198]:
+              - application [ref=e200]:
+                - generic [ref=e201]:
+                  - tablist [ref=e205]:
+                    - tab "Home" [selected] [ref=e206] [cursor=pointer]:
+                      - generic [ref=e207]: Home
+                  - button "Add custom view" [expanded] [ref=e210] [cursor=pointer]:
+                    - generic [ref=e211]:
+                      - img [ref=e213]: add
+                      - text: Add custom view
+                  - img [ref=e216] [cursor=pointer]: help_outline
+                - generic [ref=e218]:
+                  - button "Button to download the overview cards content in a selected format." [ref=e221] [cursor=pointer]:
+                    - generic [ref=e223]:
+                      - img [ref=e224]: file_download
+                      - text: Download
+                  - button "Button to submit feedback about the overview page." [ref=e228] [cursor=pointer]:
+                    - generic [ref=e230]:
+                      - img [ref=e231]: feedback
+                      - text: Feedback
+                - list [ref=e233]:
+                  - listitem "Card 1 of 0. Use arrow keys to move to another card, tab to enter card content." [ref=e235]:
+                    - generic [ref=e237]:
+                      - heading "Time series" [level=1]
+                      - generic [ref=e238]:
+                        - generic [ref=e239]:
+                          - generic [ref=e240] [cursor=pointer]:
+                            - 'button "Choose metric 1 of 4 for the Time series card. Current metric: Clicks" [ref=e241]':
+                              - 'generic "Choose metric 1 of 4 for the Time series card. Current metric: Clicks" [ref=e242]':
+                                - generic [ref=e243]: Clicks
+                                - text: arrow_drop_down
+                            - button "Clicks. 133,582. Hide this metric in the time series chart." [ref=e244]:
+                              - generic "133,582" [ref=e245]: 134k
+                          - generic [ref=e246] [cursor=pointer]:
+                            - 'button "Choose metric 2 of 4 for the Time series card. Current metric: Impressions" [ref=e247]':
+                              - 'generic "Choose metric 2 of 4 for the Time series card. Current metric: Impressions" [ref=e248]':
+                                - generic [ref=e249]: Impressions
+                                - text: arrow_drop_down
+                            - button "Impressions. 4,863,004. Hide this metric in the time series chart." [ref=e250]:
+                              - generic "4,863,004" [ref=e251]: 4.86m
+                          - generic [ref=e252] [cursor=pointer]:
+                            - 'button "Choose metric 3 of 4 for the Time series card. Current metric: Avg. CPC"':
+                              - 'generic "Choose metric 3 of 4 for the Time series card. Current metric: Avg. CPC"':
+                                - generic: Avg. CPC
+                            - button "Avg. CPC. UAH35.09. Show this metric in the time series chart and allow metric to be changed." [ref=e253]:
+                              - generic "UAH35.09" [ref=e254]: ₴35.09
+                          - generic [ref=e255] [cursor=pointer]:
+                            - 'button "Choose metric 4 of 4 for the Time series card. Current metric: Cost"':
+                              - 'generic "Choose metric 4 of 4 for the Time series card. Current metric: Cost"':
+                                - generic: Cost
+                            - button "Cost. UAH4,687,393.07. Show this metric in the time series chart and allow metric to be changed." [ref=e256]:
+                              - generic "UAH4,687,393.07" [ref=e257]: ₴4.69m
+                        - button "A menu with additional card options. Press enter to open." [ref=e259] [cursor=pointer]:
+                          - img [ref=e262]: more_vert
+                      - generic [ref=e269]: Time series chart showing the performance of your account over time for up to four selected metrics. Use left and right keys to move between date points.
+                  - generic [ref=e272]:
+                    - listitem "Card 1 of 0. Use arrow keys to move to another card, tab to enter card content." [ref=e273]:
+                      - generic [ref=e275]:
+                        - generic [ref=e276]:
+                          - generic [ref=e277]:
+                            - img [ref=e279]: lightbulb
+                            - heading "Optimisation score" [level=1] [ref=e280]
+                          - button "A menu with additional card options. Press enter to open." [ref=e284] [cursor=pointer]:
+                            - img [ref=e287]: more_vert
+                        - generic [ref=e290]:
+                          - generic [ref=e291]:
+                            - generic [ref=e292]:
+                              - link "Your optimisation score is 87.4%." [ref=e293] [cursor=pointer]: 87.4%
+                              - progressbar "Active progress" [ref=e296]
+                            - generic [ref=e300]:
+                              - generic [ref=e301]:
+                                - generic [ref=e302]: Your optimisation score
+                                - button "More information" [ref=e304] [cursor=pointer]:
+                                  - img [ref=e306]: help_outline
+                              - generic [ref=e307]: Increase your score by applying the recommendations in these accounts
+                          - grid "Use arrow keys to move between rows" [ref=e308]:
+                            - rowgroup [ref=e309]:
+                              - row "The optimisation score for vamu.io is 73.9%. Use the Enter key to go to the corresponding recommendations." [ref=e310] [cursor=pointer]:
+                                - gridcell "73.9%" [ref=e311]
+                                - gridcell "vamu.io" [ref=e312]
+                                - gridcell [ref=e313]:
+                                  - img [ref=e315]: east
+                              - row "The optimisation score for Light Cove is 74%. Use the Enter key to go to the corresponding recommendations." [ref=e316] [cursor=pointer]:
+                                - gridcell "74%" [ref=e317]
+                                - gridcell "Light Cove" [ref=e318]
+                                - gridcell [ref=e319]:
+                                  - img [ref=e321]: east
+                              - row "The optimisation score for GBRIS is 85%. Use the Enter key to go to the corresponding recommendations." [ref=e322] [cursor=pointer]:
+                                - gridcell "85%" [ref=e323]
+                                - gridcell "GBRIS" [ref=e324]
+                                - gridcell [ref=e325]:
+                                  - img [ref=e327]: east
+                              - row "The optimisation score for Planck Identity is 88.2%. Use the Enter key to go to the corresponding recommendations." [ref=e328] [cursor=pointer]:
+                                - gridcell "88.2%" [ref=e329]
+                                - gridcell "Planck Identity" [ref=e330]
+                                - gridcell [ref=e331]:
+                                  - img [ref=e333]: east
+                              - row "The optimisation score for Dr.Al Jundi Orthodontic & Dental Centre is 90.9%. Use the Enter key to go to the corresponding recommendations." [ref=e334] [cursor=pointer]:
+                                - gridcell "90.9%" [ref=e335]
+                                - gridcell "Dr.Al Jundi Orthodontic & Dental Centre" [ref=e336]
+                                - gridcell [ref=e337]:
+                                  - img [ref=e339]: east
+                              - row "The optimisation score for Boats Ibiza is 96.9%. Use the Enter key to go to the corresponding recommendations." [ref=e340] [cursor=pointer]:
+                                - gridcell "96.9%" [ref=e341]
+                                - gridcell "Boats Ibiza" [ref=e342]
+                                - gridcell [ref=e343]:
+                                  - img [ref=e345]: east
+                              - row "The optimisation score for Wondertivity is 97%. Use the Enter key to go to the corresponding recommendations." [ref=e346] [cursor=pointer]:
+                                - gridcell "97%" [ref=e347]
+                                - gridcell "Wondertivity" [ref=e348]
+                                - gridcell [ref=e349]:
+                                  - img [ref=e351]: east
+                              - row "The optimisation score for MyLoveMyTreasure is 98.1%. Use the Enter key to go to the corresponding recommendations." [ref=e352] [cursor=pointer]:
+                                - gridcell "98.1%" [ref=e353]
+                                - gridcell "MyLoveMyTreasure" [ref=e354]
+                                - gridcell [ref=e355]:
+                                  - img [ref=e357]: east
+                              - row "The optimisation score for Wildlife Troopers is 99.7%. Use the Enter key to go to the corresponding recommendations." [ref=e358] [cursor=pointer]:
+                                - gridcell "99.7%" [ref=e359]
+                                - gridcell "Wildlife Troopers" [ref=e360]
+                                - gridcell [ref=e361]:
+                                  - img [ref=e363]: east
+                              - row "The optimisation score for minvoir.com is 100%. Use the Enter key to go to the corresponding recommendations." [ref=e364] [cursor=pointer]:
+                                - gridcell "100%" [ref=e365]
+                                - gridcell "minvoir.com" [ref=e366]
+                                - gridcell [ref=e367]:
+                                  - img [ref=e369]: east
+                              - row "The optimisation score for die-tierversicherer is 100%. Use the Enter key to go to the corresponding recommendations." [ref=e370] [cursor=pointer]:
+                                - gridcell "100%" [ref=e371]
+                                - gridcell "die-tierversicherer" [ref=e372]
+                                - gridcell [ref=e373]:
+                                  - img [ref=e375]: east
+                              - row "The optimisation score for VibeMenu is 100%. Use the Enter key to go to the corresponding recommendations." [ref=e376] [cursor=pointer]:
+                                - gridcell "100%" [ref=e377]
+                                - gridcell "VibeMenu" [ref=e378]
+                                - gridcell [ref=e379]:
+                                  - img [ref=e381]: east
+                        - generic [ref=e382]:
+                          - button "Go to the recommendations place" [ref=e384] [cursor=pointer]:
+                            - generic [ref=e385]: All recommendations
+                          - generic [ref=e387]:
+                            - generic:
+                              - img: keyboard_arrow_left
+                            - generic [ref=e388]: 1 / 3
+                            - img [ref=e390] [cursor=pointer]: keyboard_arrow_right
+                    - listitem "Card 1 of 0. Use arrow keys to move to another card, tab to enter card content." [ref=e391]:
+                      - generic [ref=e393]:
+                        - generic [ref=e394]:
+                          - generic [ref=e395]:
+                            - img [ref=e397]: add_ad
+                            - heading "Biggest changes" [level=1] [ref=e398]
+                          - generic [ref=e400]:
+                            - 'button "Choose a metric for the Biggest changes card. Current metric: Cost" [ref=e401]':
+                              - 'generic "Choose a metric for the Biggest changes card. Current metric: Cost" [ref=e402] [cursor=pointer]':
+                                - generic [ref=e403]: Cost
+                                - text: arrow_drop_down
+                            - button "A menu with additional card options. Press enter to open." [ref=e405] [cursor=pointer]:
+                              - img [ref=e408]: more_vert
+                        - generic [ref=e411]:
+                          - generic [ref=e412]: Biggest changes to your campaigns and ad groups
+                          - generic [ref=e413]:
+                            - text: 1 Jan - 26 Mar 2026 compared to 8 Oct - 31 Dec 2025
+                            - button "Press enter for more information on date range comparison." [ref=e414] [cursor=pointer]:
+                              - img [ref=e416]: help_outline
+                          - region "Use arrow keys to move between rows" [ref=e417]:
+                            - list [ref=e418]:
+                              - listitem [ref=e419]:
+                                - generic [ref=e423]:
+                                  - img [ref=e426]: circle
+                                  - generic [ref=e427]:
+                                    - generic [ref=e428]:
+                                      - generic [ref=e429]: Light Cove
+                                      - generic [ref=e430]: ›
+                                    - generic [ref=e431]: ADa - PMax - bestsellers + Alabaster - US
+                                  - generic [ref=e436]:
+                                    - generic [ref=e437]: +UAH426,202.21
+                                    - generic [ref=e438]: +∞
+                              - listitem [ref=e440]:
+                                - generic [ref=e444]:
+                                  - img [ref=e447]: circle
+                                  - generic [ref=e448]:
+                                    - generic [ref=e449]:
+                                      - generic [ref=e450]: Light Cove
+                                      - generic [ref=e451]: ›
+                                    - generic [ref=e452]: ADa - PMax - US - tCPA
+                                  - generic [ref=e457]:
+                                    - generic [ref=e458]: +UAH373,412.68
+                                    - generic [ref=e459]: +750.80%
+                              - listitem [ref=e461]:
+                                - generic [ref=e465]:
+                                  - img [ref=e468]: circle
+                                  - generic [ref=e469]:
+                                    - generic [ref=e470]:
+                                      - generic [ref=e471]: Light Cove
+                                      - generic [ref=e472]: ›
+                                    - generic [ref=e473]: ADa - PMax - US - tROAS
+                                  - generic [ref=e478]:
+                                    - generic [ref=e479]: +UAH283,203.81
+                                    - generic [ref=e480]: +∞
+                              - listitem [ref=e482]:
+                                - generic [ref=e486]:
+                                  - img [ref=e489]: circle
+                                  - generic [ref=e490]:
+                                    - generic [ref=e491]:
+                                      - generic [ref=e492]: Wildlife Troopers
+                                      - generic [ref=e493]: ›
+                                    - generic [ref=e494]: ADa - PMax | Wildlife animal
+                                  - generic [ref=e499]:
+                                    - generic [ref=e500]: +UAH191,522.21
+                                    - generic [ref=e501]: +∞
+                              - listitem [ref=e503]:
+                                - generic [ref=e507]:
+                                  - img [ref=e510]: circle
+                                  - generic [ref=e511]:
+                                    - generic [ref=e512]:
+                                      - generic [ref=e513]: vamu.io
+                                      - generic [ref=e514]: ›
+                                    - generic [ref=e515]: ADa - Saudi Arabia
+                                  - generic [ref=e520]:
+                                    - generic [ref=e521]: +UAH156,261.54
+                                    - generic [ref=e522]: +∞
+                              - listitem [ref=e524]:
+                                - generic [ref=e528]:
+                                  - img [ref=e531]: circle
+                                  - generic [ref=e532]:
+                                    - generic [ref=e533]:
+                                      - generic [ref=e534]: Boats Ibiza
+                                      - generic [ref=e535]: ›
+                                    - generic [ref=e536]: "[ADa] - PMax_CA"
+                                  - generic [ref=e541]:
+                                    - generic [ref=e542]: +UAH116,054.87
+                                    - generic [ref=e543]: +∞
+                        - generic [ref=e546]:
+                          - generic:
+                            - img: keyboard_arrow_left
+                          - generic [ref=e547]: 1 / 8
+                          - img [ref=e549] [cursor=pointer]: keyboard_arrow_right
+                    - listitem "Card 1 of 0. Use arrow keys to move to another card, tab to enter card content."
+                    - listitem "Card 1 of 0. Use arrow keys to move to another card, tab to enter card content."
+                    - listitem "Card 1 of 0. Use arrow keys to move to another card, tab to enter card content." [ref=e550]:
+                      - generic [ref=e552]:
+                        - generic [ref=e553]:
+                          - generic [ref=e554]:
+                            - img [ref=e556]: share_eta
+                            - heading "Day & hour" [level=1] [ref=e557]
+                          - generic [ref=e559]:
+                            - 'button "Choose a metric for the Day & hour card. Current metric: Impressions" [ref=e560]':
+                              - 'generic "Choose a metric for the Day & hour card. Current metric: Impressions" [ref=e561] [cursor=pointer]':
+                                - generic [ref=e562]: Impressions
+                                - text: arrow_drop_down
+                            - button "A menu with additional card options. Press enter to open." [ref=e564] [cursor=pointer]:
+                              - img [ref=e567]: more_vert
+                        - generic [ref=e570]:
+                          - generic [ref=e571]: Your performance by day of week and time of day
+                          - tablist [ref=e573]:
+                            - tab "Day" [selected] [ref=e575] [cursor=pointer]:
+                              - generic [ref=e576]: Day
+                            - tab "Day & hour":
+                              - generic: Day & hour
+                            - tab "Hour":
+                              - generic: Hour
+                          - generic [ref=e578]:
+                            - generic [ref=e579]:
+                              - generic [ref=e580]: S
+                              - generic [ref=e581]: M
+                              - generic [ref=e582]: T
+                              - generic [ref=e583]: W
+                              - generic [ref=e584]: T
+                              - generic [ref=e585]: F
+                              - generic [ref=e586]: S
+                            - grid [ref=e587]:
+                              - generic [ref=e588]:
+                                - row [ref=e589]:
+                                  - gridcell [ref=e590]
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                - row [ref=e591]:
+                                  - gridcell [ref=e592]
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                - row [ref=e593]:
+                                  - gridcell [ref=e594]
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                - row [ref=e595]:
+                                  - gridcell [ref=e596]
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                - row [ref=e597]:
+                                  - gridcell [ref=e598]
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                - row [ref=e599]:
+                                  - gridcell [ref=e600]
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                - row [ref=e601]:
+                                  - gridcell [ref=e602]
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                                  - gridcell
+                            - generic [ref=e610]:
+                              - generic [ref=e611]: "00"
+                              - generic [ref=e612]: "06"
+                              - generic [ref=e613]: "12"
+                              - generic [ref=e614]: "18"
+                              - generic [ref=e615]: "00"
+                    - listitem "Card 1 of 0. Use arrow keys to move to another card, tab to enter card content."
+                    - listitem "Card 1 of 0. Use arrow keys to move to another card, tab to enter card content."
+            - generic [ref=e617]:
+              - generic [ref=e618]:
+                - link "Reporting is not carried out in real time." [ref=e620] [cursor=pointer]:
+                  - /url: https://support.google.com/google-ads/?p=help_2544985&hl=en_GB
+                - text: "Time zone for all dates and times: (GMT+02:00) Eastern European Time."
+                - link "Learn more about changing your Google Ads account settings" [ref=e622] [cursor=pointer]:
+                  - /url: https://support.google.com/google-ads/?p=help_9842104&hl=en_GB
+                  - text: Learn more
+                - generic [ref=e623]: Some inventory may be provided through third-party intermediaries.
+                - generic [ref=e624]: You'll see Media Rating Council (MRC) accreditation noted in the column header's hover text for accredited metrics.
+              - generic [ref=e625]: © Google, 2026.
+  - generic:
+    - dialog:
+      - generic:
+        - generic:
+          - heading [level=1]: Turn off ad blockers
+          - paragraph: Google Ads can't work when you're using an ad blocker. To use Google Ads, please turn off any ad blockers for now.

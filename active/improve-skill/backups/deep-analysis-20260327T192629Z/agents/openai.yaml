@@ -1,0 +1,7 @@
+interface:
+  display_name: "Deep Analysis"
+  short_description: "Three-pass 15-agent analysis workflow"
+  default_prompt: "Use $deep-analysis to run a three-pass 15-agent analysis, synthesize the result, and publish it to a designed Notion page."
+
+policy:
+  allow_implicit_invocation: false

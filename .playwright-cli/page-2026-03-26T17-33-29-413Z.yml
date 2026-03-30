@@ -1,0 +1,348 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - banner "Top navigation" [ref=e6]:
+      - status
+      - generic [ref=e7]:
+        - button [expanded] [ref=e8] [cursor=pointer]:
+          - img [ref=e11]: menu
+        - heading "Google Ads – Go to starting page" [level=1] [ref=e13]:
+          - button "Google Ads – Go to starting page" [ref=e14]:
+            - img [ref=e16] [cursor=pointer]
+        - button "Etavrian MCC 837-167-0101 Open account picker." [expanded] [ref=e966] [cursor=pointer]:
+          - generic [ref=e633]:
+            - generic [ref=e634]: Etavrian MCC
+            - generic [ref=e635]: 837-167-0101
+            - img [ref=e637]: arrow_drop_down
+          - dialog "Open account picker." [ref=e967]:
+            - generic "Open account picker." [active] [ref=e972]:
+              - generic [ref=e973]:
+                - generic [ref=e975]:
+                  - generic "Etavrian MCC" [ref=e979]
+                  - button "Search customers" [ref=e982]:
+                    - img "Search customers" [ref=e983]: search
+                - 'button "Account Status: Active, Draft" [ref=e987]'
+              - generic [ref=e990]:
+                - generic [ref=e992]:
+                  - generic [ref=e994]: Recent
+                  - menu [ref=e995]:
+                    - generic "Recently viewed Customer" [ref=e996]:
+                      - group [ref=e997]:
+                        - menuitemradio "DOK 32 Etavrian MCC" [ref=e998]:
+                          - generic [ref=e1003]:
+                            - generic [ref=e1005]: DOK 32
+                            - generic [ref=e1007]: Etavrian MCC
+                        - generic [ref=e1008]: 776-559-1062
+                    - generic "Recently viewed Customer" [ref=e1009]:
+                      - group [ref=e1010]:
+                        - menuitemradio "Dr.Al Jundi Orthodontic & Dental Centre Etavrian MCC" [ref=e1011]:
+                          - generic [ref=e1016]:
+                            - generic [ref=e1018]: Dr.Al Jundi Orthodontic & Dental Centre
+                            - generic [ref=e1020]: Etavrian MCC
+                        - generic [ref=e1021]: 392-033-3431
+                    - generic "Recently viewed Customer" [ref=e1022]:
+                      - group [ref=e1023]:
+                        - menuitemradio "Wondertivity Etavrian MCC" [ref=e1024]:
+                          - generic [ref=e1029]:
+                            - generic [ref=e1031]: Wondertivity
+                            - generic [ref=e1033]: Etavrian MCC
+                        - generic [ref=e1034]: 123-178-3909
+                    - generic "Recently viewed Customer" [ref=e1035]:
+                      - group [ref=e1036]:
+                        - menuitemradio "Boats Ibiza Etavrian MCC" [ref=e1037]:
+                          - generic [ref=e1042]:
+                            - generic [ref=e1044]: Boats Ibiza
+                            - generic [ref=e1046]: Etavrian MCC
+                        - generic [ref=e1047]: 826-343-5799
+                - menubar [ref=e1048]:
+                  - generic [ref=e1049]: Accounts
+                  - group [ref=e1051]:
+                    - menuitemradio "All Etavrian MCC accounts" [checked] [ref=e1052]:
+                      - generic [ref=e1053]: All Etavrian MCC accounts
+                  - group [ref=e1057]:
+                    - menuitemradio "Boats Ibiza" [ref=e1058]:
+                      - generic [ref=e1065]: Boats Ibiza
+                    - generic [ref=e1066]: 826-343-5799
+                  - group [ref=e1070]:
+                    - menuitemradio "DOK 32" [ref=e1071]:
+                      - generic [ref=e1078]: DOK 32
+                    - generic [ref=e1079]: 776-559-1062
+                  - group [ref=e1083]:
+                    - menuitemradio "Dr.Al Jundi Orthodontic & Dental Centre" [ref=e1084]:
+                      - generic [ref=e1091]: Dr.Al Jundi Orthodontic & Dental Centre
+                    - generic [ref=e1092]: 392-033-3431
+                  - group [ref=e1096]:
+                    - menuitemradio "GBRIS" [ref=e1097]:
+                      - generic [ref=e1104]: GBRIS
+                    - generic [ref=e1105]: 632-389-9447
+                  - group [ref=e1109]:
+                    - menuitemradio "Light Cove" [ref=e1110]:
+                      - generic [ref=e1117]: Light Cove
+                    - generic [ref=e1118]: 395-345-0843
+                  - group [ref=e1122]:
+                    - menuitemradio "MyLove MyTreasure | USD" [ref=e1123]:
+                      - generic [ref=e1130]: MyLove MyTreasure | USD
+                    - generic [ref=e1131]: 510-466-8717
+                  - group [ref=e1135]:
+                    - menuitemradio "MyLoveMyTreasure" [ref=e1136]:
+                      - generic [ref=e1143]: MyLoveMyTreasure
+                    - generic [ref=e1144]: 794-297-1747
+                  - group [ref=e1148]:
+                    - menuitemradio "Planck Identity" [ref=e1149]:
+                      - generic [ref=e1156]: Planck Identity
+                    - generic [ref=e1157]: 832-179-9039
+                  - group [ref=e1161]:
+                    - menuitemradio "Toptent.co" [ref=e1162]:
+                      - generic [ref=e1169]: Toptent.co
+                    - generic [ref=e1170]: 485-088-9644
+                  - group [ref=e1174]:
+                    - menuitemradio "VibeMenu" [ref=e1175]:
+                      - generic [ref=e1182]: VibeMenu
+                    - generic [ref=e1183]: 687-772-1898
+                  - group [ref=e1187]:
+                    - menuitemradio "Wildlife Troopers" [ref=e1188]:
+                      - generic [ref=e1195]: Wildlife Troopers
+                    - generic [ref=e1196]: 685-492-6713
+                  - group [ref=e1200]:
+                    - menuitemradio "Wondertivity" [ref=e1201]:
+                      - generic [ref=e1208]: Wondertivity
+                    - generic [ref=e1209]: 123-178-3909
+                  - group [ref=e1213]:
+                    - menuitemradio "die-tierversicherer" [ref=e1214]:
+                      - generic [ref=e1221]: die-tierversicherer
+                    - generic [ref=e1222]: 776-424-5203
+                  - group [ref=e1226]:
+                    - menuitemradio "minvoir.com" [ref=e1227]:
+                      - generic [ref=e1234]: minvoir.com
+                    - generic [ref=e1235]: 416-384-5005
+                  - group [ref=e1239]:
+                    - menuitemradio "vamu.io" [ref=e1240]:
+                      - generic [ref=e1247]: vamu.io
+                    - generic [ref=e1248]: 296-087-4452
+      - generic [ref=e639]:
+        - button "Page search" [ref=e642] [cursor=pointer]:
+          - generic [ref=e644]:
+            - img [ref=e645]: search
+            - text: Search
+        - generic [ref=e647]:
+          - button "Ads advisor" [ref=e648] [cursor=pointer]:
+            - generic [ref=e649]:
+              - generic [ref=e650]:
+                - img [ref=e651]: button_magic
+                - text: Ads Advisor
+              - generic [ref=e652]: Beta
+          - button "Appearance" [ref=e656] [cursor=pointer]:
+            - generic [ref=e658]:
+              - img [ref=e659]: responsive_layout
+              - text: Appearance
+          - button "Refresh" [ref=e663] [cursor=pointer]:
+            - generic [ref=e665]:
+              - img [ref=e666]: refresh
+              - text: Refresh
+          - button "Open the quick help panel" [ref=e669] [cursor=pointer]:
+            - generic [ref=e670]:
+              - text: Help
+              - generic [ref=e671]:
+                - img [ref=e672]: help_outline
+                - text: Help
+          - button "Notifications" [ref=e679] [cursor=pointer]:
+            - generic [ref=e681]:
+              - img [ref=e684]: notifications
+              - generic [ref=e686]: Notifications
+      - button "Google Account" [ref=e691] [cursor=pointer]:
+        - img "Google Account (team@etavrian.com)" [ref=e692]
+    - generic [ref=e29]:
+      - generic [ref=e697]:
+        - img [ref=e699]: report_problem
+        - generic [ref=e701]:
+          - status [ref=e702]:
+            - generic [ref=e704]: Call-only ads are being deprecated - Update to call assets by February 2027.
+          - generic [ref=e706]:
+            - button "Learn more" [ref=e709] [cursor=pointer]:
+              - generic [ref=e710]: Learn more
+            - button "Fix it" [ref=e713] [cursor=pointer]:
+              - generic [ref=e714]: Fix it
+            - button "Dismiss" [ref=e717] [cursor=pointer]:
+              - generic [ref=e718]: Dismiss
+      - generic [ref=e30]:
+        - generic [ref=e32]:
+          - generic [ref=e33]:
+            - generic [ref=e34]:
+              - button "Create" [ref=e36] [cursor=pointer]:
+                - img [ref=e39]
+              - generic [ref=e41]: Create
+            - menu [ref=e42]:
+              - menu [ref=e720]:
+                - menuitem "Campaigns" [ref=e723] [cursor=pointer]:
+                  - generic [ref=e724]:
+                    - img [ref=e726]: campaign
+                    - generic [ref=e727]: Campaigns
+                - menuitem "Goals" [ref=e730] [cursor=pointer]:
+                  - generic [ref=e731]:
+                    - img [ref=e733]: rewarded_ads
+                    - generic [ref=e734]: Goals
+                - menuitem "Tools" [ref=e737] [cursor=pointer]:
+                  - generic [ref=e738]:
+                    - img [ref=e740]: construction
+                    - generic [ref=e741]: Tools
+                - menuitem "Billing" [ref=e744] [cursor=pointer]:
+                  - generic [ref=e745]:
+                    - img [ref=e747]: credit_card
+                    - generic [ref=e748]: Billing
+                - menuitem "Admin" [ref=e751] [cursor=pointer]:
+                  - generic [ref=e752]:
+                    - img [ref=e754]: settings
+                    - generic [ref=e755]: Admin
+          - navigation [ref=e86]:
+            - menu [ref=e87]:
+              - generic [ref=e756]:
+                - menuitem "Overview" [ref=e759] [cursor=pointer]:
+                  - generic [ref=e761]: Overview
+                - menuitem "Recommendations" [ref=e765] [cursor=pointer]:
+                  - generic [ref=e767]: Recommendations
+                - menuitem "Insights and reports" [ref=e771] [cursor=pointer]:
+                  - generic [ref=e772]:
+                    - generic [ref=e773]: Insights and reports
+                    - img [ref=e776]: expand_more
+                - menuitem "Campaigns" [ref=e779] [cursor=pointer]:
+                  - generic [ref=e780]:
+                    - generic [ref=e781]: Campaigns
+                    - img [ref=e784]: expand_more
+                - menuitem "Assets" [ref=e787] [cursor=pointer]:
+                  - generic [ref=e788]:
+                    - generic [ref=e789]: Assets
+                    - img [ref=e792]: expand_more
+                - menuitem "Products" [ref=e795] [cursor=pointer]:
+                  - generic [ref=e796]:
+                    - generic [ref=e797]: Products
+                    - img [ref=e800]: expand_more
+                - menuitem "Audiences, keywords and content" [ref=e803] [cursor=pointer]:
+                  - generic [ref=e804]:
+                    - generic [ref=e805]: Audiences, keywords and content
+                    - img [ref=e808]: expand_more
+                - menuitem "Change history" [ref=e811] [cursor=pointer]:
+                  - generic [ref=e813]: Change history
+            - group [ref=e141]:
+              - generic [ref=e142]:
+                - generic [ref=e143]:
+                  - generic "Get the Google Ads app" [ref=e144]:
+                    - img [ref=e146]: app_promo
+                    - generic [ref=e147]: Get the Google Ads app
+                  - button "Get the Google Ads app dismiss" [ref=e148] [cursor=pointer]:
+                    - img [ref=e151]: close
+                - generic [ref=e153]:
+                  - img "QR Code for Ads Mobile" [ref=e154]
+                  - generic "Scan to download the mobile app and get updates for your campaigns on the go" [ref=e155]
+        - generic [ref=e156]:
+          - generic [ref=e816]:
+            - button "View (2 filters) All campaigns" [ref=e821] [cursor=pointer]:
+              - generic [ref=e822]:
+                - generic [ref=e823]: View (2 filters)
+                - generic [ref=e824]:
+                  - img [ref=e827]: home
+                  - button "All campaigns" [ref=e828]
+              - img [ref=e830]: arrow_drop_down
+            - button "Campaigns (321) Select a campaign" [ref=e835] [cursor=pointer]:
+              - generic [ref=e836]:
+                - generic [ref=e837]: Campaigns (321)
+                - generic [ref=e838]: Select a campaign
+              - img [ref=e840]: arrow_drop_down
+          - group [ref=e843]:
+            - generic [ref=e844]:
+              - generic [ref=e845] [cursor=pointer]:
+                - generic: Filters
+              - generic: "Filters Applied:"
+              - grid "Filters Applied:" [ref=e846]:
+                - 'row "Campaign status: Enabled, Paused" [ref=e848] [cursor=pointer]':
+                  - 'gridcell "Campaign status: Enabled, Paused" [ref=e849]':
+                    - 'button "Campaign status: Enabled, Paused" [ref=e850]': "Campaign status: Enabled, Paused"
+                - 'row "Ad group status: Enabled, Paused" [ref=e852] [cursor=pointer]':
+                  - 'gridcell "Ad group status: Enabled, Paused" [ref=e853]':
+                    - 'button "Ad group status: Enabled, Paused" [ref=e854]': "Ad group status: Enabled, Paused"
+                - row [ref=e855]:
+                  - gridcell [ref=e856]:
+                    - combobox "Add filter" [ref=e857]
+                    - status [ref=e858]
+              - button "Save" [ref=e861] [cursor=pointer]:
+                - generic [ref=e862]:
+                  - img [ref=e864]: save
+                  - generic [ref=e865]: Save
+          - generic [ref=e161]:
+            - generic [ref=e162]:
+              - generic [ref=e163]:
+                - heading "Recommendations" [level=2] [ref=e867]
+                - generic [ref=e868]:
+                  - button "View cards, selected." [ref=e869] [cursor=pointer]:
+                    - generic [ref=e870]:
+                      - img [ref=e872]: dashboard
+                      - generic [ref=e873]: View cards
+                  - button "View list" [ref=e875] [cursor=pointer]:
+                    - generic [ref=e876]:
+                      - img [ref=e878]: table_chart
+                      - generic [ref=e879]: View list
+                  - button "Export" [ref=e881] [cursor=pointer]:
+                    - generic [ref=e882]:
+                      - img [ref=e884]: download
+                      - generic [ref=e885]: Export
+              - tablist [ref=e890]:
+                - tab "Recommendations" [selected] [ref=e891] [cursor=pointer]:
+                  - generic [ref=e892]: Recommendations
+                - tab "Investment strategy" [ref=e894] [cursor=pointer]:
+                  - generic [ref=e895]: Investment strategy
+                - tab "Auto-apply settings" [ref=e897] [cursor=pointer]:
+                  - generic [ref=e898]: Auto-apply settings
+            - main [ref=e903]:
+              - generic [ref=e905]:
+                - generic [ref=e906]:
+                  - generic [ref=e907]:
+                    - generic [ref=e909]:
+                      - generic [ref=e912]:
+                        - paragraph [ref=e914]: 100%
+                        - progressbar "Your optimisation score is 100%" [ref=e916]
+                      - generic [ref=e919]:
+                        - heading "Your optimisation score More information" [level=3] [ref=e920]:
+                          - text: Your optimisation score
+                          - button "More information" [ref=e921] [cursor=pointer]:
+                            - img [ref=e923]: help_outline
+                        - button "1 campaign focus is unconfirmed 2 campaign focuses are confirmed" [ref=e924]:
+                          - generic [ref=e925]:
+                            - img [ref=e927]: help_outline
+                            - generic [ref=e928] [cursor=pointer]: 1 campaign focus is unconfirmed
+                          - generic [ref=e929]:
+                            - img [ref=e931]: check_circle_outline
+                            - generic [ref=e932] [cursor=pointer]: 2 campaign focuses are confirmed
+                    - grid [ref=e935]:
+                      - row "All Dismissed" [ref=e936]:
+                        - gridcell "All" [selected] [ref=e937] [cursor=pointer]:
+                          - img [ref=e940]: check
+                          - generic [ref=e941]: All
+                        - gridcell "Dismissed" [ref=e942] [cursor=pointer]:
+                          - generic [ref=e943]: Dismissed
+                  - generic [ref=e947]:
+                    - img [ref=e951]: lightbulb_outline
+                    - heading "You still have dismissed recommendations" [level=1] [ref=e952]
+                    - paragraph [ref=e953]:
+                      - text: Check again tomorrow to see if you have any new recommendations.
+                      - link "Learn more about recommendations" [ref=e955] [cursor=pointer]:
+                        - /url: https://support.google.com/google-ads/answer/3448398?hl=en_GB
+                        - text: Learn more
+                    - button "DISMISSED RECOMMENDATIONS" [ref=e957] [cursor=pointer]:
+                      - generic [ref=e958]: DISMISSED RECOMMENDATIONS
+                - generic [ref=e962]: © Google, 2026.
+  - generic:
+    - dialog:
+      - generic:
+        - generic:
+          - heading [level=1]: Turn off ad blockers
+          - paragraph: Google Ads can't work when you're using an ad blocker. To use Google Ads, please turn off any ad blockers for now.
+  - generic:
+    - generic:
+      - generic:
+        - dialog "dialogue"
+  - generic:
+    - generic:
+      - generic:
+        - dialog "dialogue"
+  - generic:
+    - generic:
+      - generic:
+        - dialog "dialogue"

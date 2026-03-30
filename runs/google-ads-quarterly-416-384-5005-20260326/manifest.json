@@ -1,0 +1,22 @@
+{
+  "target_cid": "416-384-5005",
+  "current_quarter": {
+    "label": "Current Quarter",
+    "start": "2026-01-01",
+    "end": "2026-03-26"
+  },
+  "last_quarter": {
+    "label": "Last Quarter",
+    "start": "2025-10-01",
+    "end": "2025-12-31"
+  },
+  "reports": [
+    "ad_group_performance",
+    "devices",
+    "locations",
+    "time_of_day",
+    "age",
+    "gender",
+    "household_income"
+  ]
+}

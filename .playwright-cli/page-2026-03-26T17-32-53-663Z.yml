@@ -1,0 +1,349 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - banner "Top navigation" [ref=e6]:
+      - status
+      - generic [ref=e7]:
+        - button [expanded] [ref=e8] [cursor=pointer]:
+          - img [ref=e11]: menu
+        - heading "Google Ads – Go to starting page" [level=1] [ref=e13]:
+          - button "Google Ads – Go to starting page" [disabled] [ref=e14]:
+            - img [ref=e16] [cursor=pointer]
+        - button "Etavrian - Andrii Daniv 606-647-7223" [ref=e1717] [cursor=pointer]:
+          - generic [ref=e29]:
+            - generic [ref=e30]: Etavrian - Andrii Daniv
+            - generic [ref=e31]: 606-647-7223
+            - img [ref=e33]: arrow_drop_down
+      - generic [ref=e36]:
+        - button "Page search" [ref=e39] [cursor=pointer]:
+          - generic [ref=e41]:
+            - img [ref=e42]: search
+            - text: Search
+        - generic [ref=e44]:
+          - button "Appearance" [ref=e47] [cursor=pointer]:
+            - generic [ref=e49]:
+              - img [ref=e50]: responsive_layout
+              - text: Appearance
+          - button "Refresh" [ref=e54] [cursor=pointer]:
+            - generic [ref=e56]:
+              - img [ref=e57]: refresh
+              - text: Refresh
+          - button "Open the quick help panel" [ref=e60] [cursor=pointer]:
+            - generic [ref=e61]:
+              - text: Help
+              - generic [ref=e62]:
+                - img [ref=e63]: help_outline
+                - text: Help
+          - generic [ref=e67]:
+            - button "Notifications" [ref=e70] [cursor=pointer]:
+              - generic [ref=e72]:
+                - img [ref=e75]: notifications
+                - generic [ref=e77]: Notifications
+            - dialog "Notifications" [ref=e1718]:
+              - generic [ref=e1722]:
+                - generic [ref=e1723]:
+                  - img "Warning notification icon" [ref=e1725]: error_outline
+                  - button "Update payment methods in 2 accounts View" [ref=e1726] [cursor=pointer]:
+                    - text: Update payment methods in 2 accounts
+                    - generic [ref=e1727]: View
+                - generic [ref=e1728]:
+                  - img "Warning notification icon" [ref=e1730]: error_outline
+                  - button "2 accounts have no ads running View" [ref=e1731] [cursor=pointer]:
+                    - text: 2 accounts have no ads running
+                    - generic [ref=e1732]: View
+                - button "Close notifications" [ref=e1733] [cursor=pointer]:
+                  - img [ref=e1736]: clear
+      - button "Google Account" [ref=e104] [cursor=pointer]:
+        - img "Google Account (team@etavrian.com)" [ref=e105]
+    - generic [ref=e108]:
+      - generic [ref=e110]:
+        - generic [ref=e111]:
+          - generic [ref=e112]:
+            - button "Create" [ref=e114] [cursor=pointer]:
+              - img [ref=e117]
+            - generic [ref=e119]: Create
+          - menu [ref=e120]:
+            - menu [ref=e1738]:
+              - menuitem "Accounts" [ref=e1741] [cursor=pointer]:
+                - generic [ref=e1742]:
+                  - img [ref=e1744]: team_drive_outline
+                  - generic [ref=e1745]: Accounts
+              - menuitem "Campaigns" [ref=e1748] [cursor=pointer]:
+                - generic [ref=e1749]:
+                  - img [ref=e1751]: campaign
+                  - generic [ref=e1752]: Campaigns
+              - menuitem "Goals" [ref=e1755] [cursor=pointer]:
+                - generic [ref=e1756]:
+                  - img [ref=e1758]: rewarded_ads
+                  - generic [ref=e1759]: Goals
+              - menuitem "Tools" [ref=e1762] [cursor=pointer]:
+                - generic [ref=e1763]:
+                  - img [ref=e1765]: construction
+                  - generic [ref=e1766]: Tools
+              - menuitem "Billing" [ref=e1769] [cursor=pointer]:
+                - generic [ref=e1770]:
+                  - img [ref=e1772]: credit_card
+                  - generic [ref=e1773]: Billing
+              - menuitem "Admin" [ref=e1776] [cursor=pointer]:
+                - generic [ref=e1777]:
+                  - img [ref=e1779]: settings
+                  - generic [ref=e1780]: Admin
+        - navigation [ref=e164]:
+          - menu [ref=e165]:
+            - generic [ref=e1781]:
+              - menuitem "Performance" [ref=e1784] [cursor=pointer]:
+                - generic [ref=e1786]: Performance
+              - menuitem "Budgets" [ref=e1790] [cursor=pointer]:
+                - generic [ref=e1792]: Budgets
+              - menuitem "Notifications" [ref=e1796] [cursor=pointer]:
+                - generic [ref=e1798]: Notifications
+              - menuitem "Sub-account settings" [ref=e1802] [cursor=pointer]:
+                - generic [ref=e1804]: Sub-account settings
+          - group [ref=e219]:
+            - generic [ref=e220]:
+              - generic [ref=e221]:
+                - generic "Get the Google Ads app" [ref=e222]:
+                  - img [ref=e224]: app_promo
+                  - generic [ref=e225]: Get the Google Ads app
+                - button "Get the Google Ads app dismiss" [ref=e226] [cursor=pointer]:
+                  - img [ref=e229]: close
+              - generic [ref=e231]:
+                - img "QR Code for Ads Mobile" [ref=e232]
+                - generic "Scan to download the mobile app and get updates for your campaigns on the go" [ref=e233]
+      - generic [ref=e234]:
+        - generic [ref=e236]:
+          - generic [ref=e237]:
+            - button "View (2 filters) All campaigns" [ref=e242] [cursor=pointer]:
+              - generic [ref=e243]:
+                - generic [ref=e244]: View (2 filters)
+                - generic [ref=e245]:
+                  - img [ref=e248]: home
+                  - button "All campaigns" [ref=e249]
+              - img [ref=e251]: arrow_drop_down
+            - button "Campaigns (4) Select a campaign" [ref=e256] [cursor=pointer]:
+              - generic [ref=e257]:
+                - generic [ref=e258]: Campaigns (4)
+                - generic [ref=e259]: Select a campaign
+              - img [ref=e261]: arrow_drop_down
+          - generic [ref=e262]:
+            - img [ref=e264]: warning
+            - generic [ref=e265]: View filters aren't applied to this page
+        - group [ref=e269]:
+          - generic [ref=e270]:
+            - generic [ref=e271] [cursor=pointer]:
+              - generic: Filters
+            - generic: "Filters Applied:"
+            - grid "Filters Applied:" [ref=e272]:
+              - 'row "Campaign status: Enabled" [ref=e274] [cursor=pointer]':
+                - 'gridcell "Campaign status: Enabled" [ref=e275]':
+                  - 'button "Campaign status: Enabled" [ref=e276]': "Campaign status: Enabled"
+              - 'row "Ad group status: Enabled, Paused" [ref=e278] [cursor=pointer]':
+                - 'gridcell "Ad group status: Enabled, Paused" [ref=e279]':
+                  - 'button "Ad group status: Enabled, Paused" [ref=e280]': "Ad group status: Enabled, Paused"
+              - row [ref=e281]:
+                - gridcell [ref=e282]:
+                  - combobox "Add filter" [ref=e283]
+                  - status [ref=e284]
+            - button "Save" [ref=e287] [cursor=pointer]:
+              - generic [ref=e288]:
+                - img [ref=e290]: save
+                - generic [ref=e291]: Save
+        - generic [ref=e294]:
+          - generic [ref=e295]:
+            - generic [ref=e296]:
+              - heading "Performance" [level=2] [ref=e1806]
+              - generic [ref=e302]:
+                - generic [ref=e304] [cursor=pointer]:
+                  - generic [ref=e305]: Custom
+                  - generic [ref=e307]:
+                    - button "1 Jan - 26 Mar 2026 Not applicable" [ref=e309]:
+                      - generic [ref=e310]: 1 Jan - 26 Mar 2026
+                      - img [ref=e312]: arrow_drop_down
+                    - generic [ref=e313]:
+                      - button "Previous" [ref=e314]:
+                        - img [ref=e317]: chevron_left
+                      - button "Next" [disabled]:
+                        - generic:
+                          - generic:
+                            - img: chevron_right
+                - button "Show last 30 days" [ref=e319] [cursor=pointer]:
+                  - generic [ref=e320]: Show last 30 days
+            - tablist [ref=e1810]:
+              - tab "Table" [selected] [ref=e1811] [cursor=pointer]:
+                - generic [ref=e1812]: Table
+              - tab "Map" [ref=e1814] [cursor=pointer]:
+                - generic [ref=e1815]: Map
+          - main [ref=e1820]:
+            - generic [ref=e1822]:
+              - generic [ref=e1827]:
+                - generic: info Chart type Expand Adjust
+                - region "Primary toolbelt for Performance" [ref=e1832]:
+                  - generic [ref=e1833]:
+                    - button "Add account" [ref=e1837] [cursor=pointer]:
+                      - img [ref=e1840]: add
+                    - generic [ref=e1844] [cursor=pointer]:
+                      - group:
+                        - generic [ref=e1845]:
+                          - button "Show 1 active filters" [ref=e1848]:
+                            - generic [ref=e1850]:
+                              - img [ref=e1852]: filter_alt
+                              - generic [ref=e1853]: "1"
+                          - generic: "Filters Applied:"
+                          - grid "Filters Applied:"
+                      - generic [ref=e1855]:
+                        - generic [ref=e1856]: + 1 more
+                        - button "Add filter" [ref=e1857]:
+                          - generic [ref=e1858]: Add filter
+                  - generic [ref=e1860]:
+                    - search [ref=e1863] [cursor=pointer]:
+                      - button "Search" [ref=e1866]:
+                        - generic [ref=e1867]:
+                          - img [ref=e1869]: search
+                          - generic [ref=e1870]: Search
+                    - button "Hierarchy view" [ref=e1876] [cursor=pointer]
+                    - button "Expand all" [ref=e1886] [cursor=pointer]:
+                      - img [ref=e1889]: unfold_more
+                    - button "Layers" [ref=e1894] [cursor=pointer]:
+                      - generic [ref=e1895]:
+                        - img [ref=e1897]: layers
+                        - generic [ref=e1898]: Layers
+                    - button "Segment. Segmentation off" [ref=e1904] [cursor=pointer]:
+                      - generic [ref=e1905]:
+                        - img [ref=e1907]: segment
+                        - generic [ref=e1908]: Segment
+                    - button "Columns" [ref=e1914] [cursor=pointer]:
+                      - generic [ref=e1915]:
+                        - img [ref=e1917]: view_column
+                        - generic [ref=e1918]: Columns
+                    - button "Download" [ref=e1924] [cursor=pointer]:
+                      - generic [ref=e1925]:
+                        - img [ref=e1927]: file_download
+                        - generic [ref=e1928]: Download
+                    - button "Expand" [ref=e1934] [cursor=pointer]:
+                      - generic [ref=e1935]:
+                        - img [ref=e1937]: fullscreen
+                        - generic [ref=e1938]: Expand
+                    - button "More options" [ref=e1944] [cursor=pointer]:
+                      - generic [ref=e1945]:
+                        - img [ref=e1947]: more_vert
+                        - generic [ref=e1948]: More
+                    - button "Show chart" [ref=e1957] [cursor=pointer]:
+                      - img [ref=e1960]: keyboard_arrow_up
+                - grid "Performance" [ref=e1965]:
+                  - row "Select all rows status Account Optimisation score Direct manager Account type Clicks Impr. CTR Avg. CPC Conv. value / cost Cost Conv. value Cost / conv. Conversions Conv. rate Account labels" [ref=e1966]:
+                    - gridcell "Select all rows" [ref=e1967]:
+                      - checkbox "Select all rows" [ref=e1970] [cursor=pointer]:
+                        - img [ref=e1972]
+                    - columnheader "status" [ref=e1974] [cursor=pointer]:
+                      - img "status" [ref=e1975]
+                    - columnheader "Account" [ref=e1976] [cursor=pointer]:
+                      - button [ref=e1978]:
+                        - img [ref=e1979]: expand_more
+                      - text: Account
+                    - columnheader "Optimisation score" [ref=e1980] [cursor=pointer]:
+                      - text: Optimisation score
+                      - img [ref=e1982]: help_outline
+                    - columnheader "Direct manager" [ref=e1983] [cursor=pointer]:
+                      - text: Direct manager
+                      - img [ref=e1985]: help_outline
+                    - columnheader "Account type" [ref=e1986]
+                    - columnheader "Clicks" [ref=e1987] [cursor=pointer]:
+                      - text: Clicks
+                      - img [ref=e1989]: help_outline
+                    - columnheader "Impr." [ref=e1990] [cursor=pointer]:
+                      - text: Impr.
+                      - img [ref=e1992]: help_outline
+                    - columnheader "CTR" [ref=e1993] [cursor=pointer]:
+                      - text: CTR
+                      - img [ref=e1995]: help_outline
+                    - columnheader "Avg. CPC" [ref=e1996] [cursor=pointer]:
+                      - text: Avg. CPC
+                      - img [ref=e1998]: help_outline
+                    - columnheader "Conv. value / cost" [ref=e1999] [cursor=pointer]:
+                      - text: Conv. value / cost
+                      - img [ref=e2001]: help_outline
+                    - columnheader "Cost" [ref=e2002] [cursor=pointer]:
+                      - text: Cost
+                      - img [ref=e2004]: help_outline
+                    - columnheader "Conv. value" [ref=e2005] [cursor=pointer]:
+                      - text: Conv. value
+                      - img [ref=e2007]: help_outline
+                    - columnheader "Cost / conv." [ref=e2008] [cursor=pointer]:
+                      - text: Cost / conv.
+                      - img [ref=e2010]: help_outline
+                    - columnheader "Conversions" [ref=e2011] [cursor=pointer]:
+                      - text: Conversions
+                      - img [ref=e2013]: help_outline
+                    - columnheader "Conv. rate" [ref=e2014] [cursor=pointer]:
+                      - text: Conv. rate
+                      - img [ref=e2016]: help_outline
+                    - columnheader "Account labels" [ref=e2017]:
+                      - text: Account labels
+                      - img [ref=e2019]: help_outline
+                  - row "Select row Enabled Boats Ibiza 826-343-5799 Show all accounts hierarchy 96.9% Etavrian - Andrii Daniv (This manager) 606-647-7223 show 1 more Google Ads 25,107 516,979 4.86% €0.36 0.25 €9,059.71 2,246.00 €4.03 2,246.00 6.55%" [ref=e2020]:
+                    - gridcell "Select row" [ref=e2021]:
+                      - checkbox "Select row" [ref=e2024] [cursor=pointer]:
+                        - img [ref=e2026]
+                    - gridcell "Enabled" [ref=e2027]:
+                      - img "Enabled" [ref=e2029]
+                    - gridcell "Boats Ibiza 826-343-5799 Show all accounts hierarchy" [ref=e2030]:
+                      - button [ref=e2032] [cursor=pointer]:
+                        - img [ref=e2033]: expand_more
+                      - generic [ref=e2036]:
+                        - link "Boats Ibiza" [ref=e2038] [cursor=pointer]:
+                          - /url: /aw/overview?ocid=1187578302&ascid=1187578302&authuser=0&__u=6216113857&__c=7641235346
+                        - generic [ref=e2039]: 826-343-5799
+                      - button "Show all accounts hierarchy" [ref=e2041] [cursor=pointer]:
+                        - img [ref=e2044]: account_tree
+                    - gridcell "96.9%" [ref=e2046]:
+                      - link "96.9%" [ref=e2050] [cursor=pointer]:
+                        - /url: /aw/recommendations?ocid=1187578302&ascid=1187578302&src=OptimizationScoreColumn&authuser=0&__u=6216113857&__c=7641235346
+                    - gridcell "Etavrian - Andrii Daniv (This manager) 606-647-7223 show 1 more" [ref=e2051]:
+                      - generic [ref=e2052]:
+                        - generic [ref=e2053]:
+                          - generic [ref=e2054]: Etavrian - Andrii Daniv (This manager)
+                          - generic [ref=e2055]: 606-647-7223
+                        - button "show 1 more" [ref=e2056] [cursor=pointer]:
+                          - generic [ref=e2057]: +1 MORE
+                    - gridcell "Google Ads" [ref=e2059]:
+                      - generic [ref=e2061]: Google Ads
+                    - gridcell "25,107" [ref=e2062]:
+                      - generic [ref=e2064]: 25,107
+                    - gridcell "516,979" [ref=e2065]:
+                      - generic [ref=e2067]: 516,979
+                    - gridcell "4.86%" [ref=e2068]:
+                      - generic [ref=e2070]: 4.86%
+                    - gridcell "€0.36" [ref=e2071]:
+                      - generic [ref=e2073]: €0.36
+                    - gridcell "0.25" [ref=e2074]:
+                      - generic [ref=e2076]: "0.25"
+                    - gridcell "€9,059.71" [ref=e2077]:
+                      - generic [ref=e2079]: €9,059.71
+                    - gridcell "2,246.00" [ref=e2080]:
+                      - generic [ref=e2082]: 2,246.00
+                    - gridcell "€4.03" [ref=e2083]:
+                      - generic [ref=e2085]: €4.03
+                    - gridcell "2,246.00" [ref=e2086]:
+                      - generic [ref=e2088]: 2,246.00
+                    - gridcell "6.55%" [ref=e2089]:
+                      - generic [ref=e2091]: 6.55%
+                    - gridcell [ref=e2092]
+              - generic [ref=e2096]: © Google, 2026.
+  - generic:
+    - dialog:
+      - generic:
+        - generic:
+          - heading [level=1]: Turn off ad blockers
+          - paragraph: Google Ads can't work when you're using an ad blocker. To use Google Ads, please turn off any ad blockers for now.
+  - generic:
+    - generic:
+      - generic:
+        - dialog "dialogue"
+  - generic:
+    - generic:
+      - generic:
+        - dialog "dialogue"
+  - generic:
+    - generic:
+      - generic:
+        - dialog "dialogue"
+  - generic [ref=e2098]: Loading data. Please wait.

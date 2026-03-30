@@ -1,0 +1,160 @@
+- application [ref=e1]:
+  - iframe [ref=e2]:
+    
+  - iframe [ref=e3]:
+    
+  - banner "Menu bar" [ref=e4]:
+    - generic [ref=e7]:
+      - link "Sheets home" [ref=e9] [cursor=pointer]:
+        - /url: https://docs.google.com/spreadsheets/u/0/?pli=1&authuser=0&usp=sheets_web
+      - generic [ref=e16]:
+        - generic "Untitled spreadsheet" [ref=e18]:
+          - generic [ref=e19]:
+            - generic: Untitled spreadsheet
+            - textbox "Rename" [ref=e21]: Untitled spreadsheet
+          - generic [ref=e22]:
+            - checkbox "Star" [ref=e24] [cursor=pointer]
+            - generic:
+              - button
+        - generic [ref=e29]:
+          - button "Show all comments" [ref=e31] [cursor=pointer]
+          - button "Join a call here or present this tab to the call" [ref=e35] [cursor=pointer]
+          - generic [ref=e40]:
+            - button "Share. Private to only me." [ref=e41] [cursor=pointer]: Share
+            - button "Quick sharing actions" [ref=e43] [cursor=pointer]
+          - generic [ref=e47]:
+            - generic:
+              - button "Try Gemini" [ref=e50] [cursor=pointer]:
+                - img [ref=e53]
+              - tooltip [ref=e56]: Try Gemini
+          - 'button "Google Account: Team Etavrian (team@etavrian.com)" [ref=e59] [cursor=pointer]':
+            - img [ref=e60]
+    - generic [ref=e61]:
+      - menubar [ref=e63]:
+        - menuitem "File" [ref=e64] [cursor=pointer]
+        - menuitem "Edit" [ref=e65] [cursor=pointer]
+        - menuitem "View" [ref=e66] [cursor=pointer]
+        - menuitem "Insert" [ref=e67] [cursor=pointer]
+        - menuitem "Format" [ref=e68] [cursor=pointer]
+        - menuitem "Data" [ref=e69] [cursor=pointer]
+        - menuitem "Tools" [ref=e70] [cursor=pointer]
+        - menuitem "Extensions" [ref=e71] [cursor=pointer]
+        - menuitem "Help" [ref=e72] [cursor=pointer]
+      - generic [ref=e73]:
+        - generic [ref=e74]:
+          - toolbar "Search the menus (Alt+/)" [ref=e75]:
+            - combobox "Menus" [ref=e77]
+          - toolbar "Main" [ref=e78]:
+            - button "Undo (Ctrl+Z)" [ref=e79] [cursor=pointer]
+            - button "Redo (Ctrl+Y)" [ref=e84] [cursor=pointer]
+            - button "Print (Ctrl+P)" [ref=e89] [cursor=pointer]
+            - button "Paint format" [ref=e94] [cursor=pointer]
+            - combobox "Zoom" [ref=e99] [cursor=pointer]:
+              - option "Zoom list. 100% selected." [selected] [ref=e102]:
+                - textbox "Zoom" [ref=e103]: 100%
+            - separator [disabled] [ref=e107]
+            - button "Format as currency" [ref=e108] [cursor=pointer]:
+              - generic [ref=e110]: $
+            - button "Format as percent" [ref=e111] [cursor=pointer]:
+              - generic [ref=e113]: "%"
+            - button "Decrease decimal places" [ref=e114] [cursor=pointer]
+            - button "Increase decimal places" [ref=e119] [cursor=pointer]
+            - button "More formats" [ref=e124] [cursor=pointer]:
+              - generic [ref=e127]: "123"
+            - separator [disabled] [ref=e128]
+            - listbox "Font" [ref=e129] [cursor=pointer]:
+              - option "Font list. Default (Arial) selected." [selected] [ref=e132]: Default (Arial)
+            - separator [disabled] [ref=e136]
+            - button "Decrease font size (Ctrl+Shift+comma)" [ref=e137] [cursor=pointer]
+            - combobox "Font size" [ref=e142] [cursor=pointer]:
+              - option "Font size list. 10 selected." [selected] [ref=e145]:
+                - textbox "Font size" [ref=e146]: "10"
+            - button "Increase font size (Ctrl+Shift+period)" [ref=e147] [cursor=pointer]
+            - separator [disabled] [ref=e152]
+            - button "Bold (Ctrl+B)" [ref=e153] [cursor=pointer]
+            - button "Italic (Ctrl+I)" [ref=e158] [cursor=pointer]
+            - button "Strikethrough (Alt+Shift+5)" [ref=e163] [cursor=pointer]
+            - button "Text color" [ref=e168] [cursor=pointer]
+            - separator [disabled] [ref=e175]
+            - button "More" [ref=e176] [cursor=pointer]
+        - toolbar "Mode and view" [ref=e183]:
+          - button "Hide the menus (Ctrl+Shift+F)" [ref=e184] [cursor=pointer]
+    - generic [ref=e189]:
+      - complementary "Side panel" [ref=e190]:
+        - tablist [ref=e192]:
+          - tab "Calendar"
+          - tab "Keep"
+          - tab "Tasks"
+          - tab "Contacts"
+          - tab "Maps"
+          - separator [disabled] [ref=e198]
+          - tab "Loom"
+          - tab "Get Add-ons"
+      - generic:
+        - button "Hide side panel":
+          - img [ref=e202] [cursor=pointer]
+    - generic [ref=e207]:
+      - generic "Name box (Ctrl + J)" [ref=e208]:
+        - textbox [ref=e209]: A1
+        - button "Name box menu button. Select one of the menu items to navigate to its corresponding named range." [ref=e211] [cursor=pointer]
+      - textbox [ref=e227]
+  - navigation "Sheet tab bar" [ref=e263]:
+    - toolbar [ref=e264]:
+      - button "Add Sheet" [ref=e265] [cursor=pointer]
+      - button "All Sheets" [ref=e270] [cursor=pointer]
+    - toolbar [ref=e277]:
+      - button "Sheet1" [ref=e278]:
+        - generic [ref=e282]: Sheet1
+    - toolbar [ref=e286]
+  - generic [ref=e287]:
+    - textbox [active]
+  - link "Turn on screen reader support" [ref=e288] [cursor=pointer]:
+    - /url: "#"
+  - textbox [ref=e289]
+  - region [ref=e290]: To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortcuts, press Ctrl+slash
+  - region
+  - complementary "Tables" [ref=e291]:
+    - generic [ref=e293]:
+      - generic [ref=e298]: Tables
+      - button "Close" [ref=e299] [cursor=pointer]
+    - generic [ref=e302]:
+      - generic [ref=e303]:
+        - generic [ref=e304]: Start with pre-built tables
+        - generic [ref=e305]: Includes smart chips, placeholders, and custom color palettes
+        - img "Tables promo image" [ref=e306]
+      - generic [ref=e307]:
+        - button "Featured" [expanded] [ref=e308]:
+          - generic [ref=e312]: Featured
+        - generic [ref=e315]:
+          - button "Blank table" [ref=e316]:
+            - generic [ref=e320]: Blank table
+          - button "Event tasks" [ref=e321]:
+            - generic [ref=e325]: Event tasks
+          - button "Project tasks" [ref=e326]:
+            - generic [ref=e330]: Project tasks
+          - button "Content tracker" [ref=e331]:
+            - generic [ref=e335]: Content tracker
+          - button "Product prioritization" [ref=e336]:
+            - generic [ref=e340]: Product prioritization
+          - button "Recruitment applicants" [ref=e341]:
+            - generic [ref=e345]: Recruitment applicants
+      - button "Event planning" [ref=e347]:
+        - generic [ref=e351]: Event planning
+      - button "Customer relations" [ref=e353]:
+        - generic [ref=e357]: Customer relations
+      - button "Project management" [ref=e359]:
+        - generic [ref=e363]: Project management
+      - button "Travel planner" [ref=e365]:
+        - generic [ref=e369]: Travel planner
+      - button "Product roadmap" [ref=e371]:
+        - generic [ref=e375]: Product roadmap
+      - button "Inventory management" [ref=e377]:
+        - generic [ref=e381]: Inventory management
+      - button "Recruitment" [ref=e383]:
+        - generic [ref=e387]: Recruitment
+      - button "Team planner" [ref=e389]:
+        - generic [ref=e393]: Team planner
+      - button "Marketing" [ref=e395]:
+        - generic [ref=e399]: Marketing
+  - iframe [ref=e401]:
+    

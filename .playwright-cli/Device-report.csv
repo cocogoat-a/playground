@@ -1,0 +1,137 @@
+Device report
+1 October 2025 - 31 December 2025
+Device,Level,Campaign,Ad group,Bid adj.,Ad group bid adj.,Currency code,Avg. CPM,Impr.,Interactions,Interaction rate,Avg. cost,Cost,Conv. rate,Conversions,Cost / conv.
+Computers,Campaign,S | Brand | EU | FR, --, --,None,EUR,14.00,5,3,60.00%,0.02,0.07,0.00%,0.00,0.00
+Mobile Phones,Campaign,S | Brand | EU | FR, --, --,None,EUR,30.00,15,4,26.67%,0.11,0.45,0.00%,0.00,0.00
+Mobile Phones,Campaign,ADa_Panty_NL, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Tablets,Campaign,S | Brand | EU | EN, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Tablets,Campaign,S | Brand | EU | FR, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Computers,Campaign,S | Brand | EU | EN, --, --,None,EUR,152.75,17,7,41.18%,0.37,2.60,0.00%,0.00,0.00
+TV screens,Campaign,ADa_Panty_NL, --,-100%,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Computers,Campaign,ADa_Panty_NL, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Mobile Phones,Campaign,S | Brand | EU | EN, --, --,None,EUR,94.16,37,11,29.73%,0.32,3.48,0.00%,0.00,0.00
+Tablets,Campaign,ADa_Panty_NL, --,-100%,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Mobile Phones,Campaign,PMAX | shopping | EU | EN, --, --,None,EUR,0.63,"206,159","1,608",0.78%,0.08,130.10,0.06%,1.00,130.10
+Tablets,Campaign,S | General | EU | FR, --, --,None,EUR,230.49,24,5,20.83%,1.11,5.53,0.00%,0.00,0.00
+Computers,Campaign,S | General | EU | FR, --, --,None,EUR,99.23,630,55,8.73%,1.14,62.52,0.00%,0.00,0.00
+Computers,Campaign,Remarketing, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Computers,Campaign,PMAX | shopping | EU | EN, --, --,None,EUR,8.77,"4,923",41,0.83%,1.05,43.19,4.88%,2.00,21.60
+Tablets,Campaign,Remarketing, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Mobile Phones,Campaign,Remarketing, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Computers,Campaign,S | Brand | EU | DE, --, --,None,EUR,265.58,370,26,7.03%,3.78,98.26,7.69%,2.00,49.13
+Mobile Phones,Campaign,S | General | EU | FR, --, --,None,EUR,73.83,"2,552",224,8.78%,0.84,188.41,0.45%,1.00,188.41
+Tablets,Campaign,PMAX | shopping | EU | EN, --, --,None,EUR,0.16,"734,498","2,515",0.34%,0.05,114.89,0.00%,0.00,0.00
+TV screens,Campaign,PMAX | shopping | EU | EN, --, --,None,EUR,0.00,12,0,0.00%,0,0.00,0.00%,0.00,0.00
+Mobile Phones,Campaign,S | General | NL, --, --,None,EUR,82.80,"23,464","1,620",6.90%,1.20,1942.91,4.58%,74.12,26.21
+Computers,Campaign,S | General | NL, --, --,None,EUR,113.83,"2,238",186,8.31%,1.37,254.75,2.42%,4.50,56.61
+Tablets,Campaign,S | Brand | EU | DE, --, --,None,EUR,2022.63,19,2,10.53%,19.22,38.43,0.00%,0.00,0.00
+Mobile Phones,Campaign,S | Brand | EU | DE, --, --,None,EUR,466.18,"1,284",177,13.79%,3.38,598.58,12.99%,23.00,26.03
+Tablets,Campaign,S | General | NL, --, --,None,EUR,47.96,135,9,6.67%,0.72,6.48,22.22%,2.00,3.24
+TV screens,Campaign,Remarketing, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Mobile Phones,Campaign,PMax | Rem | NL #3, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Computers,Campaign,Sh | General | NL | old, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+TV screens,Campaign,PMax | Rem | NL #3, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Computers,Campaign,ADa_Pants_NL, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+TV screens,Campaign,ADa_Pants_NL, --,-100%,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Tablets,Campaign,PMax | Rem | NL #3, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Mobile Phones,Campaign,Sh | General | NL | old, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Tablets,Campaign,Sh | General | NL | old, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Tablets,Campaign,ADa_Pants_NL, --,-100%,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Mobile Phones,Campaign,ADa_Pants_NL, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Computers,Campaign,PMax | Rem | NL #3, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Mobile Phones,Campaign,S | Brand | UK, --, --,None,EUR,421.72,29,10,34.48%,1.22,12.23,0.00%,0.00,0.00
+Tablets,Campaign,S | Brand | UK, --, --,None,EUR,0.00,1,0,0.00%,0,0.00,0.00%,0.00,0.00
+Tablets,Campaign,S | General | EU | DE, --, --,None,EUR,90.03,73,4,5.48%,1.64,6.57,0.00%,0.00,0.00
+Computers,Campaign,S | General | EU | DE, --, --,None,EUR,115.15,"1,541",76,4.93%,2.33,177.44,2.63%,2.00,88.72
+Computers,Campaign,S | Brand | UK, --, --,None,EUR,40.00,3,1,33.33%,0.12,0.12,0.00%,0.00,0.00
+Mobile Phones,Campaign,S | General | EU | DE, --, --,None,EUR,65.53,"5,398",292,5.41%,1.21,353.71,1.71%,5.00,70.74
+Tablets,Campaign,PMax | Rem | EU | EN, --, --,None,EUR,10.21,"3,509",481,13.71%,0.07,35.84,0.00%,0.00,0.00
+TV screens,Campaign,Rem | EU | FR, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+TV screens,Campaign,PMax | Rem | EU | EN, --, --,None,EUR,6.57,598,363,60.70%,0.01,3.93,0.00%,0.00,0.00
+Computers,Campaign,Rem | EU | FR, --, --,None,EUR,60.43,156,14,8.97%,0.67,9.43,0.00%,0.00,0.00
+Computers,Campaign,PMax | Rem | FR, --, --,None,EUR,7.03,"5,813",105,1.81%,0.39,40.87,0.00%,0.00,0.00
+Mobile Phones,Campaign,S | General | UK, --, --,None,EUR,78.69,"8,063",798,9.90%,0.80,634.50,2.76%,22.00,28.84
+Tablets,Campaign,PMax | Rem | FR, --, --,None,EUR,2.65,"4,594",212,4.61%,0.06,12.16,0.00%,0.00,0.00
+TV screens,Campaign,PMax | Rem | FR, --, --,None,EUR,10.59,109,63,57.80%,0.02,1.15,0.00%,0.00,0.00
+Mobile Phones,Campaign,PMax | Rem | US | EN, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Tablets,Campaign,Sh | General | NL, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+TV screens,Campaign,PMAX | shopping | EU | FR, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Computers,Campaign,PMax | Rem | EU | EN, --, --,None,EUR,5.82,"38,280","1,665",4.35%,0.13,222.82,0.18%,3.00,74.27
+Tablets,Campaign,PMAX | shopping | EU | FR, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Tablets,Campaign,PMax | Rem | US | EN, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Tablets,Campaign,S | Brand | NL, --, --,None,EUR,368.33,12,4,33.33%,1.11,4.42,25.00%,1.00,4.42
+Mobile Phones,Campaign,S | Brand | NL, --, --,None,EUR,99.86,"2,504",915,36.54%,0.27,250.04,16.27%,148.89,1.68
+Computers,Campaign,S | Brand | NL, --, --,None,EUR,103.69,453,176,38.85%,0.27,46.97,13.53%,23.81,1.97
+Mobile Phones,Campaign,PMAX | shopping | EU | FR, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Tablets,Campaign,S | General | UK, --, --,None,EUR,23.89,54,3,5.56%,0.43,1.29,0.00%,0.00,0.00
+Mobile Phones,Campaign,Sh | General | NL, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Computers,Campaign,PMAX | shopping | EU | FR, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Mobile Phones,Campaign,PMax | Rem | EU | EN, --, --,None,EUR,9.61,"121,394","7,853",6.47%,0.15,1166.45,0.23%,18.00,64.80
+Computers,Campaign,S | General | UK, --, --,None,EUR,86.71,"1,253",102,8.14%,1.07,108.64,0.00%,0.00,0.00
+Mobile Phones,Campaign,PMax | Rem | FR, --, --,None,EUR,7.79,"41,915","2,163",5.16%,0.15,326.50,0.14%,3.00,108.83
+Mobile Phones,Campaign,Rem | EU | FR, --, --,None,EUR,26.71,"1,854",66,3.56%,0.75,49.53,0.00%,0.00,0.00
+TV screens,Campaign,PMax | Rem | US | EN, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Computers,Campaign,PMax | Rem | US | EN, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Tablets,Campaign,Rem | EU | FR, --, --,None,EUR,3.00,22,2,9.09%,0.03,0.07,0.00%,0.00,0.00
+Computers,Campaign,Sh | General | NL, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Tablets,Campaign,ADa_Brand_NL, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Tablets,Campaign,Rem | EU | DE, --, --,None,EUR,22.30,31,1,3.23%,0.69,0.69,0.00%,0.00,0.00
+Mobile Phones,Campaign,ADa_Brand_NL, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+TV screens,Campaign,Rem | EU | DE, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Mobile Phones,Campaign,Rem | EU | DE, --, --,None,EUR,25.83,"2,905",107,3.68%,0.70,75.03,0.00%,0.00,0.00
+Computers,Campaign,Rem | EU | DE, --, --,None,EUR,161.82,127,2,1.57%,10.28,20.55,0.00%,0.00,0.00
+Computers,Campaign,ADa_Brand_NL, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Computers,Campaign,S | General | EU | EN, --, --,None,EUR,55.75,"1,988",139,6.99%,0.80,110.84,0.72%,1.00,110.84
+Mobile Phones,Campaign,S | Competitors | NL, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Mobile Phones,Campaign,S | General | EU | EN, --, --,None,EUR,37.45,"9,225",630,6.83%,0.55,345.52,2.38%,15.00,23.03
+Tablets,Campaign,Rem | EU | EN, --, --,None,EUR,0.00,24,0,0.00%,0,0.00,0.00%,0.00,0.00
+Tablets,Campaign,PMax | Rem | UK, --, --,None,EUR,0.26,"210,950","1,885",0.89%,0.03,55.09,0.00%,0.00,0.00
+Mobile Phones,Campaign,PMax | Rem | NL, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Computers,Campaign,PMax | Rem | UK, --, --,None,EUR,16.08,"4,016",78,1.94%,0.83,64.57,1.28%,1.00,64.57
+Tablets,Campaign,S | General | EU | EN, --, --,None,EUR,24.84,92,6,6.52%,0.38,2.29,0.00%,0.00,0.00
+TV screens,Campaign,PMax | Rem | NL, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Computers,Campaign,Rem | EU | EN, --, --,None,EUR,0.95,96,2,2.08%,0.05,0.09,0.00%,0.00,0.00
+Tablets,Campaign,PMax | Rem | NL, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+TV screens,Campaign,Rem | EU | EN, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Tablets,Campaign,PMax | Rem | NL | New, --, --,None,EUR,4.61,"13,449",648,4.82%,0.10,62.00,0.31%,2.00,31.00
+Mobile Phones,Campaign,Rem | EU | EN, --, --,None,EUR,20.82,"2,198",67,3.05%,0.68,45.76,0.00%,0.00,0.00
+Computers,Campaign,S | Competitors | NL, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Computers,Campaign,PMax | Rem | NL | New, --, --,None,EUR,16.44,"9,607",174,1.81%,0.91,157.99,2.87%,5.00,31.60
+Mobile Phones,Campaign,PMax | Rem | NL | New, --, --,None,EUR,12.85,"231,141","11,180",4.84%,0.27,2969.87,1.06%,118.68,25.02
+Tablets,Campaign,S | Competitors | NL, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+TV screens,Campaign,PMax | Rem | UK, --, --,None,EUR,22.99,133,85,63.91%,0.04,3.06,0.00%,0.00,0.00
+Mobile Phones,Campaign,PMax | Rem | UK, --, --,None,EUR,7.19,"72,179","2,783",3.86%,0.19,518.74,0.36%,10.00,51.87
+TV screens,Campaign,PMax | Rem | NL | New, --, --,None,EUR,8.67,435,233,53.56%,0.02,3.77,0.00%,0.00,0.00
+Computers,Campaign,PMax | Rem | NL, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Mobile Phones,Campaign,PMax | Rem | AU-NZ | EN, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Mobile Phones,Campaign,DGen | EN, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Tablets,Campaign,PMax | Rem | CA | EN, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Tablets,Campaign,PMax | Rem | DE, --, --,None,EUR,1.25,"16,245",271,1.67%,0.07,20.28,0.00%,0.00,0.00
+Tablets,Campaign,DGen | EN, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Tablets,Campaign,PMax | Rem | AU-NZ | EN, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Mobile Phones,Campaign,PMax | Rem | DE, --, --,None,EUR,12.59,"54,302","2,178",4.01%,0.31,683.86,0.41%,9.00,75.98
+Computers,Campaign,PMax | Rem | DE, --, --,None,EUR,8.36,"9,480",114,1.20%,0.70,79.24,0.00%,0.00,0.00
+TV screens,Campaign,PMax | Rem | DE, --, --,None,EUR,7.24,57,47,82.46%,0.01,0.41,0.00%,0.00,0.00
+Mobile Phones,Campaign,PMax | Rem | CA | EN, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+TV screens,Campaign,PMax | Rem | AU-NZ | EN, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Computers,Campaign,PMax | Rem | CA | EN, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Computers,Campaign,PMax | Rem | AU-NZ | EN, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+TV screens,Campaign,DGen | EN, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Computers,Campaign,DGen | EN, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+TV screens,Campaign,PMax | Rem | CA | EN, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+TV screens,Campaign,Rem | NL, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Computers,Campaign,Rem | NL, --, --,None,EUR,0.00,563,0,0.00%,0,0.00,0.00%,2.00,0.00
+Mobile Phones,Campaign,Rem | NL, --, --,None,EUR,7.65,"14,923",130,0.87%,0.88,114.15,0.00%,0.00,0.00
+Tablets,Campaign,Rem | NL, --, --,None,EUR,15.22,184,3,1.63%,0.93,2.80,0.00%,0.00,0.00
+Mobile Phones,Campaign,PMax | General | DE, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Tablets,Campaign,PMax | General | DE, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+TV screens,Campaign,PMax | General | NL, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Computers,Campaign,PMax | General | NL, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+TV screens,Campaign,PMax | General | DE, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Mobile Phones,Campaign,Ehsan - Generic Search_Dutch_NL/BE, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Tablets,Campaign,PMax | General | NL, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Computers,Campaign,Ehsan - Generic Search_Dutch_NL/BE, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Computers,Campaign,PMax | General | DE, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Mobile Phones,Campaign,PMax | General | NL, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Tablets,Campaign,Ehsan - Generic Search_Dutch_NL/BE, --, --,None,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+,,,,Total: Account,,EUR,6.58,"1,868,360","42,624",2.28%,0.29,12291.93,1.17%,500.00,24.58

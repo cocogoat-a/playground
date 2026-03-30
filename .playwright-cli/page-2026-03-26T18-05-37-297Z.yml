@@ -1,0 +1,343 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - banner "Top navigation" [ref=e6]:
+      - status
+      - generic [ref=e7]:
+        - button [expanded] [ref=e8] [cursor=pointer]:
+          - img [ref=e11]: menu
+        - heading "Google Ads – Go to starting page" [level=1] [ref=e13]:
+          - button "Google Ads – Go to starting page" [ref=e14]:
+            - img [ref=e16] [cursor=pointer]
+        - button "Etavrian MCC minvoir.com 416-384-5005" [ref=e2279] [cursor=pointer]:
+          - generic [ref=e28]:
+            - generic [ref=e2280]:
+              - link "Etavrian MCC" [ref=e2281]:
+                - /url: /aw/overview?ocid=6547539728&ascid=6547539728&authuser=0&__u=6216113857&__c=4614269072
+              - img [ref=e2283]: chevron_right
+            - generic [ref=e29]:
+              - generic [ref=e30]: minvoir.com
+              - generic [ref=e31]: 416-384-5005
+              - img [ref=e33]: arrow_drop_down
+      - generic [ref=e36]:
+        - button "Page search" [ref=e39] [cursor=pointer]:
+          - generic [ref=e41]:
+            - img [ref=e42]: search
+            - text: Search
+        - generic [ref=e44]:
+          - button "Ads advisor" [ref=e2284] [cursor=pointer]:
+            - generic [ref=e2285]:
+              - generic [ref=e2286]:
+                - img [ref=e2287]: button_magic
+                - text: Ads Advisor
+              - generic [ref=e2288]: Beta
+          - button "Appearance" [ref=e47] [cursor=pointer]:
+            - generic [ref=e49]:
+              - img [ref=e50]: responsive_layout
+              - text: Appearance
+          - button "Refresh" [ref=e54] [cursor=pointer]:
+            - generic [ref=e56]:
+              - img [ref=e57]: refresh
+              - text: Refresh
+          - button "Open the quick help panel" [ref=e60] [cursor=pointer]:
+            - generic [ref=e61]:
+              - text: Help
+              - generic [ref=e62]:
+                - img [ref=e63]: help_outline
+                - text: Help
+          - button "Notifications" [ref=e70] [cursor=pointer]:
+            - generic [ref=e72]:
+              - img [ref=e75]: notifications
+              - generic [ref=e76]: Notifications
+      - button "Google Account" [ref=e83] [cursor=pointer]:
+        - img "Google Account (team@etavrian.com)" [ref=e84]
+    - generic [ref=e86]:
+      - generic [ref=e4299]:
+        - img [ref=e4301]: report_problem
+        - generic [ref=e4303]:
+          - status [ref=e4304]:
+            - generic [ref=e4306]: Call-only ads are being deprecated - Update to call assets by February 2027.
+          - generic [ref=e4308]:
+            - button "Learn more" [ref=e4420] [cursor=pointer]:
+              - generic [ref=e4421]: Learn more
+            - button "Fix it" [ref=e4424] [cursor=pointer]:
+              - generic [ref=e4425]: Fix it
+            - button "Dismiss" [ref=e4428] [cursor=pointer]:
+              - generic [ref=e4429]: Dismiss
+      - generic [ref=e87]:
+        - generic [ref=e89]:
+          - generic [ref=e90]:
+            - generic [ref=e91]:
+              - button "Create" [ref=e93] [cursor=pointer]:
+                - img [ref=e96]
+              - generic [ref=e98]: Create
+            - menu [ref=e99]:
+              - menu [ref=e2290]:
+                - menuitem "Campaigns" [ref=e2293] [cursor=pointer]:
+                  - generic [ref=e2294]:
+                    - img [ref=e2296]: campaign
+                    - generic [ref=e2297]: Campaigns
+                - menuitem "Goals" [ref=e2300] [cursor=pointer]:
+                  - generic [ref=e2301]:
+                    - img [ref=e2303]: rewarded_ads
+                    - generic [ref=e2304]: Goals
+                - menuitem "Tools" [ref=e2307] [cursor=pointer]:
+                  - generic [ref=e2308]:
+                    - img [ref=e2310]: construction
+                    - generic [ref=e2311]: Tools
+                - menuitem "Billing" [ref=e2314] [cursor=pointer]:
+                  - generic [ref=e2315]:
+                    - img [ref=e2317]: credit_card
+                    - generic [ref=e2318]: Billing
+                - menuitem "Admin" [ref=e2321] [cursor=pointer]:
+                  - generic [ref=e2322]:
+                    - img [ref=e2324]: settings
+                    - generic [ref=e2325]: Admin
+          - navigation [ref=e143]:
+            - menu [ref=e144]:
+              - generic [ref=e2326]:
+                - menuitem "Overview" [ref=e2329] [cursor=pointer]:
+                  - generic [ref=e2331]: Overview
+                - menuitem "Recommendations" [ref=e2335] [cursor=pointer]:
+                  - generic [ref=e2337]: Recommendations
+                - menuitem "Insights and reports" [ref=e2341] [cursor=pointer]:
+                  - generic [ref=e2342]:
+                    - generic [ref=e2343]: Insights and reports
+                    - img [ref=e2346]: expand_more
+                - menuitem "Campaigns" [expanded] [ref=e2349] [cursor=pointer]:
+                  - generic [ref=e2350]:
+                    - generic [ref=e2351]: Campaigns
+                    - img [ref=e2354]: expand_more
+                - generic [ref=e4381]:
+                  - menuitem "Campaigns" [ref=e4384] [cursor=pointer]:
+                    - generic [ref=e4386]: Campaigns
+                  - menuitem "Ad groups" [ref=e4390] [cursor=pointer]:
+                    - generic [ref=e4392]: Ad groups
+                  - menuitem "Ads" [ref=e4396] [cursor=pointer]:
+                    - generic [ref=e4398]: Ads
+                  - menuitem "Asset groups" [ref=e4402] [cursor=pointer]:
+                    - generic [ref=e4404]: Asset groups
+                  - menuitem "Experiments" [ref=e4408] [cursor=pointer]:
+                    - generic [ref=e4410]: Experiments
+                  - menuitem "Campaign groups" [ref=e4414] [cursor=pointer]:
+                    - generic [ref=e4416]: Campaign groups
+                - menuitem "Assets" [ref=e2357] [cursor=pointer]:
+                  - generic [ref=e2358]:
+                    - generic [ref=e2359]: Assets
+                    - img [ref=e2362]: expand_more
+                - menuitem "Products" [ref=e2365] [cursor=pointer]:
+                  - generic [ref=e2366]:
+                    - generic [ref=e2367]: Products
+                    - img [ref=e2370]: expand_more
+                - menuitem "Audiences, keywords and content" [expanded] [ref=e2373] [cursor=pointer]:
+                  - generic [ref=e2374]:
+                    - generic [ref=e2375]: Audiences, keywords and content
+                    - img [ref=e2378]: expand_more
+                - generic [ref=e11098]:
+                  - menuitem "Keywords" [ref=e11101] [cursor=pointer]:
+                    - generic [ref=e11103]: Keywords
+                  - menuitem "Audiences" [ref=e11107] [cursor=pointer]:
+                    - generic [ref=e11109]: Audiences
+                  - menuitem "Locations" [ref=e11113] [cursor=pointer]:
+                    - generic [ref=e11115]: Locations
+                  - menuitem "Content" [ref=e11119] [cursor=pointer]:
+                    - generic [ref=e11121]: Content
+                  - menuitem "Ad schedule" [ref=e11125] [cursor=pointer]:
+                    - generic [ref=e11127]: Ad schedule
+                  - menuitem "Advanced bid adjustments" [ref=e11131] [cursor=pointer]:
+                    - generic [ref=e11133]: Advanced bid adjustments
+                - menuitem "Change history" [ref=e2381] [cursor=pointer]:
+                  - generic [ref=e2383]: Change history
+            - group [ref=e198]:
+              - generic [ref=e199]:
+                - generic [ref=e200]:
+                  - generic "Get the Google Ads app" [ref=e201]:
+                    - img [ref=e203]: app_promo
+                    - generic [ref=e204]: Get the Google Ads app
+                  - button "Get the Google Ads app dismiss" [ref=e205] [cursor=pointer]:
+                    - img [ref=e208]: close
+                - generic [ref=e210]:
+                  - img "QR Code for Ads Mobile" [ref=e211]
+                  - generic "Scan to download the mobile app and get updates for your campaigns on the go" [ref=e212]
+        - generic [ref=e213]:
+          - generic [ref=e216]:
+            - button "View (2 filters) All campaigns" [ref=e221] [cursor=pointer]:
+              - generic [ref=e222]:
+                - generic [ref=e223]: View (2 filters)
+                - generic [ref=e224]:
+                  - img [ref=e227]: home
+                  - button "All campaigns" [ref=e228]
+              - img [ref=e230]: arrow_drop_down
+            - button "Campaigns (38) Select a campaign" [ref=e2385] [cursor=pointer]:
+              - generic [ref=e2386]:
+                - generic [ref=e2387]: Campaigns (38)
+                - generic [ref=e2388]: Select a campaign
+              - img [ref=e240]: arrow_drop_down
+          - group [ref=e248]:
+            - generic [ref=e249]:
+              - generic [ref=e250] [cursor=pointer]:
+                - generic: Filters
+              - generic: "Filters Applied:"
+              - grid "Filters Applied:" [ref=e251]:
+                - 'row "Campaign status: Enabled, Paused" [ref=e1338] [cursor=pointer]':
+                  - 'gridcell "Campaign status: Enabled, Paused" [ref=e1339]':
+                    - 'button "Campaign status: Enabled, Paused" [ref=e1340]': "Campaign status: Enabled, Paused"
+                - 'row "Ad group status: Enabled, Paused" [ref=e1342] [cursor=pointer]':
+                  - 'gridcell "Ad group status: Enabled, Paused" [ref=e1343]':
+                    - 'button "Ad group status: Enabled, Paused" [ref=e1344]': "Ad group status: Enabled, Paused"
+                - row [ref=e260]:
+                  - gridcell [ref=e261]:
+                    - combobox "Add filter" [ref=e262]
+                    - status [ref=e263]
+              - button "Save" [ref=e266] [cursor=pointer]:
+                - generic [ref=e267]:
+                  - img [ref=e269]: save
+                  - generic [ref=e270]: Save
+          - main [ref=e11137]:
+            - generic [ref=e11138]:
+              - generic [ref=e11140]:
+                - generic [ref=e11146]:
+                  - heading "Locations" [level=2] [ref=e11147]
+                  - generic [ref=e11150]:
+                    - button "Scroll tab bar backward" [disabled] [ref=e11151]:
+                      - generic:
+                        - generic:
+                          - img "Scroll tab bar backward": chevron_left
+                    - tablist [ref=e11152]:
+                      - tab "Locations" [selected] [ref=e11153] [cursor=pointer]:
+                        - generic [ref=e11154]: Locations
+                      - tab "Location exclusions" [ref=e11156] [cursor=pointer]:
+                        - generic [ref=e11157]: Location exclusions
+                      - tab "Locations of interest" [ref=e11159] [cursor=pointer]:
+                        - generic [ref=e11160]: Locations of interest
+                    - button "Scroll tab bar forward" [ref=e11163] [cursor=pointer]:
+                      - img "Scroll tab bar forward" [ref=e11166]: chevron_right
+                - generic [ref=e11169]:
+                  - generic [ref=e11171] [cursor=pointer]:
+                    - generic [ref=e11172]: Custom
+                    - generic [ref=e11174]:
+                      - button "1 Oct - 31 Dec 2025 Not applicable" [ref=e11176]:
+                        - generic [ref=e11177]: 1 Oct - 31 Dec 2025
+                        - img [ref=e11179]: arrow_drop_down
+                      - generic [ref=e11180]:
+                        - button "Previous" [ref=e11181]:
+                          - img [ref=e11184]: chevron_left
+                        - button "Next" [ref=e11186]:
+                          - img [ref=e11189]: chevron_right
+                  - button "Show last 30 days" [ref=e11191] [cursor=pointer]:
+                    - generic [ref=e11192]: Show last 30 days
+              - generic [ref=e11194]:
+                - generic [ref=e11198]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic [ref=e11201]:
+                          - generic [ref=e11202]: Edit targets for
+                          - generic [ref=e11203]:
+                            - button "Campaign" [ref=e11206] [cursor=pointer]:
+                              - generic [ref=e11207]: Campaign
+                              - img [ref=e11209]: arrow_drop_down
+                            - button "Select a campaign" [ref=e11211] [cursor=pointer]:
+                              - generic [ref=e11213]: Select a campaign
+                              - img [ref=e11215]: mode_edit
+                        - text: info
+                  - generic [ref=e11216]:
+                    - generic: info
+                    - region "Primary toolbelt for Locations" [ref=e11221]:
+                      - generic [ref=e11222]:
+                        - button "Locations" [ref=e11226] [cursor=pointer]:
+                          - img [ref=e11229]: mode_edit
+                        - generic [ref=e11233] [cursor=pointer]:
+                          - group [ref=e11234]:
+                            - generic [ref=e11235]:
+                              - generic [ref=e11236]:
+                                - generic:
+                                  - img: filter_alt
+                              - grid [ref=e11237]
+                          - button "Add filter" [ref=e11239]:
+                            - generic [ref=e11240]: Add filter
+                      - generic [ref=e11242]:
+                        - button "Segment. Segmentation off" [ref=e11247] [cursor=pointer]:
+                          - generic [ref=e11248]:
+                            - img [ref=e11250]: segment
+                            - generic [ref=e11251]: Segment
+                        - button "Columns" [ref=e11257] [cursor=pointer]:
+                          - generic [ref=e11258]:
+                            - img [ref=e11260]: view_column
+                            - generic [ref=e11261]: Columns
+                        - button "Download" [ref=e11267] [cursor=pointer]:
+                          - generic [ref=e11268]:
+                            - img [ref=e11270]: file_download
+                            - generic [ref=e11271]: Download
+                        - button "Expand" [ref=e11277] [cursor=pointer]:
+                          - generic [ref=e11278]:
+                            - img [ref=e11280]: fullscreen
+                            - generic [ref=e11281]: Expand
+                        - button "More options" [ref=e11287] [cursor=pointer]:
+                          - generic [ref=e11288]:
+                            - img [ref=e11290]: more_vert
+                            - generic [ref=e11291]: More
+                    - grid "Locations" [ref=e11296]:
+                      - row "Select all rows Targeted location Campaign Ad group Avg. CPM Impr. Interactions Interaction rate Avg. cost Cost Conv. rate Conversions Cost / conv." [ref=e11297]:
+                        - gridcell "Select all rows" [ref=e11298]:
+                          - checkbox "Select all rows" [ref=e11300] [cursor=pointer]:
+                            - img [ref=e11302]
+                        - columnheader "Targeted location" [ref=e11303] [cursor=pointer]
+                        - columnheader "Campaign" [ref=e11304] [cursor=pointer]
+                        - columnheader "Ad group" [ref=e11305] [cursor=pointer]
+                        - columnheader "Avg. CPM" [ref=e11306] [cursor=pointer]:
+                          - text: Avg. CPM
+                          - img [ref=e11308]: help_outline
+                        - columnheader "Impr." [ref=e11309] [cursor=pointer]:
+                          - text: Impr.
+                          - img [ref=e11311]: help_outline
+                        - columnheader "Interactions" [ref=e11312] [cursor=pointer]:
+                          - text: Interactions
+                          - img [ref=e11314]: help_outline
+                        - columnheader "Interaction rate" [ref=e11315] [cursor=pointer]:
+                          - text: Interaction rate
+                          - img [ref=e11317]: help_outline
+                        - columnheader "Avg. cost" [ref=e11318] [cursor=pointer]:
+                          - text: Avg. cost
+                          - img [ref=e11320]: help_outline
+                        - columnheader "Cost" [ref=e11321] [cursor=pointer]:
+                          - text: Cost
+                          - img [ref=e11323]: help_outline
+                        - columnheader "Conv. rate" [ref=e11324] [cursor=pointer]:
+                          - text: Conv. rate
+                          - img [ref=e11326]: help_outline
+                        - columnheader "Conversions" [ref=e11327] [cursor=pointer]:
+                          - text: Conversions
+                          - img [ref=e11329]: help_outline
+                        - columnheader "Cost / conv." [ref=e11330] [cursor=pointer]:
+                          - text: Cost / conv.
+                          - img [ref=e11332]: help_outline
+                - generic [ref=e11335]:
+                  - generic [ref=e11336]:
+                    - link "Reporting is not carried out in real time." [ref=e11338] [cursor=pointer]:
+                      - /url: https://support.google.com/google-ads/?p=help_2544985&hl=en_GB
+                    - text: "Time zone for all dates and times: (GMT+01:00) Central European Time."
+                    - link "Learn more about changing your Google Ads account settings" [ref=e11340] [cursor=pointer]:
+                      - /url: https://support.google.com/google-ads/?p=help_9842104&hl=en_GB
+                      - text: Learn more
+                    - generic [ref=e11341]: Some inventory may be provided through third-party intermediaries.
+                    - generic [ref=e11342]: You'll see Media Rating Council (MRC) accreditation noted in the column header's hover text for accredited metrics.
+                  - generic [ref=e11343]: © Google, 2026.
+  - generic:
+    - dialog:
+      - generic:
+        - generic:
+          - heading [level=1]: Turn off ad blockers
+          - paragraph: Google Ads can't work when you're using an ad blocker. To use Google Ads, please turn off any ad blockers for now.
+  - generic:
+    - generic:
+      - generic:
+        - dialog "dialogue"
+  - generic:
+    - status [ref=e6107]
+    - generic:
+      - generic:
+        - dialog "dialogue"
+  - generic:
+    - generic:
+      - generic:
+        - dialog "dialogue"

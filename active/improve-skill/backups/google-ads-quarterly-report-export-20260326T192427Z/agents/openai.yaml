@@ -1,0 +1,4 @@
+interface:
+  display_name: "Google Ads Quarterly Export"
+  short_description: "Parallel quarter-split Google Ads exports"
+  default_prompt: "Use $google-ads-quarterly-report-export to run current and last quarter Google Ads exports in parallel via Playwright MCP and deliver one cleaned Google Sheet."

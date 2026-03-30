@@ -1,0 +1,417 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]: The website is currently under development, with all pages and links expected to be fully functional within the next few weeks
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - link "logo" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "logo" [ref=e7]
+      - text:    
+      - button "menu" [ref=e481] [cursor=pointer]
+  - generic [ref=e27]:
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - generic [ref=e30]:
+          - generic [ref=e31]:
+            - generic [ref=e32]:
+              - strong [ref=e33]: STOP
+              - text: Wasting Marketing Budget on Agencies that Don't Deliver Measurable ROI.
+              - strong [ref=e34]: Instead choose
+            - heading "Solution-Focused Marketing Agency with Performance-Based Approach" [level=1] [ref=e35]
+          - generic [ref=e36]:
+            - text: Choose performance-focused team of marketing experts with dedicated,
+            - strong [ref=e37]: solution-focused
+            - text: project managers. Our experience and
+            - strong [ref=e38]: AI-powered approach
+            - text: ", will help your business grow faster and less risky. With seamless integration into your overall marketing, you can focus on growth while leaving the micromanagement to us."
+          - link "Start with risk free services" [ref=e39] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e40]: Start with risk free services
+        - generic [ref=e41]:
+          - generic [ref=e42]:
+            - generic [ref=e43]:
+              - text: “Working with Andrii and his team was an exceptional experience.
+              - strong [ref=e44]: Their expertise and results-driven approach made a huge impact on our business
+              - text: . We highly recommend their services!”
+            - generic [ref=e45]:
+              - img "Upwork" [ref=e46]
+              - generic [ref=e47]:
+                - text: Jason C., CEO
+                - text: Review from Upwork.com
+          - generic [ref=e49]:
+            - generic [ref=e50]:
+              - img "Upwork" [ref=e51]
+              - generic [ref=e52]: Rated 4.9/5 on Upwork
+            - generic [ref=e53]:
+              - generic [ref=e54]:
+                - img "star" [ref=e55]
+                - img "star" [ref=e56]
+                - img "star" [ref=e57]
+                - img "star" [ref=e58]
+                - img "star" [ref=e59]
+              - generic [ref=e60]: Rated 10/10 on FreelanceHunt
+      - generic [ref=e61]:
+        - generic [ref=e62]: "Trusted by over 600 small and medium businesses:"
+        - generic [ref=e64]:
+          - generic [ref=e66]:
+            - img "Brand Logo" [ref=e68]
+            - img "Brand Logo" [ref=e70]
+            - img "Brand Logo" [ref=e72]
+            - generic [ref=e73]:
+              - img "Brand Logo" [ref=e74]
+              - generic [ref=e75]:
+                - text: The Dress
+                - text: Outlet
+            - img "Brand Logo" [ref=e77]
+            - img "Brand Logo" [ref=e79]
+            - img "Brand Logo" [ref=e81]
+            - img "Brand Logo" [ref=e83]
+            - img "Brand Logo" [ref=e85]
+            - img "Brand Logo" [ref=e87]
+          - generic [ref=e89]:
+            - img "Brand Logo" [ref=e91]
+            - img "Brand Logo" [ref=e93]
+            - img "Brand Logo" [ref=e95]
+            - generic [ref=e96]:
+              - img "Brand Logo" [ref=e97]
+              - generic [ref=e98]:
+                - text: The Dress
+                - text: Outlet
+            - img "Brand Logo" [ref=e100]
+            - img "Brand Logo" [ref=e102]
+            - img "Brand Logo" [ref=e104]
+            - img "Brand Logo" [ref=e106]
+            - img "Brand Logo" [ref=e108]
+            - img "Brand Logo" [ref=e110]
+          - generic [ref=e112]:
+            - img "Brand Logo" [ref=e114]
+            - img "Brand Logo" [ref=e116]
+            - img "Brand Logo" [ref=e118]
+            - generic [ref=e119]:
+              - img "Brand Logo" [ref=e120]
+              - generic [ref=e121]:
+                - text: The Dress
+                - text: Outlet
+            - img "Brand Logo" [ref=e123]
+            - img "Brand Logo" [ref=e125]
+            - img "Brand Logo" [ref=e127]
+            - img "Brand Logo" [ref=e129]
+            - img "Brand Logo" [ref=e131]
+            - img "Brand Logo" [ref=e133]
+          - generic [ref=e135]:
+            - img "Brand Logo" [ref=e137]
+            - img "Brand Logo" [ref=e139]
+            - img "Brand Logo" [ref=e141]
+            - generic [ref=e142]:
+              - img "Brand Logo" [ref=e143]
+              - generic [ref=e144]:
+                - text: The Dress
+                - text: Outlet
+            - img "Brand Logo" [ref=e146]
+            - img "Brand Logo" [ref=e148]
+            - img "Brand Logo" [ref=e150]
+            - img "Brand Logo" [ref=e152]
+            - img "Brand Logo" [ref=e154]
+            - img "Brand Logo" [ref=e156]
+          - generic [ref=e158]:
+            - img "Brand Logo" [ref=e160]
+            - img "Brand Logo" [ref=e162]
+            - img "Brand Logo" [ref=e164]
+            - generic [ref=e165]:
+              - img "Brand Logo" [ref=e166]
+              - generic [ref=e167]:
+                - text: The Dress
+                - text: Outlet
+            - img "Brand Logo" [ref=e169]
+            - img "Brand Logo" [ref=e171]
+            - img "Brand Logo" [ref=e173]
+            - img "Brand Logo" [ref=e175]
+            - img "Brand Logo" [ref=e177]
+            - img "Brand Logo" [ref=e179]
+          - generic [ref=e181]:
+            - img "Brand Logo" [ref=e183]
+            - img "Brand Logo" [ref=e185]
+            - img "Brand Logo" [ref=e187]
+            - generic [ref=e188]:
+              - img "Brand Logo" [ref=e189]
+              - generic [ref=e190]:
+                - text: The Dress
+                - text: Outlet
+            - img "Brand Logo" [ref=e192]
+            - img "Brand Logo" [ref=e194]
+            - img "Brand Logo" [ref=e196]
+            - img "Brand Logo" [ref=e198]
+            - img "Brand Logo" [ref=e200]
+            - img "Brand Logo" [ref=e202]
+          - generic [ref=e204]:
+            - img "Brand Logo" [ref=e206]
+            - img "Brand Logo" [ref=e208]
+            - img "Brand Logo" [ref=e210]
+            - generic [ref=e211]:
+              - img "Brand Logo" [ref=e212]
+              - generic [ref=e213]:
+                - text: The Dress
+                - text: Outlet
+            - img "Brand Logo" [ref=e215]
+            - img "Brand Logo" [ref=e217]
+            - img "Brand Logo" [ref=e219]
+            - img "Brand Logo" [ref=e221]
+            - img "Brand Logo" [ref=e223]
+            - img "Brand Logo" [ref=e225]
+          - generic [ref=e227]:
+            - img "Brand Logo" [ref=e229]
+            - img "Brand Logo" [ref=e231]
+            - img "Brand Logo" [ref=e233]
+            - generic [ref=e234]:
+              - img "Brand Logo" [ref=e235]
+              - generic [ref=e236]:
+                - text: The Dress
+                - text: Outlet
+            - img "Brand Logo" [ref=e238]
+            - img "Brand Logo" [ref=e240]
+            - img "Brand Logo" [ref=e242]
+            - img "Brand Logo" [ref=e244]
+            - img "Brand Logo" [ref=e246]
+            - img "Brand Logo" [ref=e248]
+          - generic [ref=e250]:
+            - img "Brand Logo" [ref=e252]
+            - img "Brand Logo" [ref=e254]
+            - img "Brand Logo" [ref=e256]
+            - generic [ref=e257]:
+              - img "Brand Logo" [ref=e258]
+              - generic [ref=e259]:
+                - text: The Dress
+                - text: Outlet
+            - img "Brand Logo" [ref=e261]
+            - img "Brand Logo" [ref=e263]
+            - img "Brand Logo" [ref=e265]
+            - img "Brand Logo" [ref=e267]
+            - img "Brand Logo" [ref=e269]
+            - img "Brand Logo" [ref=e271]
+          - generic [ref=e273]:
+            - img "Brand Logo" [ref=e275]
+            - img "Brand Logo" [ref=e277]
+            - img "Brand Logo" [ref=e279]
+            - generic [ref=e280]:
+              - img "Brand Logo" [ref=e281]
+              - generic [ref=e282]:
+                - text: The Dress
+                - text: Outlet
+            - img "Brand Logo" [ref=e284]
+            - img "Brand Logo" [ref=e286]
+            - img "Brand Logo" [ref=e288]
+            - img "Brand Logo" [ref=e290]
+            - img "Brand Logo" [ref=e292]
+            - img "Brand Logo" [ref=e294]
+    - generic [ref=e296]:
+      - generic [ref=e298]:
+        - generic [ref=e299]:
+          - generic [ref=e300]: "Problem #1"
+          - heading "Poor project management and no ownership of results" [level=2] [ref=e301]
+        - generic [ref=e303]: Without clear communication and better management, you’ll continue micromanaging while your marketing underperform, leading to wasted budget and missed growth.
+      - generic [ref=e305]:
+        - generic [ref=e306]:
+          - generic [ref=e307]: The Solution
+          - heading "Dedicated Project Managers ✅" [level=2] [ref=e308]
+        - generic [ref=e310]: You’ll gain clear communication, accountability, and seamless coordination. Say goodbye to micromanaging —our team ensures your campaigns deliver the results you need while keeping everything on track.
+      - generic [ref=e312]:
+        - generic [ref=e313]:
+          - generic [ref=e314]: "Problem #2"
+          - heading "Focus on hours spent or technical details too much" [level=2] [ref=e315]
+        - generic [ref=e317]: Spending too much time tracking hours or checking technical work distracts from what really matters—delivering measurable business results.
+      - generic [ref=e319]:
+        - generic [ref=e320]:
+          - generic [ref=e321]: The Solution
+          - heading "ROI/ROAS forecast and approval before actions ✅" [level=2] [ref=e322]
+        - generic [ref=e324]: We focus on delivering outcomes by providing clear ROI and ROAS forecasts upfront, ensuring every action is approved for its direct impact on your growth.
+    - generic [ref=e326]:
+      - heading "What Type of Services You’re Looking For?" [level=2] [ref=e329]
+      - generic [ref=e330]:
+        - generic [ref=e331]:
+          - generic [ref=e332]:
+            - heading "SEO Services" [level=3] [ref=e333]
+            - generic [ref=e334]: Discover tailored solutions for SEO based on your existing requests and business situation. Find the best way to start SEO to you
+          - link "Explore SEO Services" [ref=e335] [cursor=pointer]:
+            - /url: /seo
+            - generic [ref=e336]: Explore SEO Services
+          - generic [ref=e338]: AI-Powered
+        - generic [ref=e339]:
+          - generic [ref=e340]:
+            - heading "Google Ads Services" [level=3] [ref=e341]
+            - generic [ref=e342]: Discover tailored solutions for Google Ads based on your existing requests and business situation. Find the best way to start Google Ads to you
+          - link "Explore Google Ads Services" [ref=e343] [cursor=pointer]:
+            - /url: /google-ads
+            - generic [ref=e344]: Explore Google Ads Services
+          - generic [ref=e346]: AI-Powered
+        - generic [ref=e347]:
+          - generic [ref=e348]:
+            - heading "Meta Ads Services" [level=3] [ref=e349]
+            - generic [ref=e350]: Designed to deliver impactful results with clear ROI and ROAS projections. We ensure every campaign is tailored to your business goals, maximizing audience engagement and ad spend efficiency across Meta platforms.
+          - generic [ref=e352]: Soon
+    - generic [ref=e354]:
+      - generic [ref=e355]:
+        - heading "Case Studies" [level=2] [ref=e357]
+        - generic [ref=e359]:
+          - text: See how we've delivered results and helped businesses grow
+          - text: through proven strategies.
+      - list [ref=e362]:
+        - listitem [ref=e363]:
+          - generic [ref=e364]:
+            - generic [ref=e365]:
+              - generic [ref=e366]: $3.5k BOFU SEO that grew leads as CTR fell
+              - generic [ref=e367]: See how a US oil and gas SaaS used technical cleanup, BOFU-first pages, smart internal links, and CRO to restore 2+ qualified leads per month on $3.5k-mo, despite a CTR drop from AI Overview.
+            - link "Learn more arrow" [ref=e368] [cursor=pointer]:
+              - /url: /case-study/bofu-seo-oil-gas-leads-3500
+              - generic [ref=e369]: Learn more
+              - img "arrow" [ref=e370]
+        - listitem [ref=e371]:
+          - generic [ref=e372]:
+            - generic [ref=e373]:
+              - generic [ref=e374]: 276% Organic Lift In Cabinets With 5 Plays
+              - generic [ref=e375]: Under tight budgets and dev delays, we scaled a new kitchen cabinets site from 336 to 1,262 organic sessions and raised Domain Trust from 12 to 25. See the 5 moves that made growth predictable.
+            - link "Learn more arrow" [ref=e376] [cursor=pointer]:
+              - /url: /case-study/kitchen-cabinets-seo-276-lift
+              - generic [ref=e377]: Learn more
+              - img "arrow" [ref=e378]
+        - listitem [ref=e379]:
+          - generic [ref=e380]:
+            - generic [ref=e381]:
+              - generic [ref=e382]: 1,000+ Pages Back, More Leads With Less Traffic
+              - generic [ref=e383]: A UK kids football network cut timeouts, rebuilt architecture, reindexed 1,000+ pages, and surpassed 2024 local leads despite AI Overviews. See the sprint order and the city we fixed first.
+            - link "Learn more arrow" [ref=e384] [cursor=pointer]:
+              - /url: /case-study/uk-youth-football-seo-turnaround-ai-overviews
+              - generic [ref=e385]: Learn more
+              - img "arrow" [ref=e386]
+        - listitem [ref=e387]:
+          - generic [ref=e388]:
+            - generic [ref=e389]:
+              - generic [ref=e390]: How We Hit 160K Impressions on 500 EUR a Month
+              - generic [ref=e391]: From a new Japanese haircare Shopify store to 160K impressions and 898 clicks in April 2025 on 500 EUR a month. See what moved the needle - and what did not ship.
+            - link "Learn more arrow" [ref=e392] [cursor=pointer]:
+              - /url: /case-study/eu-seo-160k-impressions-500-eur
+              - generic [ref=e393]: Learn more
+              - img "arrow" [ref=e394]
+        - listitem [ref=e395]:
+          - generic [ref=e396]:
+            - generic [ref=e397]:
+              - generic [ref=e398]: 17k Organic Visits on $2.5k/mo in Telehealth
+              - generic [ref=e399]: A telehealth nutrition site jumped from 2-3k to 17-18k organic visits in 30 days on $2.5k per month. Learn the 4 levers, tools, and timing - including a 44k-visit breakout post.
+            - link "Learn more arrow" [ref=e400] [cursor=pointer]:
+              - /url: /case-study/telehealth-seo-17k-traffic-2-5k-budget
+              - generic [ref=e401]: Learn more
+              - img "arrow" [ref=e402]
+        - listitem [ref=e403]:
+          - generic [ref=e404]:
+            - generic [ref=e405]:
+              - generic [ref=e406]: The System That Unlocked 5.6M Discover Clicks
+              - generic [ref=e407]: From a traffic nadir to 5.6M Discover clicks in year one - no link arms race. Learn the plays that drove +546% non-branded growth and a 63% CTR lift despite a legacy CMS and sitemap hiccups.
+            - link "Learn more arrow" [ref=e408] [cursor=pointer]:
+              - /url: /case-study/discover-playbook-5-6m-clicks
+              - generic [ref=e409]: Learn more
+              - img "arrow" [ref=e410]
+    - generic [ref=e414]:
+      - heading "Reviews and testimonals" [level=2] [ref=e417]
+      - generic [ref=e418]:
+        - generic [ref=e419]:
+          - img "Review"
+        - generic [ref=e420]:
+          - img "Review"
+        - generic [ref=e421]:
+          - img "Review"
+        - generic [ref=e422]:
+          - img "Review"
+        - generic [ref=e423]:
+          - img "Review"
+      - generic [ref=e424]:
+        - generic [ref=e425]:
+          - generic [ref=e426]:
+            - link "Upwork" [ref=e427] [cursor=pointer]:
+              - /url: https://www.upwork.com/fl/andrewdaniv
+              - img "Upwork" [ref=e428]
+            - link "Upwork":
+              - /url: https://www.upwork.com/fl/andrewdaniv
+              - img "Upwork"
+          - generic [ref=e430]:
+            - text: We’re
+            - strong [ref=e431]: top 1%
+            - text: Google Ads Talents on
+            - link "Upwork" [ref=e432] [cursor=pointer]:
+              - /url: https://www.upwork.com/fl/andrewdaniv
+            - text: "- pre-screened by Upwork Talent Managers among other 50,000+ teams and freelancers in Google Ads"
+        - generic [ref=e433]:
+          - generic [ref=e434]:
+            - link "star star star star star 255 reviews" [ref=e435] [cursor=pointer]:
+              - /url: https://freelancehunt.com/en/freelancer/andrew_daniv.html
+              - generic:
+                - img "star"
+                - img "star"
+                - img "star"
+                - img "star"
+                - img "star"
+              - generic [ref=e436]: 255 reviews
+            - link "Freelancehunt":
+              - /url: https://freelancehunt.com/en/freelancer/andrew_daniv.html
+              - img "Freelancehunt"
+          - generic [ref=e438]:
+            - text: We’re
+            - strong [ref=e439]: Top Rated
+            - text: "on"
+            - link "Freelancehunt" [ref=e440] [cursor=pointer]:
+              - /url: https://freelancehunt.com/en/freelancer/andrew_daniv.html
+            - text: "- Ukrainian freelance marketplace and ranking #8 on Google ads among 1200+ teams and freelancers in Google Ads"
+  - generic [ref=e442]:
+    - generic [ref=e443]:
+      - generic [ref=e444]:
+        - img "logo"
+        - generic [ref=e445]:
+          - text: Ready to speak with a
+          - text: marketing expert?
+        - link "Book a call" [ref=e446] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=e447]: Book a call
+      - generic [ref=e448]:
+        - generic [ref=e449]:
+          - generic [ref=e450]: Services
+          - generic [ref=e451]:
+            - link "SEO services" [ref=e452] [cursor=pointer]:
+              - /url: /seo
+            - link "Google Ads services" [ref=e453] [cursor=pointer]:
+              - /url: /google-ads
+            - link "Meta Ads services" [ref=e454] [cursor=pointer]:
+              - /url: "#"
+            - link "Content Marketing services" [ref=e455] [cursor=pointer]:
+              - /url: "#"
+        - generic [ref=e456]:
+          - generic [ref=e457]: Company
+          - generic [ref=e458]:
+            - link "About Us" [ref=e459] [cursor=pointer]:
+              - /url: /about-us
+            - link "Contact Us" [ref=e460] [cursor=pointer]:
+              - /url: /contact-us
+            - link "Industries" [ref=e461] [cursor=pointer]:
+              - /url: "#"
+            - link "Our Mission" [ref=e462] [cursor=pointer]:
+              - /url: "#"
+        - generic [ref=e463]:
+          - generic [ref=e464]: Resources
+          - generic [ref=e465]:
+            - link "News" [ref=e466] [cursor=pointer]:
+              - /url: /news
+            - link "Blog" [ref=e467] [cursor=pointer]:
+              - /url: /blog
+            - link "Case studies" [ref=e468] [cursor=pointer]:
+              - /url: /case-studies
+    - generic [ref=e470]:
+      - generic [ref=e471]:
+        - generic [ref=e472]: © 2026 Etavrian. All Rights Reserved.
+        - link "Privacy Policy & Terms of Use" [ref=e473] [cursor=pointer]:
+          - /url: /privacy-policy-terms-of-use
+      - generic [ref=e474]:
+        - link "LinkedIn" [ref=e475] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/andrii-daniv/
+          - img "LinkedIn" [ref=e476]
+        - link "Facebook" [ref=e477] [cursor=pointer]:
+          - /url: "#"
+          - img "Facebook" [ref=e478]
+        - link "Twitter" [ref=e479] [cursor=pointer]:
+          - /url: "#"
+          - img "Twitter" [ref=e480]

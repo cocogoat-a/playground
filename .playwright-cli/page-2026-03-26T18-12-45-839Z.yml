@@ -1,0 +1,711 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - banner "Top navigation" [ref=e6]:
+      - status
+      - generic [ref=e7]:
+        - button [expanded] [ref=e8] [cursor=pointer]:
+          - img [ref=e11]: menu
+        - heading "Google Ads – Go to starting page" [level=1] [ref=e13]:
+          - button "Google Ads – Go to starting page" [ref=e14]:
+            - img [ref=e16] [cursor=pointer]
+        - button "Etavrian MCC minvoir.com 416-384-5005" [ref=e26] [cursor=pointer]:
+          - generic [ref=e28]:
+            - generic [ref=e29]:
+              - link "Etavrian MCC" [ref=e30]:
+                - /url: /aw/overview?ocid=6547539728&ascid=6547539728&authuser=0&__u=6216113857&__c=4614269072
+              - img [ref=e32]: chevron_right
+            - generic [ref=e33]:
+              - generic [ref=e34]: minvoir.com
+              - generic [ref=e35]: 416-384-5005
+              - img [ref=e37]: arrow_drop_down
+      - generic [ref=e294]:
+        - button "Page search" [ref=e297] [cursor=pointer]:
+          - generic [ref=e299]:
+            - img [ref=e300]: search
+            - text: Search
+        - generic [ref=e302]:
+          - button "Ads advisor" [ref=e303] [cursor=pointer]:
+            - generic [ref=e304]:
+              - generic [ref=e305]:
+                - img [ref=e306]: button_magic
+                - text: Ads Advisor
+              - generic [ref=e307]: Beta
+          - button "Appearance" [ref=e311] [cursor=pointer]:
+            - generic [ref=e313]:
+              - img [ref=e314]: responsive_layout
+              - text: Appearance
+          - button "Refresh" [ref=e318] [cursor=pointer]:
+            - generic [ref=e320]:
+              - img [ref=e321]: refresh
+              - text: Refresh
+          - button "Open the quick help panel" [ref=e324] [cursor=pointer]:
+            - generic [ref=e325]:
+              - text: Help
+              - generic [ref=e326]:
+                - img [ref=e327]: help_outline
+                - text: Help
+          - button "Notifications" [ref=e334] [cursor=pointer]:
+            - generic [ref=e336]:
+              - img [ref=e339]: notifications
+              - generic [ref=e341]: Notifications
+      - button "Google Account" [ref=e346] [cursor=pointer]:
+        - img "Google Account (team@etavrian.com)" [ref=e347]
+    - generic [ref=e49]:
+      - generic [ref=e352]:
+        - img [ref=e354]: report_problem
+        - generic [ref=e356]:
+          - status [ref=e357]:
+            - generic [ref=e359]: Call-only ads are being deprecated - Update to call assets by February 2027.
+          - generic [ref=e361]:
+            - button "Learn more" [ref=e364] [cursor=pointer]:
+              - generic [ref=e365]: Learn more
+            - button "Fix it" [ref=e368] [cursor=pointer]:
+              - generic [ref=e369]: Fix it
+            - button "Dismiss" [ref=e372] [cursor=pointer]:
+              - generic [ref=e373]: Dismiss
+      - generic [ref=e50]:
+        - generic [ref=e52]:
+          - generic [ref=e53]:
+            - generic [ref=e54]:
+              - button "Create" [ref=e56] [cursor=pointer]:
+                - img [ref=e59]
+              - generic [ref=e61]: Create
+            - menu [ref=e62]:
+              - menu [ref=e63]:
+                - menuitem "Campaigns" [ref=e66] [cursor=pointer]:
+                  - generic [ref=e67]:
+                    - img [ref=e69]: campaign
+                    - generic [ref=e70]: Campaigns
+                - menuitem "Goals" [ref=e73] [cursor=pointer]:
+                  - generic [ref=e74]:
+                    - img [ref=e76]: rewarded_ads
+                    - generic [ref=e77]: Goals
+                - menuitem "Tools" [ref=e80] [cursor=pointer]:
+                  - generic [ref=e81]:
+                    - img [ref=e83]: construction
+                    - generic [ref=e84]: Tools
+                - menuitem "Billing" [ref=e87] [cursor=pointer]:
+                  - generic [ref=e88]:
+                    - img [ref=e90]: credit_card
+                    - generic [ref=e91]: Billing
+                - menuitem "Admin" [ref=e94] [cursor=pointer]:
+                  - generic [ref=e95]:
+                    - img [ref=e97]: settings
+                    - generic [ref=e98]: Admin
+          - navigation [ref=e99]:
+            - menu [ref=e100]:
+              - generic [ref=e101]:
+                - menuitem "Overview" [ref=e104] [cursor=pointer]:
+                  - generic [ref=e106]: Overview
+                - menuitem "Recommendations" [ref=e110] [cursor=pointer]:
+                  - generic [ref=e112]: Recommendations
+                - menuitem "Insights and reports" [ref=e116] [cursor=pointer]:
+                  - generic [ref=e117]:
+                    - generic [ref=e118]: Insights and reports
+                    - img [ref=e121]: expand_more
+                - menuitem "Campaigns" [ref=e124] [cursor=pointer]:
+                  - generic [ref=e125]:
+                    - generic [ref=e126]: Campaigns
+                    - img [ref=e129]: expand_more
+                - menuitem "Assets" [ref=e132] [cursor=pointer]:
+                  - generic [ref=e133]:
+                    - generic [ref=e134]: Assets
+                    - img [ref=e137]: expand_more
+                - menuitem "Products" [ref=e140] [cursor=pointer]:
+                  - generic [ref=e141]:
+                    - generic [ref=e142]: Products
+                    - img [ref=e145]: expand_more
+                - menuitem "Audiences, keywords and content" [expanded] [ref=e148] [cursor=pointer]:
+                  - generic [ref=e149]:
+                    - generic [ref=e150]: Audiences, keywords and content
+                    - img [ref=e153]: expand_more
+                - generic [ref=e154]:
+                  - menuitem "Keywords" [ref=e157] [cursor=pointer]:
+                    - generic [ref=e159]: Keywords
+                  - menuitem "Audiences" [ref=e163] [cursor=pointer]:
+                    - generic [ref=e165]: Audiences
+                  - menuitem "Locations" [ref=e169] [cursor=pointer]:
+                    - generic [ref=e171]: Locations
+                  - menuitem "Content" [ref=e175] [cursor=pointer]:
+                    - generic [ref=e177]: Content
+                  - menuitem "Ad schedule" [ref=e181] [cursor=pointer]:
+                    - generic [ref=e183]: Ad schedule
+                  - menuitem "Advanced bid adjustments" [ref=e187] [cursor=pointer]:
+                    - generic [ref=e189]: Advanced bid adjustments
+                - menuitem "Change history" [ref=e193] [cursor=pointer]:
+                  - generic [ref=e195]: Change history
+            - group [ref=e199]:
+              - generic [ref=e200]:
+                - generic [ref=e201]:
+                  - generic "Get the Google Ads app" [ref=e202]:
+                    - img [ref=e204]: app_promo
+                    - generic [ref=e205]: Get the Google Ads app
+                  - button "Get the Google Ads app dismiss" [ref=e206] [cursor=pointer]:
+                    - img [ref=e209]: close
+                - generic [ref=e211]:
+                  - img "QR Code for Ads Mobile" [ref=e212]
+                  - generic "Scan to download the mobile app and get updates for your campaigns on the go" [ref=e213]
+        - generic [ref=e214]:
+          - generic [ref=e217]:
+            - button "View (2 filters) All campaigns" [ref=e222] [cursor=pointer]:
+              - generic [ref=e223]:
+                - generic [ref=e224]: View (2 filters)
+                - generic [ref=e225]:
+                  - img [ref=e228]: home
+                  - button "All campaigns" [ref=e229]
+              - img [ref=e231]: arrow_drop_down
+            - button "Campaigns (38) Select a campaign" [ref=e236] [cursor=pointer]:
+              - generic [ref=e237]:
+                - generic [ref=e238]: Campaigns (38)
+                - generic [ref=e239]: Select a campaign
+              - img [ref=e241]: arrow_drop_down
+          - group [ref=e245]:
+            - generic [ref=e246]:
+              - generic [ref=e247] [cursor=pointer]:
+                - generic: Filters
+              - generic: "Filters Applied:"
+              - grid "Filters Applied:" [ref=e248]:
+                - 'row "Campaign status: Enabled, Paused" [ref=e376] [cursor=pointer]':
+                  - 'gridcell "Campaign status: Enabled, Paused" [ref=e377]':
+                    - 'button "Campaign status: Enabled, Paused" [ref=e378]': "Campaign status: Enabled, Paused"
+                - 'row "Ad group status: Enabled, Paused" [ref=e380] [cursor=pointer]':
+                  - 'gridcell "Ad group status: Enabled, Paused" [ref=e381]':
+                    - 'button "Ad group status: Enabled, Paused" [ref=e382]': "Ad group status: Enabled, Paused"
+                - row [ref=e257]:
+                  - gridcell [ref=e258]:
+                    - combobox "Add filter" [ref=e259]
+                    - status [ref=e260]
+              - button "Save" [ref=e263] [cursor=pointer]:
+                - generic [ref=e264]:
+                  - img [ref=e266]: save
+                  - generic [ref=e267]: Save
+          - main [ref=e275]:
+            - generic [ref=e276]:
+              - generic [ref=e278]:
+                - generic [ref=e386]:
+                  - heading "Locations" [level=2] [ref=e387]
+                  - generic [ref=e390]:
+                    - button "Scroll tab bar backward" [disabled] [ref=e391]:
+                      - generic:
+                        - generic:
+                          - img "Scroll tab bar backward": chevron_left
+                    - tablist [ref=e392]:
+                      - tab "Locations" [selected] [ref=e393] [cursor=pointer]:
+                        - generic [ref=e394]: Locations
+                      - tab "Location exclusions" [ref=e396] [cursor=pointer]:
+                        - generic [ref=e397]: Location exclusions
+                      - tab "Locations of interest" [ref=e399] [cursor=pointer]:
+                        - generic [ref=e400]: Locations of interest
+                    - button "Scroll tab bar forward" [ref=e403] [cursor=pointer]:
+                      - img "Scroll tab bar forward" [ref=e406]: chevron_right
+                - generic [ref=e409]:
+                  - generic [ref=e411] [cursor=pointer]:
+                    - generic [ref=e412]: Custom
+                    - generic [ref=e414]:
+                      - button "1 Oct - 31 Dec 2025 Not applicable" [ref=e416]:
+                        - generic [ref=e417]: 1 Oct - 31 Dec 2025
+                        - img [ref=e419]: arrow_drop_down
+                      - generic [ref=e420]:
+                        - button "Previous" [ref=e421]:
+                          - img [ref=e424]: chevron_left
+                        - button "Next" [ref=e426]:
+                          - img [ref=e429]: chevron_right
+                  - button "Show last 30 days" [ref=e431] [cursor=pointer]:
+                    - generic [ref=e432]: Show last 30 days
+              - generic [ref=e281]:
+                - generic [ref=e435]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic [ref=e438]:
+                          - generic [ref=e439]: Edit targets for
+                          - generic [ref=e440]:
+                            - button "Campaign" [ref=e443] [cursor=pointer]:
+                              - generic [ref=e444]: Campaign
+                              - img [ref=e446]: arrow_drop_down
+                            - button "Select a campaign" [ref=e448] [cursor=pointer]:
+                              - generic [ref=e450]: Select a campaign
+                              - img [ref=e452]: mode_edit
+                        - text: info
+                  - generic [ref=e453]:
+                    - generic: info
+                    - region "Primary toolbelt for Locations" [ref=e458]:
+                      - generic [ref=e459]:
+                        - button "Locations" [ref=e463] [cursor=pointer]:
+                          - img [ref=e466]: mode_edit
+                        - generic [ref=e470] [cursor=pointer]:
+                          - group [ref=e471]:
+                            - generic [ref=e472]:
+                              - generic [ref=e473]:
+                                - generic:
+                                  - img: filter_alt
+                              - grid [ref=e474]
+                          - button "Add filter" [ref=e476]:
+                            - generic [ref=e477]: Add filter
+                      - generic [ref=e479]:
+                        - button "Segment. Segmentation off" [ref=e484] [cursor=pointer]:
+                          - generic [ref=e485]:
+                            - img [ref=e487]: segment
+                            - generic [ref=e488]: Segment
+                        - button "Columns" [ref=e494] [cursor=pointer]:
+                          - generic [ref=e495]:
+                            - img [ref=e497]: view_column
+                            - generic [ref=e498]: Columns
+                        - button "Download" [ref=e504] [cursor=pointer]:
+                          - generic [ref=e505]:
+                            - img [ref=e507]: file_download
+                            - generic [ref=e508]: Download
+                        - button "Expand" [ref=e514] [cursor=pointer]:
+                          - generic [ref=e515]:
+                            - img [ref=e517]: fullscreen
+                            - generic [ref=e518]: Expand
+                        - button "More options" [ref=e524] [cursor=pointer]:
+                          - generic [ref=e525]:
+                            - img [ref=e527]: more_vert
+                            - generic [ref=e528]: More
+                    - generic [ref=e530]:
+                      - grid "Locations" [ref=e533]:
+                        - row "Select all rows Targeted location Campaign Ad group Avg. CPM Impr. Interactions Interaction rate Avg. cost Cost Conv. rate Conversions Cost / conv." [ref=e534]:
+                          - gridcell "Select all rows" [ref=e535]:
+                            - checkbox "Select all rows" [ref=e537] [cursor=pointer]:
+                              - img [ref=e539]
+                          - columnheader "Targeted location" [ref=e540] [cursor=pointer]
+                          - columnheader "Campaign" [ref=e541] [cursor=pointer]
+                          - columnheader "Ad group" [ref=e542] [cursor=pointer]
+                          - columnheader "Avg. CPM" [ref=e543] [cursor=pointer]:
+                            - text: Avg. CPM
+                            - img [ref=e545]: help_outline
+                          - columnheader "Impr." [ref=e546] [cursor=pointer]:
+                            - text: Impr.
+                            - img [ref=e548]: help_outline
+                          - columnheader "Interactions" [ref=e549] [cursor=pointer]:
+                            - text: Interactions
+                            - img [ref=e551]: help_outline
+                          - columnheader "Interaction rate" [ref=e552] [cursor=pointer]:
+                            - text: Interaction rate
+                            - img [ref=e554]: help_outline
+                          - columnheader "Avg. cost" [ref=e555] [cursor=pointer]:
+                            - text: Avg. cost
+                            - img [ref=e557]: help_outline
+                          - columnheader "Cost" [ref=e558] [cursor=pointer]:
+                            - text: Cost
+                            - img [ref=e560]: help_outline
+                          - columnheader "Conv. rate" [ref=e561] [cursor=pointer]:
+                            - text: Conv. rate
+                            - img [ref=e563]: help_outline
+                          - columnheader "Conversions" [ref=e564] [cursor=pointer]:
+                            - text: Conversions
+                            - img [ref=e566]: help_outline
+                          - columnheader "Cost / conv." [ref=e567] [cursor=pointer]:
+                            - text: Cost / conv.
+                            - img [ref=e569]: help_outline
+                        - row "Select row Netherlands PMax | Rem | NL | New — €12.54 254,749 12,240 Clicks, engagements 4.80% €0.26 €3,193.97 1.03% 125.68 €25.41" [ref=e570]:
+                          - gridcell "Select row" [ref=e571]:
+                            - checkbox "Select row" [ref=e573] [cursor=pointer]:
+                              - img [ref=e575]
+                          - gridcell "Netherlands" [ref=e576]:
+                            - button "Netherlands" [ref=e578] [cursor=pointer]
+                          - gridcell "PMax | Rem | NL | New" [ref=e579]:
+                            - generic [ref=e582] [cursor=pointer]: PMax | Rem | NL | New
+                          - gridcell "—" [ref=e583]:
+                            - generic [ref=e586]: —
+                          - gridcell "€12.54" [ref=e587]:
+                            - generic [ref=e589]: €12.54
+                          - gridcell "254,749" [ref=e590]:
+                            - generic [ref=e592]: 254,749
+                          - gridcell "12,240 Clicks, engagements" [ref=e593]:
+                            - generic [ref=e594]:
+                              - generic [ref=e595]: 12,240
+                              - generic [ref=e596]: Clicks, engagements
+                          - gridcell "4.80%" [ref=e597]:
+                            - generic [ref=e599]: 4.80%
+                          - gridcell "€0.26" [ref=e600]:
+                            - generic [ref=e602]: €0.26
+                          - gridcell "€3,193.97" [ref=e603]:
+                            - generic [ref=e605]: €3,193.97
+                          - gridcell "1.03%" [ref=e606]:
+                            - generic [ref=e608]: 1.03%
+                          - gridcell "125.68" [ref=e609]:
+                            - generic [ref=e611]: "125.68"
+                          - gridcell "€25.41" [ref=e612]:
+                            - generic [ref=e614]: €25.41
+                        - row "Select row United Kingdom PMax | Rem | UK — €2.24 287,291 4,833 Clicks, engagements 1.68% €0.13 €642.13 0.23% 11.00 €58.38" [ref=e615]:
+                          - gridcell "Select row" [ref=e616]:
+                            - checkbox "Select row" [ref=e618] [cursor=pointer]:
+                              - img [ref=e620]
+                          - gridcell "United Kingdom" [ref=e621]:
+                            - button "United Kingdom" [ref=e623] [cursor=pointer]
+                          - gridcell "PMax | Rem | UK" [ref=e624]:
+                            - generic [ref=e627] [cursor=pointer]: PMax | Rem | UK
+                          - gridcell "—" [ref=e628]:
+                            - generic [ref=e631]: —
+                          - gridcell "€2.24" [ref=e632]:
+                            - generic [ref=e634]: €2.24
+                          - gridcell "287,291" [ref=e635]:
+                            - generic [ref=e637]: 287,291
+                          - gridcell "4,833 Clicks, engagements" [ref=e638]:
+                            - generic [ref=e639]:
+                              - generic [ref=e640]: 4,833
+                              - generic [ref=e641]: Clicks, engagements
+                          - gridcell "1.68%" [ref=e642]:
+                            - generic [ref=e644]: 1.68%
+                          - gridcell "€0.13" [ref=e645]:
+                            - generic [ref=e647]: €0.13
+                          - gridcell "€642.13" [ref=e648]:
+                            - generic [ref=e650]: €642.13
+                          - gridcell "0.23%" [ref=e651]:
+                            - generic [ref=e653]: 0.23%
+                          - gridcell "11.00" [ref=e654]:
+                            - generic [ref=e656]: "11.00"
+                          - gridcell "€58.38" [ref=e657]:
+                            - generic [ref=e659]: €58.38
+                        - row "Select row Germany PMax | Rem | DE — €9.79 80,085 2,610 Clicks, engagements 3.26% €0.30 €783.79 0.34% 9.00 €87.09" [ref=e660]:
+                          - gridcell "Select row" [ref=e661]:
+                            - checkbox "Select row" [ref=e663] [cursor=pointer]:
+                              - img [ref=e665]
+                          - gridcell "Germany" [ref=e666]:
+                            - button "Germany" [ref=e668] [cursor=pointer]
+                          - gridcell "PMax | Rem | DE" [ref=e669]:
+                            - generic [ref=e672] [cursor=pointer]: PMax | Rem | DE
+                          - gridcell "—" [ref=e673]:
+                            - generic [ref=e676]: —
+                          - gridcell "€9.79" [ref=e677]:
+                            - generic [ref=e679]: €9.79
+                          - gridcell "80,085" [ref=e680]:
+                            - generic [ref=e682]: 80,085
+                          - gridcell "2,610 Clicks, engagements" [ref=e683]:
+                            - generic [ref=e684]:
+                              - generic [ref=e685]: 2,610
+                              - generic [ref=e686]: Clicks, engagements
+                          - gridcell "3.26%" [ref=e687]:
+                            - generic [ref=e689]: 3.26%
+                          - gridcell "€0.30" [ref=e690]:
+                            - generic [ref=e692]: €0.30
+                          - gridcell "€783.79" [ref=e693]:
+                            - generic [ref=e695]: €783.79
+                          - gridcell "0.34%" [ref=e696]:
+                            - generic [ref=e698]: 0.34%
+                          - gridcell "9.00" [ref=e699]:
+                            - generic [ref=e701]: "9.00"
+                          - gridcell "€87.09" [ref=e702]:
+                            - generic [ref=e704]: €87.09
+                        - row "Select row Poland PMax | Rem | EU | EN — €3.78 27,065 2,030 Clicks, engagements 7.50% €0.05 €102.41 0.00% 0.00 €0.00" [ref=e705]:
+                          - gridcell "Select row" [ref=e706]:
+                            - checkbox "Select row" [ref=e708] [cursor=pointer]:
+                              - img [ref=e710]
+                          - gridcell "Poland" [ref=e711]:
+                            - button "Poland" [ref=e713] [cursor=pointer]
+                          - gridcell "PMax | Rem | EU | EN" [ref=e714]:
+                            - generic [ref=e717] [cursor=pointer]: PMax | Rem | EU | EN
+                          - gridcell "—" [ref=e718]:
+                            - generic [ref=e721]: —
+                          - gridcell "€3.78" [ref=e722]:
+                            - generic [ref=e724]: €3.78
+                          - gridcell "27,065" [ref=e725]:
+                            - generic [ref=e727]: 27,065
+                          - gridcell "2,030 Clicks, engagements" [ref=e728]:
+                            - generic [ref=e729]:
+                              - generic [ref=e730]: 2,030
+                              - generic [ref=e731]: Clicks, engagements
+                          - gridcell "7.50%" [ref=e732]:
+                            - generic [ref=e734]: 7.50%
+                          - gridcell "€0.05" [ref=e735]:
+                            - generic [ref=e737]: €0.05
+                          - gridcell "€102.41" [ref=e738]:
+                            - generic [ref=e740]: €102.41
+                          - gridcell "0.00%" [ref=e741]:
+                            - generic [ref=e743]: 0.00%
+                          - gridcell "0.00" [ref=e744]:
+                            - generic [ref=e746]: "0.00"
+                          - gridcell "€0.00" [ref=e747]:
+                            - generic [ref=e749]: €0.00
+                        - row "Select row Spain PMAX | shopping | EU | EN — €0.19 373,533 1,601 Clicks, engagements 0.43% €0.04 €70.96 0.00% 0.00 €0.00" [ref=e750]:
+                          - gridcell "Select row" [ref=e751]:
+                            - checkbox "Select row" [ref=e753] [cursor=pointer]:
+                              - img [ref=e755]
+                          - gridcell "Spain" [ref=e756]:
+                            - button "Spain" [ref=e758] [cursor=pointer]
+                          - gridcell "PMAX | shopping | EU | EN" [ref=e759]:
+                            - generic [ref=e762] [cursor=pointer]: PMAX | shopping | EU | EN
+                          - gridcell "—" [ref=e763]:
+                            - generic [ref=e766]: —
+                          - gridcell "€0.19" [ref=e767]:
+                            - generic [ref=e769]: €0.19
+                          - gridcell "373,533" [ref=e770]:
+                            - generic [ref=e772]: 373,533
+                          - gridcell "1,601 Clicks, engagements" [ref=e773]:
+                            - generic [ref=e774]:
+                              - generic [ref=e775]: 1,601
+                              - generic [ref=e776]: Clicks, engagements
+                          - gridcell "0.43%" [ref=e777]:
+                            - generic [ref=e779]: 0.43%
+                          - gridcell "€0.04" [ref=e780]:
+                            - generic [ref=e782]: €0.04
+                          - gridcell "€70.96" [ref=e783]:
+                            - generic [ref=e785]: €70.96
+                          - gridcell "0.00%" [ref=e786]:
+                            - generic [ref=e788]: 0.00%
+                          - gridcell "0.00" [ref=e789]:
+                            - generic [ref=e791]: "0.00"
+                          - gridcell "€0.00" [ref=e792]:
+                            - generic [ref=e794]: €0.00
+                        - row "Select row France PMax | Rem | FR — €5.48 36,132 1,600 Clicks, engagements 4.43% €0.12 €197.83 0.06% 1.00 €197.83" [ref=e795]:
+                          - gridcell "Select row" [ref=e796]:
+                            - checkbox "Select row" [ref=e798] [cursor=pointer]:
+                              - img [ref=e800]
+                          - gridcell "France" [ref=e801]:
+                            - button "France" [ref=e803] [cursor=pointer]
+                          - gridcell "PMax | Rem | FR" [ref=e804]:
+                            - generic [ref=e807] [cursor=pointer]: PMax | Rem | FR
+                          - gridcell "—" [ref=e808]:
+                            - generic [ref=e811]: —
+                          - gridcell "€5.48" [ref=e812]:
+                            - generic [ref=e814]: €5.48
+                          - gridcell "36,132" [ref=e815]:
+                            - generic [ref=e817]: 36,132
+                          - gridcell "1,600 Clicks, engagements" [ref=e818]:
+                            - generic [ref=e819]:
+                              - generic [ref=e820]: 1,600
+                              - generic [ref=e821]: Clicks, engagements
+                          - gridcell "4.43%" [ref=e822]:
+                            - generic [ref=e824]: 4.43%
+                          - gridcell "€0.12" [ref=e825]:
+                            - generic [ref=e827]: €0.12
+                          - gridcell "€197.83" [ref=e828]:
+                            - generic [ref=e830]: €197.83
+                          - gridcell "0.06%" [ref=e831]:
+                            - generic [ref=e833]: 0.06%
+                          - gridcell "1.00" [ref=e834]:
+                            - generic [ref=e836]: "1.00"
+                          - gridcell "€197.83" [ref=e837]:
+                            - generic [ref=e839]: €197.83
+                        - row "Select row Romania PMax | Rem | EU | EN — €8.82 16,690 1,570 Clicks, engagements 9.41% €0.09 €147.13 0.06% 1.00 €147.13" [ref=e840]:
+                          - gridcell "Select row" [ref=e841]:
+                            - checkbox "Select row" [ref=e843] [cursor=pointer]:
+                              - img [ref=e845]
+                          - gridcell "Romania" [ref=e846]:
+                            - button "Romania" [ref=e848] [cursor=pointer]
+                          - gridcell "PMax | Rem | EU | EN" [ref=e849]:
+                            - generic [ref=e852] [cursor=pointer]: PMax | Rem | EU | EN
+                          - gridcell "—" [ref=e853]:
+                            - generic [ref=e856]: —
+                          - gridcell "€8.82" [ref=e857]:
+                            - generic [ref=e859]: €8.82
+                          - gridcell "16,690" [ref=e860]:
+                            - generic [ref=e862]: 16,690
+                          - gridcell "1,570 Clicks, engagements" [ref=e863]:
+                            - generic [ref=e864]:
+                              - generic [ref=e865]: 1,570
+                              - generic [ref=e866]: Clicks, engagements
+                          - gridcell "9.41%" [ref=e867]:
+                            - generic [ref=e869]: 9.41%
+                          - gridcell "€0.09" [ref=e870]:
+                            - generic [ref=e872]: €0.09
+                          - gridcell "€147.13" [ref=e873]:
+                            - generic [ref=e875]: €147.13
+                          - gridcell "0.06%" [ref=e876]:
+                            - generic [ref=e878]: 0.06%
+                          - gridcell "1.00" [ref=e879]:
+                            - generic [ref=e881]: "1.00"
+                          - gridcell "€147.13" [ref=e882]:
+                            - generic [ref=e884]: €147.13
+                        - row "Select row Netherlands S | General | NL — €81.58 20,767 1,412 Clicks 6.80% €1.20 €1,694.21 4.15% 58.62 €28.90" [ref=e885]:
+                          - gridcell "Select row" [ref=e886]:
+                            - checkbox "Select row" [ref=e888] [cursor=pointer]:
+                              - img [ref=e890]
+                          - gridcell "Netherlands" [ref=e891]:
+                            - button "Netherlands" [ref=e893] [cursor=pointer]
+                          - gridcell "S | General | NL" [ref=e894]:
+                            - generic [ref=e897] [cursor=pointer]: S | General | NL
+                          - gridcell "—" [ref=e898]:
+                            - generic [ref=e901]: —
+                          - gridcell "€81.58" [ref=e902]:
+                            - generic [ref=e904]: €81.58
+                          - gridcell "20,767" [ref=e905]:
+                            - generic [ref=e907]: 20,767
+                          - gridcell "1,412 Clicks" [ref=e908]:
+                            - generic [ref=e909]:
+                              - generic [ref=e910]: 1,412
+                              - generic [ref=e911]: Clicks
+                          - gridcell "6.80%" [ref=e912]:
+                            - generic [ref=e914]: 6.80%
+                          - gridcell "€1.20" [ref=e915]:
+                            - generic [ref=e917]: €1.20
+                          - gridcell "€1,694.21" [ref=e918]:
+                            - generic [ref=e920]: €1,694.21
+                          - gridcell "4.15%" [ref=e921]:
+                            - generic [ref=e923]: 4.15%
+                          - gridcell "58.62" [ref=e924]:
+                            - generic [ref=e926]: "58.62"
+                          - gridcell "€28.90" [ref=e927]:
+                            - generic [ref=e929]: €28.90
+                        - row "Select row France PMax | Rem | EU | EN — €8.04 21,124 1,388 Clicks, engagements 6.57% €0.12 €169.91 0.00% 0.00 €0.00" [ref=e930]:
+                          - gridcell "Select row" [ref=e931]:
+                            - checkbox "Select row" [ref=e933] [cursor=pointer]:
+                              - img [ref=e935]
+                          - gridcell "France" [ref=e936]:
+                            - button "France" [ref=e938] [cursor=pointer]
+                          - gridcell "PMax | Rem | EU | EN" [ref=e939]:
+                            - generic [ref=e942] [cursor=pointer]: PMax | Rem | EU | EN
+                          - gridcell "—" [ref=e943]:
+                            - generic [ref=e946]: —
+                          - gridcell "€8.04" [ref=e947]:
+                            - generic [ref=e949]: €8.04
+                          - gridcell "21,124" [ref=e950]:
+                            - generic [ref=e952]: 21,124
+                          - gridcell "1,388 Clicks, engagements" [ref=e953]:
+                            - generic [ref=e954]:
+                              - generic [ref=e955]: 1,388
+                              - generic [ref=e956]: Clicks, engagements
+                          - gridcell "6.57%" [ref=e957]:
+                            - generic [ref=e959]: 6.57%
+                          - gridcell "€0.12" [ref=e960]:
+                            - generic [ref=e962]: €0.12
+                          - gridcell "€169.91" [ref=e963]:
+                            - generic [ref=e965]: €169.91
+                          - gridcell "0.00%" [ref=e966]:
+                            - generic [ref=e968]: 0.00%
+                          - gridcell "0.00" [ref=e969]:
+                            - generic [ref=e971]: "0.00"
+                          - gridcell "€0.00" [ref=e972]:
+                            - generic [ref=e974]: €0.00
+                        - row "Select row Italy PMax | Rem | EU | EN — €6.34 20,730 1,268 Clicks, engagements 6.12% €0.10 €131.34 0.24% 3.00 €43.78" [ref=e975]:
+                          - gridcell "Select row" [ref=e976]:
+                            - checkbox "Select row" [ref=e978] [cursor=pointer]:
+                              - img [ref=e980]
+                          - gridcell "Italy" [ref=e981]:
+                            - button "Italy" [ref=e983] [cursor=pointer]
+                          - gridcell "PMax | Rem | EU | EN" [ref=e984]:
+                            - generic [ref=e987] [cursor=pointer]: PMax | Rem | EU | EN
+                          - gridcell "—" [ref=e988]:
+                            - generic [ref=e991]: —
+                          - gridcell "€6.34" [ref=e992]:
+                            - generic [ref=e994]: €6.34
+                          - gridcell "20,730" [ref=e995]:
+                            - generic [ref=e997]: 20,730
+                          - gridcell "1,268 Clicks, engagements" [ref=e998]:
+                            - generic [ref=e999]:
+                              - generic [ref=e1000]: 1,268
+                              - generic [ref=e1001]: Clicks, engagements
+                          - gridcell "6.12%" [ref=e1002]:
+                            - generic [ref=e1004]: 6.12%
+                          - gridcell "€0.10" [ref=e1005]:
+                            - generic [ref=e1007]: €0.10
+                          - gridcell "€131.34" [ref=e1008]:
+                            - generic [ref=e1010]: €131.34
+                          - gridcell "0.24%" [ref=e1011]:
+                            - generic [ref=e1013]: 0.24%
+                          - gridcell "3.00" [ref=e1014]:
+                            - generic [ref=e1016]: "3.00"
+                          - gridcell "€43.78" [ref=e1017]:
+                            - generic [ref=e1019]: €43.78
+                        - 'row "Total: Locations More information €6.58 1,868,675 42,640 Clicks, engagements 2.28% €0.29 €12,293.56 1.17% 500.00 €24.59" [ref=e1020]':
+                          - gridcell [ref=e1021]
+                          - 'gridcell "Total: Locations More information"':
+                            - generic [ref=e1022]:
+                              - generic [ref=e1023]: "Total: Locations"
+                              - button "More information" [ref=e1025] [cursor=pointer]:
+                                - img [ref=e1027]: help_outline
+                          - gridcell [ref=e1028]:
+                            - button [ref=e1030] [cursor=pointer]:
+                              - img [ref=e1031]: expand_more
+                          - gridcell [ref=e1032]
+                          - gridcell [ref=e1033]
+                          - gridcell "€6.58" [ref=e1034]:
+                            - generic [ref=e1036]: €6.58
+                          - gridcell "1,868,675" [ref=e1037]:
+                            - generic [ref=e1039]: 1,868,675
+                          - gridcell "42,640 Clicks, engagements" [ref=e1040]:
+                            - generic [ref=e1041]:
+                              - generic [ref=e1042]: 42,640
+                              - generic [ref=e1043]: Clicks, engagements
+                          - gridcell "2.28%" [ref=e1044]:
+                            - generic [ref=e1046]: 2.28%
+                          - gridcell "€0.29" [ref=e1047]:
+                            - generic [ref=e1049]: €0.29
+                          - gridcell "€12,293.56" [ref=e1050]:
+                            - generic [ref=e1052]: €12,293.56
+                          - gridcell "1.17%" [ref=e1053]:
+                            - generic [ref=e1055]: 1.17%
+                          - gridcell "500.00" [ref=e1056]:
+                            - generic [ref=e1058]: "500.00"
+                          - gridcell "€24.59" [ref=e1059]:
+                            - generic [ref=e1061]: €24.59
+                        - 'row "Expand row Total: Account More information €6.58 1,868,675 42,640 Clicks, engagements 2.28% €0.29 €12,293.56 1.17% 500.00 €24.59" [ref=e1062]':
+                          - gridcell [ref=e1063]
+                          - 'gridcell "Expand row Total: Account More information" [ref=e1064]':
+                            - generic [ref=e1065]:
+                              - button "Expand row" [ref=e1066] [cursor=pointer]:
+                                - img "Expand row" [ref=e1067]: expand_more
+                              - generic [ref=e1068]:
+                                - generic [ref=e1069]: "Total: Account"
+                                - button "More information" [ref=e1071] [cursor=pointer]:
+                                  - img [ref=e1073]: help_outline
+                          - gridcell [ref=e1074]
+                          - gridcell [ref=e1075]
+                          - gridcell "€6.58" [ref=e1076]:
+                            - generic [ref=e1078]: €6.58
+                          - gridcell "1,868,675" [ref=e1079]:
+                            - generic [ref=e1081]: 1,868,675
+                          - gridcell "42,640 Clicks, engagements" [ref=e1082]:
+                            - generic [ref=e1083]:
+                              - generic [ref=e1084]: 42,640
+                              - generic [ref=e1085]: Clicks, engagements
+                          - gridcell "2.28%" [ref=e1086]:
+                            - generic [ref=e1088]: 2.28%
+                          - gridcell "€0.29" [ref=e1089]:
+                            - generic [ref=e1091]: €0.29
+                          - gridcell "€12,293.56" [ref=e1092]:
+                            - generic [ref=e1094]: €12,293.56
+                          - gridcell "1.17%" [ref=e1095]:
+                            - generic [ref=e1097]: 1.17%
+                          - gridcell "500.00" [ref=e1098]:
+                            - generic [ref=e1100]: "500.00"
+                          - gridcell "€24.59" [ref=e1101]:
+                            - generic [ref=e1103]: €24.59
+                      - generic [ref=e1111]:
+                        - generic [ref=e1112]:
+                          - generic [ref=e1113]: Show rows
+                          - button "Show rows 10 selected." [ref=e1116] [cursor=pointer]:
+                            - generic [ref=e1117]: "10"
+                            - img [ref=e1119]: arrow_drop_down
+                        - generic [ref=e1120]:
+                          - generic [ref=e1122]: 1 - 10 of 348
+                          - generic [ref=e1123]:
+                            - button "Go to the first page" [disabled] [ref=e1124]:
+                              - generic:
+                                - generic:
+                                  - img: first_page
+                            - button "Go to the previous page" [disabled] [ref=e1125]:
+                              - generic:
+                                - generic:
+                                  - img: chevron_left
+                            - button "Go to the next page" [ref=e1126] [cursor=pointer]:
+                              - img [ref=e1129]: chevron_right
+                            - button "Go to the last page" [ref=e1131] [cursor=pointer]:
+                              - img [ref=e1134]: last_page
+                - generic [ref=e284]:
+                  - generic [ref=e285]:
+                    - link "Reporting is not carried out in real time." [ref=e287] [cursor=pointer]:
+                      - /url: https://support.google.com/google-ads/?p=help_2544985&hl=en_GB
+                    - text: "Time zone for all dates and times: (GMT+01:00) Central European Time."
+                    - link "Learn more about changing your Google Ads account settings" [ref=e289] [cursor=pointer]:
+                      - /url: https://support.google.com/google-ads/?p=help_9842104&hl=en_GB
+                      - text: Learn more
+                    - generic [ref=e290]: Some inventory may be provided through third-party intermediaries.
+                    - generic [ref=e291]: You'll see Media Rating Council (MRC) accreditation noted in the column header's hover text for accredited metrics.
+                  - generic [ref=e292]: © Google, 2026.
+  - generic:
+    - dialog:
+      - generic:
+        - generic:
+          - heading [level=1]: Turn off ad blockers
+          - paragraph: Google Ads can't work when you're using an ad blocker. To use Google Ads, please turn off any ad blockers for now.
+  - generic:
+    - generic:
+      - generic:
+        - dialog "dialogue"
+  - generic:
+    - generic:
+      - generic:
+        - dialog "dialogue"

@@ -1,0 +1,6 @@
+2026/03/30-14:55:43.953 c554 Reusing MANIFEST C:\Users\daniv\AppData\Local\Google\Chrome\User Data\Profile 6\Sync Data\LevelDB/MANIFEST-000001
+2026/03/30-14:55:43.954 c554 Recovering log #3
+2026/03/30-14:55:43.955 c554 Reusing old log C:\Users\daniv\AppData\Local\Google\Chrome\User Data\Profile 6\Sync Data\LevelDB/000003.log 
+2026/03/30-15:05:48.484 9cb4 Level-0 table #5: started
+2026/03/30-15:05:48.487 9cb4 Level-0 table #5: 138308 bytes OK
+2026/03/30-15:05:48.489 9cb4 Delete type=0 #3

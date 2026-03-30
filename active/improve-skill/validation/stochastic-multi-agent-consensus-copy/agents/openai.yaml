@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stochastic Consensus"
+  short_description: "Poll parallel subagents and aggregate consensus"
+  default_prompt: "Use $stochastic-multi-agent-consensus to poll 5 subagents on a decision and summarize the consensus, splits, and outliers."

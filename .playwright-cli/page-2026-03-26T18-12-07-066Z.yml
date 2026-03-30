@@ -1,0 +1,1208 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - banner "Top navigation" [ref=e6]:
+      - status
+      - generic [ref=e7]:
+        - button [expanded] [ref=e8] [cursor=pointer]:
+          - img [ref=e11]: menu
+        - heading "Google Ads – Go to starting page" [level=1] [ref=e13]:
+          - button "Google Ads – Go to starting page" [ref=e14]:
+            - img [ref=e16] [cursor=pointer]
+        - button "Etavrian MCC minvoir.com 416-384-5005" [ref=e26] [cursor=pointer]:
+          - generic [ref=e28]:
+            - generic [ref=e29]:
+              - link "Etavrian MCC" [ref=e30]:
+                - /url: /aw/adgroups?ocid=6547539728&ascid=6547539728&authuser=0&__u=6216113857&__c=4614269072
+              - img [ref=e32]: chevron_right
+            - generic [ref=e33]:
+              - generic [ref=e34]: minvoir.com
+              - generic [ref=e35]: 416-384-5005
+              - img [ref=e37]: arrow_drop_down
+      - generic [ref=e40]:
+        - button "Page search" [ref=e43] [cursor=pointer]:
+          - generic [ref=e45]:
+            - img [ref=e46]: search
+            - text: Search
+        - generic [ref=e48]:
+          - button "Ads advisor" [ref=e49] [cursor=pointer]:
+            - generic [ref=e50]:
+              - generic [ref=e51]:
+                - img [ref=e52]: button_magic
+                - text: Ads Advisor
+              - generic [ref=e53]: Beta
+          - button "Appearance" [ref=e57] [cursor=pointer]:
+            - generic [ref=e59]:
+              - img [ref=e60]: responsive_layout
+              - text: Appearance
+          - button "Refresh" [ref=e64] [cursor=pointer]:
+            - generic [ref=e66]:
+              - img [ref=e67]: refresh
+              - text: Refresh
+          - button "Open the quick help panel" [ref=e70] [cursor=pointer]:
+            - generic [ref=e71]:
+              - text: Help
+              - generic [ref=e72]:
+                - img [ref=e73]: help_outline
+                - text: Help
+          - button "Notifications" [ref=e80] [cursor=pointer]:
+            - generic [ref=e82]:
+              - img [ref=e85]: notifications
+              - generic [ref=e86]: Notifications
+      - button "Google Account" [ref=e93] [cursor=pointer]:
+        - img "Google Account (team@etavrian.com)" [ref=e94]
+    - generic [ref=e96]:
+      - generic [ref=e1984]:
+        - img [ref=e1986]: report_problem
+        - generic [ref=e1988]:
+          - status [ref=e1989]:
+            - generic [ref=e1991]: Call-only ads are being deprecated - Update to call assets by February 2027.
+          - generic [ref=e1993]:
+            - button "Learn more" [ref=e1996] [cursor=pointer]:
+              - generic [ref=e1997]: Learn more
+            - button "Fix it" [ref=e2000] [cursor=pointer]:
+              - generic [ref=e2001]: Fix it
+            - button "Dismiss" [ref=e2004] [cursor=pointer]:
+              - generic [ref=e2005]: Dismiss
+      - generic [ref=e97]:
+        - generic [ref=e99]:
+          - generic [ref=e100]:
+            - generic [ref=e101]:
+              - button "Create" [ref=e103] [cursor=pointer]:
+                - img [ref=e106]
+              - generic [ref=e108]: Create
+            - menu [ref=e109]:
+              - menu [ref=e110]:
+                - menuitem "Campaigns" [ref=e113] [cursor=pointer]:
+                  - generic [ref=e114]:
+                    - img [ref=e116]: campaign
+                    - generic [ref=e117]: Campaigns
+                - menuitem "Goals" [ref=e120] [cursor=pointer]:
+                  - generic [ref=e121]:
+                    - img [ref=e123]: rewarded_ads
+                    - generic [ref=e124]: Goals
+                - menuitem "Tools" [ref=e127] [cursor=pointer]:
+                  - generic [ref=e128]:
+                    - img [ref=e130]: construction
+                    - generic [ref=e131]: Tools
+                - menuitem "Billing" [ref=e134] [cursor=pointer]:
+                  - generic [ref=e135]:
+                    - img [ref=e137]: credit_card
+                    - generic [ref=e138]: Billing
+                - menuitem "Admin" [ref=e141] [cursor=pointer]:
+                  - generic [ref=e142]:
+                    - img [ref=e144]: settings
+                    - generic [ref=e145]: Admin
+          - navigation [ref=e146]:
+            - menu [ref=e147]:
+              - generic [ref=e148]:
+                - menuitem "Overview" [ref=e151] [cursor=pointer]:
+                  - generic [ref=e153]: Overview
+                - menuitem "Recommendations" [ref=e157] [cursor=pointer]:
+                  - generic [ref=e159]: Recommendations
+                - menuitem "Insights and reports" [ref=e163] [cursor=pointer]:
+                  - generic [ref=e164]:
+                    - generic [ref=e165]: Insights and reports
+                    - img [ref=e168]: expand_more
+                - menuitem "Campaigns" [expanded] [ref=e171] [cursor=pointer]:
+                  - generic [ref=e172]:
+                    - generic [ref=e173]: Campaigns
+                    - img [ref=e176]: expand_more
+                - generic [ref=e177]:
+                  - menuitem "Campaigns" [ref=e180] [cursor=pointer]:
+                    - generic [ref=e182]: Campaigns
+                  - menuitem "Ad groups" [ref=e186] [cursor=pointer]:
+                    - generic [ref=e188]: Ad groups
+                  - menuitem "Ads" [ref=e192] [cursor=pointer]:
+                    - generic [ref=e194]: Ads
+                  - menuitem "Asset groups" [ref=e198] [cursor=pointer]:
+                    - generic [ref=e200]: Asset groups
+                  - menuitem "Experiments" [ref=e204] [cursor=pointer]:
+                    - generic [ref=e206]: Experiments
+                  - menuitem "Campaign groups" [ref=e210] [cursor=pointer]:
+                    - generic [ref=e212]: Campaign groups
+                - menuitem "Assets" [ref=e216] [cursor=pointer]:
+                  - generic [ref=e217]:
+                    - generic [ref=e218]: Assets
+                    - img [ref=e221]: expand_more
+                - menuitem "Products" [ref=e224] [cursor=pointer]:
+                  - generic [ref=e225]:
+                    - generic [ref=e226]: Products
+                    - img [ref=e229]: expand_more
+                - menuitem "Audiences, keywords and content" [ref=e232] [cursor=pointer]:
+                  - generic [ref=e233]:
+                    - generic [ref=e234]: Audiences, keywords and content
+                    - img [ref=e237]: expand_more
+                - menuitem "Change history" [ref=e240] [cursor=pointer]:
+                  - generic [ref=e242]: Change history
+            - group [ref=e246]:
+              - generic [ref=e247]:
+                - generic [ref=e248]:
+                  - generic "Get the Google Ads app" [ref=e249]:
+                    - img [ref=e251]: app_promo
+                    - generic [ref=e252]: Get the Google Ads app
+                  - button "Get the Google Ads app dismiss" [ref=e253] [cursor=pointer]:
+                    - img [ref=e256]: close
+                - generic [ref=e258]:
+                  - img "QR Code for Ads Mobile" [ref=e259]
+                  - generic "Scan to download the mobile app and get updates for your campaigns on the go" [ref=e260]
+        - generic [ref=e261]:
+          - generic [ref=e264]:
+            - button "View (2 filters) All campaigns" [ref=e269] [cursor=pointer]:
+              - generic [ref=e270]:
+                - generic [ref=e271]: View (2 filters)
+                - generic [ref=e272]:
+                  - img [ref=e275]: home
+                  - button "All campaigns" [ref=e276]
+              - img [ref=e278]: arrow_drop_down
+            - button "Campaigns (38) Select a campaign" [ref=e283] [cursor=pointer]:
+              - generic [ref=e284]:
+                - generic [ref=e285]: Campaigns (38)
+                - generic [ref=e286]: Select a campaign
+              - img [ref=e288]: arrow_drop_down
+          - group [ref=e292]:
+            - generic [ref=e293]:
+              - generic [ref=e294] [cursor=pointer]:
+                - generic: Filters
+              - generic: "Filters Applied:"
+              - grid "Filters Applied:" [ref=e295]:
+                - 'row "Campaign status: Enabled, Paused" [ref=e297] [cursor=pointer]':
+                  - 'gridcell "Campaign status: Enabled, Paused" [ref=e298]':
+                    - 'button "Campaign status: Enabled, Paused" [ref=e299]': "Campaign status: Enabled, Paused"
+                - 'row "Ad group status: Enabled, Paused" [ref=e301] [cursor=pointer]':
+                  - 'gridcell "Ad group status: Enabled, Paused" [ref=e302]':
+                    - 'button "Ad group status: Enabled, Paused" [ref=e303]': "Ad group status: Enabled, Paused"
+                - row [ref=e304]:
+                  - gridcell [ref=e305]:
+                    - combobox "Add filter" [ref=e306]
+                    - status [ref=e307]
+              - button "Save" [ref=e310] [cursor=pointer]:
+                - generic [ref=e311]:
+                  - img [ref=e313]: save
+                  - generic [ref=e314]: Save
+          - generic [ref=e317]:
+            - generic [ref=e318]:
+              - generic [ref=e319]:
+                - heading "Ad groups" [level=2] [ref=e322]
+                - generic [ref=e325]:
+                  - generic [ref=e327] [cursor=pointer]:
+                    - generic [ref=e328]: Custom
+                    - generic [ref=e330]:
+                      - button "1 Oct - 31 Dec 2025 Not applicable" [ref=e332]:
+                        - generic [ref=e333]: 1 Oct - 31 Dec 2025
+                        - img [ref=e335]: arrow_drop_down
+                      - generic [ref=e336]:
+                        - button "Previous" [ref=e337]:
+                          - img [ref=e340]: chevron_left
+                        - button "Next" [ref=e342]:
+                          - img [ref=e345]: chevron_right
+                  - button "Show last 30 days" [ref=e347] [cursor=pointer]:
+                    - generic [ref=e348]: Show last 30 days
+              - tablist [ref=e353]:
+                - tab "Ad groups" [selected] [ref=e354] [cursor=pointer]:
+                  - generic [ref=e355]: Ad groups
+                - tab "Product groups" [ref=e357] [cursor=pointer]:
+                  - generic [ref=e358]: Product groups
+            - main [ref=e365]:
+              - generic [ref=e367]:
+                - generic [ref=e371]:
+                  - generic [ref=e374]:
+                    - generic [ref=e377]:
+                      - img "Information" [ref=e379]: info
+                      - generic [ref=e380]:
+                        - paragraph [ref=e382]: You are viewing data between 2025-10-01 and 2025-12-31
+                        - generic [ref=e384]:
+                          - button "Change date range" [ref=e385]:
+                            - generic [ref=e388]: Change date range
+                          - button "Dismiss" [ref=e389]:
+                            - generic [ref=e392]: Dismiss
+                    - generic [ref=e397]:
+                      - generic [ref=e398]:
+                        - generic [ref=e402]:
+                          - generic [ref=e403]:
+                            - generic [ref=e405]:
+                              - generic [ref=e406]: Impr.
+                              - generic [ref=e407]: 84,562
+                              - generic [ref=e408]:
+                                - img [ref=e410]: arrow_upward
+                                - text: 73,565
+                              - 'button "Impr.: 84,562 for this time period. Hide this metric from the chart. An impression is counted each time your ad is served on Google''s ad networks, such as on Google.com, YouTube or other publisher websites and apps. Impressions help you understand how often your ad is being seen.. The Impr. metric has changed by 73,565 (+668.96%) compared to the previous period.. ." [ref=e411] [cursor=pointer]'
+                            - generic [ref=e413]:
+                              - generic [ref=e414]: Cost
+                              - generic [ref=e415]: €5,575.15
+                              - generic [ref=e416]:
+                                - img [ref=e418]: arrow_upward
+                                - text: €4,593.33
+                              - 'button "Cost: €5,575.15. Show this metric in the chart. Cost is the total of your spend during this period.. The Cost metric has changed by €4,593.33 (+467.84%) compared to the previous period.. ." [ref=e419] [cursor=pointer]'
+                            - generic [ref=e421]:
+                              - generic [ref=e422]: Conv. value
+                              - generic [ref=e423]: 19,045.42
+                              - generic [ref=e424]:
+                                - img [ref=e426]: arrow_upward
+                                - text: 12,573.68
+                              - 'button "Conv. value: 19,045.42. Show this metric in the chart. Conversion value (''Conv. value'') is the sum of conversion values for your conversions. This metric is useful only if you entered a value for your conversion actions.. The Conv. value metric has changed by 12,573.68 (+194.29%) compared to the previous period.. ." [ref=e427] [cursor=pointer]'
+                            - generic [ref=e429]:
+                              - generic [ref=e430]: Conversions
+                              - generic [ref=e431]: "327.32"
+                              - generic [ref=e432]:
+                                - img [ref=e434]: arrow_upward
+                                - text: "217.32"
+                              - 'button "Conversions: 327.32. Show this metric in the chart. . The Conversions metric has changed by 217.32 (+197.56%) compared to the previous period.. ." [ref=e435] [cursor=pointer]'
+                          - button [ref=e436] [cursor=pointer]:
+                            - img [ref=e439]: chevron_right
+                        - generic [ref=e442]:
+                          - button "Metrics" [ref=e443] [cursor=pointer]:
+                            - generic [ref=e445]:
+                              - img [ref=e447]: add_chart
+                              - generic [ref=e448]: Metrics
+                          - button "2 Adjust" [ref=e452] [cursor=pointer]:
+                            - generic [ref=e454]:
+                              - img [ref=e456]: tune
+                              - generic [ref=e457]: "2"
+                              - generic [ref=e458]: Adjust
+                          - button "Download" [ref=e461] [cursor=pointer]:
+                            - generic [ref=e463]:
+                              - img [ref=e465]: file_download
+                              - generic [ref=e466]: Download
+                          - button "Expand chart" [ref=e468] [cursor=pointer]:
+                            - generic [ref=e469]:
+                              - img [ref=e471]: fullscreen
+                              - generic [ref=e472]: Expand
+                      - application [ref=e476]:
+                        - generic [ref=e2007]: Time series chart showing Impr. from Wed, 1 Oct 2025 to Wed, 31 Dec 2025. Use arrow keys to navigate.
+                  - region "Primary toolbelt for Ad Groups" [ref=e484]:
+                    - generic [ref=e485]:
+                      - button "Create ad group" [ref=e489] [cursor=pointer]:
+                        - img [ref=e492]: add
+                      - generic [ref=e496] [cursor=pointer]:
+                        - group [ref=e497]:
+                          - generic [ref=e498]:
+                            - generic [ref=e499]:
+                              - generic:
+                                - img: filter_alt
+                            - grid [ref=e500]
+                        - button "Add filter" [ref=e502]:
+                          - generic [ref=e503]: Add filter
+                    - generic [ref=e505]:
+                      - search [ref=e508] [cursor=pointer]:
+                        - button "Search" [ref=e511]:
+                          - generic [ref=e512]:
+                            - img [ref=e514]: search
+                            - generic [ref=e515]: Search
+                      - button "Segment. Segmentation off" [ref=e521] [cursor=pointer]:
+                        - generic [ref=e522]:
+                          - img [ref=e524]: segment
+                          - generic [ref=e525]: Segment
+                      - button "Columns" [ref=e531] [cursor=pointer]:
+                        - generic [ref=e532]:
+                          - img [ref=e534]: view_column
+                          - generic [ref=e535]: Columns
+                      - button "Reports" [ref=e541] [cursor=pointer]:
+                        - generic [ref=e542]:
+                          - img [ref=e544]: assessment
+                          - generic [ref=e545]: Reports
+                      - button "Download" [ref=e551] [cursor=pointer]:
+                        - generic [ref=e552]:
+                          - img [ref=e554]: file_download
+                          - generic [ref=e555]: Download
+                      - button "Expand" [ref=e561] [cursor=pointer]:
+                        - generic [ref=e562]:
+                          - img [ref=e564]: fullscreen
+                          - generic [ref=e565]: Expand
+                      - button "More options" [ref=e571] [cursor=pointer]:
+                        - generic [ref=e572]:
+                          - img [ref=e574]: more_vert
+                          - generic [ref=e575]: More
+                      - button "Hide chart" [ref=e584] [cursor=pointer]:
+                        - img [ref=e587]: keyboard_arrow_up
+                  - generic [ref=e589]:
+                    - grid "Ad Groups" [ref=e592]:
+                      - row "Select all rows status Ad group Campaign Default max. CPC Target CPA Target ROAS Status Ad group type Avg. CPM Impr. Interactions Interaction rate Avg. cost Cost Brand inclusions Locations of interest Conv. (Platform comparable) Cost/Conv. (Platform comparable) Conv. value/Cost (platform comparable) Clicks Conv. rate Conv. value Conv. value / cost Conversions Avg. CPC Cost / conv. Original conv. value" [ref=e593]:
+                        - gridcell "Select all rows" [ref=e594]:
+                          - checkbox "Select all rows" [ref=e596] [cursor=pointer]:
+                            - img [ref=e598]
+                        - columnheader "status" [ref=e599] [cursor=pointer]:
+                          - img "status" [ref=e600]
+                        - columnheader "Ad group" [ref=e601] [cursor=pointer]
+                        - columnheader "Campaign" [ref=e602] [cursor=pointer]
+                        - columnheader "Default max. CPC" [ref=e603] [cursor=pointer]:
+                          - text: Default max. CPC
+                          - img [ref=e605]: help_outline
+                        - columnheader "Target CPA" [ref=e606] [cursor=pointer]:
+                          - text: Target CPA
+                          - img [ref=e608]: help_outline
+                        - columnheader "Target ROAS" [ref=e609] [cursor=pointer]
+                        - columnheader "Status" [ref=e610] [cursor=pointer]:
+                          - text: Status
+                          - img [ref=e612]: help_outline
+                        - columnheader "Ad group type" [ref=e613] [cursor=pointer]:
+                          - text: Ad group type
+                          - img [ref=e615]: help_outline
+                        - columnheader "Avg. CPM" [ref=e616] [cursor=pointer]:
+                          - text: Avg. CPM
+                          - img [ref=e618]: help_outline
+                        - columnheader "Impr." [ref=e619] [cursor=pointer]:
+                          - text: Impr.
+                          - img [ref=e621]: help_outline
+                        - columnheader "Interactions" [ref=e622] [cursor=pointer]:
+                          - text: Interactions
+                          - img [ref=e624]: help_outline
+                        - columnheader "Interaction rate" [ref=e625] [cursor=pointer]:
+                          - text: Interaction rate
+                          - img [ref=e627]: help_outline
+                        - columnheader "Avg. cost" [ref=e628] [cursor=pointer]:
+                          - text: Avg. cost
+                          - img [ref=e630]: help_outline
+                        - columnheader "Cost" [ref=e631] [cursor=pointer]:
+                          - text: Cost
+                          - img [ref=e633]: help_outline
+                        - columnheader "Brand inclusions" [ref=e634]
+                        - columnheader "Locations of interest" [ref=e635]
+                        - columnheader "Conv. (Platform comparable)" [ref=e636] [cursor=pointer]:
+                          - text: Conv. (Platform comparable)
+                          - img [ref=e638]: help_outline
+                        - columnheader "Cost/Conv. (Platform comparable)" [ref=e639] [cursor=pointer]:
+                          - text: Cost/Conv. (Platform comparable)
+                          - img [ref=e641]: help_outline
+                        - columnheader "Conv. value/Cost (platform comparable)" [ref=e642] [cursor=pointer]:
+                          - text: Conv. value/Cost (platform comparable)
+                          - img [ref=e644]: help_outline
+                        - columnheader "Clicks" [ref=e645] [cursor=pointer]:
+                          - text: Clicks
+                          - img [ref=e647]: help_outline
+                        - columnheader "Conv. rate" [ref=e648] [cursor=pointer]:
+                          - text: Conv. rate
+                          - img [ref=e650]: help_outline
+                        - columnheader "Conv. value" [ref=e651] [cursor=pointer]:
+                          - text: Conv. value
+                          - img [ref=e653]: help_outline
+                        - columnheader "Conv. value / cost" [ref=e654] [cursor=pointer]:
+                          - text: Conv. value / cost
+                          - img [ref=e656]: help_outline
+                        - columnheader "Conversions" [ref=e657] [cursor=pointer]:
+                          - text: Conversions
+                          - img [ref=e659]: help_outline
+                        - columnheader "Avg. CPC" [ref=e660] [cursor=pointer]:
+                          - text: Avg. CPC
+                          - img [ref=e662]: help_outline
+                        - columnheader "Cost / conv." [ref=e663] [cursor=pointer]:
+                          - text: Cost / conv.
+                          - img [ref=e665]: help_outline
+                        - columnheader "Original conv. value" [ref=e666] [cursor=pointer]:
+                          - text: Original conv. value
+                          - img [ref=e668]: help_outline
+                      - row "Select row Enabled Brand Edit name Edit settings S | Brand | NL — — — Not eligible Campaign is paused Standard €101.53 2,969 1,095 Clicks 36.88% €0.28 €301.43 — — — — 0.00 1,095 15.86% 10,069.11 33.40 173.70 €0.28 €1.74 10,069.11" [ref=e669]:
+                        - gridcell "Select row" [ref=e670]:
+                          - checkbox "Select row" [ref=e672] [cursor=pointer]:
+                            - img [ref=e674]
+                        - gridcell "Enabled" [ref=e675]:
+                          - img "Enabled" [ref=e677]
+                        - gridcell "Brand Edit name Edit settings" [ref=e678]:
+                          - generic [ref=e681] [cursor=pointer]: Brand
+                          - generic [ref=e682]:
+                            - button "Edit name" [ref=e683] [cursor=pointer]
+                            - button "Edit settings" [ref=e688] [cursor=pointer]:
+                              - img [ref=e691]: settings
+                        - gridcell "S | Brand | NL" [ref=e693]:
+                          - generic [ref=e696] [cursor=pointer]: S | Brand | NL
+                        - gridcell "—" [ref=e697]:
+                          - generic [ref=e699]: —
+                        - gridcell "—" [ref=e701]:
+                          - generic [ref=e703]: —
+                        - gridcell "—" [ref=e705]:
+                          - generic [ref=e707]: —
+                        - gridcell "Not eligible Campaign is paused" [ref=e709]:
+                          - generic [ref=e714]:
+                            - generic [ref=e716] [cursor=pointer]: Not eligible
+                            - generic [ref=e718] [cursor=pointer]: Campaign is paused
+                        - gridcell "Standard" [ref=e719]:
+                          - generic [ref=e720]: Standard
+                        - gridcell "€101.53" [ref=e721]:
+                          - generic [ref=e723]: €101.53
+                        - gridcell "2,969" [ref=e724]:
+                          - generic [ref=e726]: 2,969
+                        - gridcell "1,095 Clicks" [ref=e727]:
+                          - generic [ref=e728]:
+                            - generic [ref=e729]: 1,095
+                            - generic [ref=e730]: Clicks
+                        - gridcell "36.88%" [ref=e731]:
+                          - generic [ref=e733]: 36.88%
+                        - gridcell "€0.28" [ref=e734]:
+                          - generic [ref=e736]: €0.28
+                        - gridcell "€301.43" [ref=e737]:
+                          - generic [ref=e739]: €301.43
+                        - gridcell "—" [ref=e740]:
+                          - generic [ref=e742]: —
+                        - gridcell "—" [ref=e743]:
+                          - generic [ref=e745]: —
+                        - gridcell "—" [ref=e746]:
+                          - generic [ref=e748]: —
+                        - gridcell "—" [ref=e749]:
+                          - generic [ref=e751]: —
+                        - gridcell "0.00" [ref=e752]:
+                          - generic [ref=e754]: "0.00"
+                        - gridcell "1,095" [ref=e755]:
+                          - generic [ref=e757]: 1,095
+                        - gridcell "15.86%" [ref=e758]:
+                          - generic [ref=e760]: 15.86%
+                        - gridcell "10,069.11" [ref=e761]:
+                          - generic [ref=e763]: 10,069.11
+                        - gridcell "33.40" [ref=e764]:
+                          - generic [ref=e766]: "33.40"
+                        - gridcell "173.70" [ref=e767]:
+                          - generic [ref=e769]: "173.70"
+                        - gridcell "€0.28" [ref=e770]:
+                          - generic [ref=e772]: €0.28
+                        - gridcell "€1.74" [ref=e773]:
+                          - generic [ref=e775]: €1.74
+                        - gridcell "10,069.11" [ref=e776]:
+                          - generic [ref=e778]: 10,069.11
+                      - row "Select row Enabled panty does not break Edit name Edit settings S | General | NL — — 100.00% Not eligible Campaign is paused Standard €93.11 11,612 928 Clicks 7.99% €1.17 €1,081.21 — — — — 0.00 928 4.30% 2,206.88 2.04 39.95 €1.17 €27.06 2,206.88" [ref=e779]:
+                        - gridcell "Select row" [ref=e780]:
+                          - checkbox "Select row" [ref=e782] [cursor=pointer]:
+                            - img [ref=e784]
+                        - gridcell "Enabled" [ref=e785]:
+                          - img "Enabled" [ref=e787]
+                        - gridcell "panty does not break Edit name Edit settings" [ref=e788]:
+                          - generic [ref=e791] [cursor=pointer]: panty does not break
+                          - generic [ref=e792]:
+                            - button "Edit name" [ref=e793] [cursor=pointer]
+                            - button "Edit settings" [ref=e798] [cursor=pointer]:
+                              - img [ref=e801]: settings
+                        - gridcell "S | General | NL" [ref=e803]:
+                          - generic [ref=e806] [cursor=pointer]: S | General | NL
+                        - gridcell "—" [ref=e807]:
+                          - generic [ref=e809]: —
+                        - gridcell "—" [ref=e811]:
+                          - generic [ref=e813]: —
+                        - gridcell "100.00%" [ref=e815]:
+                          - generic [ref=e817]: 100.00%
+                        - gridcell "Not eligible Campaign is paused" [ref=e821]:
+                          - generic [ref=e826]:
+                            - generic [ref=e828] [cursor=pointer]: Not eligible
+                            - generic [ref=e830] [cursor=pointer]: Campaign is paused
+                        - gridcell "Standard" [ref=e831]:
+                          - generic [ref=e832]: Standard
+                        - gridcell "€93.11" [ref=e833]:
+                          - generic [ref=e835]: €93.11
+                        - gridcell "11,612" [ref=e836]:
+                          - generic [ref=e838]: 11,612
+                        - gridcell "928 Clicks" [ref=e839]:
+                          - generic [ref=e840]:
+                            - generic [ref=e841]: "928"
+                            - generic [ref=e842]: Clicks
+                        - gridcell "7.99%" [ref=e843]:
+                          - generic [ref=e845]: 7.99%
+                        - gridcell "€1.17" [ref=e846]:
+                          - generic [ref=e848]: €1.17
+                        - gridcell "€1,081.21" [ref=e849]:
+                          - generic [ref=e851]: €1,081.21
+                        - gridcell "—" [ref=e852]:
+                          - generic [ref=e854]: —
+                        - gridcell "—" [ref=e855]:
+                          - generic [ref=e857]: —
+                        - gridcell "—" [ref=e858]:
+                          - generic [ref=e860]: —
+                        - gridcell "—" [ref=e861]:
+                          - generic [ref=e863]: —
+                        - gridcell "0.00" [ref=e864]:
+                          - generic [ref=e866]: "0.00"
+                        - gridcell "928" [ref=e867]:
+                          - generic [ref=e869]: "928"
+                        - gridcell "4.30%" [ref=e870]:
+                          - generic [ref=e872]: 4.30%
+                        - gridcell "2,206.88" [ref=e873]:
+                          - generic [ref=e875]: 2,206.88
+                        - gridcell "2.04" [ref=e876]:
+                          - generic [ref=e878]: "2.04"
+                        - gridcell "39.95" [ref=e879]:
+                          - generic [ref=e881]: "39.95"
+                        - gridcell "€1.17" [ref=e882]:
+                          - generic [ref=e884]: €1.17
+                        - gridcell "€27.06" [ref=e885]:
+                          - generic [ref=e887]: €27.06
+                        - gridcell "2,206.88" [ref=e888]:
+                          - generic [ref=e890]: 2,206.88
+                      - row "Select row Enabled tights anti ladder Edit name Edit settings S | General | UK — — 100.00% Not eligible Campaign is paused Standard €78.42 3,311 342 Clicks 10.33% €0.76 €259.64 — — — — 0.00 342 2.34% 487.61 1.88 8.00 €0.76 €32.46 487.61" [ref=e891]:
+                        - gridcell "Select row" [ref=e892]:
+                          - checkbox "Select row" [ref=e894] [cursor=pointer]:
+                            - img [ref=e896]
+                        - gridcell "Enabled" [ref=e897]:
+                          - img "Enabled" [ref=e899]
+                        - gridcell "tights anti ladder Edit name Edit settings" [ref=e900]:
+                          - generic [ref=e903] [cursor=pointer]: tights anti ladder
+                          - generic [ref=e904]:
+                            - button "Edit name" [ref=e905] [cursor=pointer]
+                            - button "Edit settings" [ref=e910] [cursor=pointer]:
+                              - img [ref=e913]: settings
+                        - gridcell "S | General | UK" [ref=e915]:
+                          - generic [ref=e918] [cursor=pointer]: S | General | UK
+                        - gridcell "—" [ref=e919]:
+                          - generic [ref=e921]: —
+                        - gridcell "—" [ref=e923]:
+                          - generic [ref=e925]: —
+                        - gridcell "100.00%" [ref=e927]:
+                          - generic [ref=e929]: 100.00%
+                        - gridcell "Not eligible Campaign is paused" [ref=e933]:
+                          - generic [ref=e938]:
+                            - generic [ref=e940] [cursor=pointer]: Not eligible
+                            - generic [ref=e942] [cursor=pointer]: Campaign is paused
+                        - gridcell "Standard" [ref=e943]:
+                          - generic [ref=e944]: Standard
+                        - gridcell "€78.42" [ref=e945]:
+                          - generic [ref=e947]: €78.42
+                        - gridcell "3,311" [ref=e948]:
+                          - generic [ref=e950]: 3,311
+                        - gridcell "342 Clicks" [ref=e951]:
+                          - generic [ref=e952]:
+                            - generic [ref=e953]: "342"
+                            - generic [ref=e954]: Clicks
+                        - gridcell "10.33%" [ref=e955]:
+                          - generic [ref=e957]: 10.33%
+                        - gridcell "€0.76" [ref=e958]:
+                          - generic [ref=e960]: €0.76
+                        - gridcell "€259.64" [ref=e961]:
+                          - generic [ref=e963]: €259.64
+                        - gridcell "—" [ref=e964]:
+                          - generic [ref=e966]: —
+                        - gridcell "—" [ref=e967]:
+                          - generic [ref=e969]: —
+                        - gridcell "—" [ref=e970]:
+                          - generic [ref=e972]: —
+                        - gridcell "—" [ref=e973]:
+                          - generic [ref=e975]: —
+                        - gridcell "0.00" [ref=e976]:
+                          - generic [ref=e978]: "0.00"
+                        - gridcell "342" [ref=e979]:
+                          - generic [ref=e981]: "342"
+                        - gridcell "2.34%" [ref=e982]:
+                          - generic [ref=e984]: 2.34%
+                        - gridcell "487.61" [ref=e985]:
+                          - generic [ref=e987]: "487.61"
+                        - gridcell "1.88" [ref=e988]:
+                          - generic [ref=e990]: "1.88"
+                        - gridcell "8.00" [ref=e991]:
+                          - generic [ref=e993]: "8.00"
+                        - gridcell "€0.76" [ref=e994]:
+                          - generic [ref=e996]: €0.76
+                        - gridcell "€32.46" [ref=e997]:
+                          - generic [ref=e999]: €32.46
+                        - gridcell "487.61" [ref=e1000]:
+                          - generic [ref=e1002]: "487.61"
+                      - row "Select row Enabled tights ladder resist Edit name Edit settings S | General | UK — — 100.00% Not eligible Campaign is paused Standard €89.68 2,832 292 Clicks 10.31% €0.87 €253.99 — — — — 0.00 292 2.05% 410.49 1.62 6.00 €0.87 €42.33 410.49" [ref=e1003]:
+                        - gridcell "Select row" [ref=e1004]:
+                          - checkbox "Select row" [ref=e1006] [cursor=pointer]:
+                            - img [ref=e1008]
+                        - gridcell "Enabled" [ref=e1009]:
+                          - img "Enabled" [ref=e1011]
+                        - gridcell "tights ladder resist Edit name Edit settings" [ref=e1012]:
+                          - generic [ref=e1015] [cursor=pointer]: tights ladder resist
+                          - generic [ref=e1016]:
+                            - button "Edit name" [ref=e1017] [cursor=pointer]
+                            - button "Edit settings" [ref=e1022] [cursor=pointer]:
+                              - img [ref=e1025]: settings
+                        - gridcell "S | General | UK" [ref=e1027]:
+                          - generic [ref=e1030] [cursor=pointer]: S | General | UK
+                        - gridcell "—" [ref=e1031]:
+                          - generic [ref=e1033]: —
+                        - gridcell "—" [ref=e1035]:
+                          - generic [ref=e1037]: —
+                        - gridcell "100.00%" [ref=e1039]:
+                          - generic [ref=e1041]: 100.00%
+                        - gridcell "Not eligible Campaign is paused" [ref=e1045]:
+                          - generic [ref=e1050]:
+                            - generic [ref=e1052] [cursor=pointer]: Not eligible
+                            - generic [ref=e1054] [cursor=pointer]: Campaign is paused
+                        - gridcell "Standard" [ref=e1055]:
+                          - generic [ref=e1056]: Standard
+                        - gridcell "€89.68" [ref=e1057]:
+                          - generic [ref=e1059]: €89.68
+                        - gridcell "2,832" [ref=e1060]:
+                          - generic [ref=e1062]: 2,832
+                        - gridcell "292 Clicks" [ref=e1063]:
+                          - generic [ref=e1064]:
+                            - generic [ref=e1065]: "292"
+                            - generic [ref=e1066]: Clicks
+                        - gridcell "10.31%" [ref=e1067]:
+                          - generic [ref=e1069]: 10.31%
+                        - gridcell "€0.87" [ref=e1070]:
+                          - generic [ref=e1072]: €0.87
+                        - gridcell "€253.99" [ref=e1073]:
+                          - generic [ref=e1075]: €253.99
+                        - gridcell "—" [ref=e1076]:
+                          - generic [ref=e1078]: —
+                        - gridcell "—" [ref=e1079]:
+                          - generic [ref=e1081]: —
+                        - gridcell "—" [ref=e1082]:
+                          - generic [ref=e1084]: —
+                        - gridcell "—" [ref=e1085]:
+                          - generic [ref=e1087]: —
+                        - gridcell "0.00" [ref=e1088]:
+                          - generic [ref=e1090]: "0.00"
+                        - gridcell "292" [ref=e1091]:
+                          - generic [ref=e1093]: "292"
+                        - gridcell "2.05%" [ref=e1094]:
+                          - generic [ref=e1096]: 2.05%
+                        - gridcell "410.49" [ref=e1097]:
+                          - generic [ref=e1099]: "410.49"
+                        - gridcell "1.62" [ref=e1100]:
+                          - generic [ref=e1102]: "1.62"
+                        - gridcell "6.00" [ref=e1103]:
+                          - generic [ref=e1105]: "6.00"
+                        - gridcell "€0.87" [ref=e1106]:
+                          - generic [ref=e1108]: €0.87
+                        - gridcell "€42.33" [ref=e1109]:
+                          - generic [ref=e1111]: €42.33
+                        - gridcell "410.49" [ref=e1112]:
+                          - generic [ref=e1114]: "410.49"
+                      - row "Select row Enabled panty onverwoestbare Edit name Edit settings S | General | NL — — 100.00% Not eligible Campaign is paused Standard €139.28 2,853 291 Clicks 10.20% €1.37 €397.37 — — — — 0.00 291 5.96% 868.84 2.19 17.33 €1.37 €22.93 868.84" [ref=e1115]:
+                        - gridcell "Select row" [ref=e1116]:
+                          - checkbox "Select row" [ref=e1118] [cursor=pointer]:
+                            - img [ref=e1120]
+                        - gridcell "Enabled" [ref=e1121]:
+                          - img "Enabled" [ref=e1123]
+                        - gridcell "panty onverwoestbare Edit name Edit settings" [ref=e1124]:
+                          - generic [ref=e1127] [cursor=pointer]: panty onverwoestbare
+                          - generic [ref=e1128]:
+                            - button "Edit name" [ref=e1129] [cursor=pointer]
+                            - button "Edit settings" [ref=e1134] [cursor=pointer]:
+                              - img [ref=e1137]: settings
+                        - gridcell "S | General | NL" [ref=e1139]:
+                          - generic [ref=e1142] [cursor=pointer]: S | General | NL
+                        - gridcell "—" [ref=e1143]:
+                          - generic [ref=e1145]: —
+                        - gridcell "—" [ref=e1147]:
+                          - generic [ref=e1149]: —
+                        - gridcell "100.00%" [ref=e1151]:
+                          - generic [ref=e1153]: 100.00%
+                        - gridcell "Not eligible Campaign is paused" [ref=e1157]:
+                          - generic [ref=e1162]:
+                            - generic [ref=e1164] [cursor=pointer]: Not eligible
+                            - generic [ref=e1166] [cursor=pointer]: Campaign is paused
+                        - gridcell "Standard" [ref=e1167]:
+                          - generic [ref=e1168]: Standard
+                        - gridcell "€139.28" [ref=e1169]:
+                          - generic [ref=e1171]: €139.28
+                        - gridcell "2,853" [ref=e1172]:
+                          - generic [ref=e1174]: 2,853
+                        - gridcell "291 Clicks" [ref=e1175]:
+                          - generic [ref=e1176]:
+                            - generic [ref=e1177]: "291"
+                            - generic [ref=e1178]: Clicks
+                        - gridcell "10.20%" [ref=e1179]:
+                          - generic [ref=e1181]: 10.20%
+                        - gridcell "€1.37" [ref=e1182]:
+                          - generic [ref=e1184]: €1.37
+                        - gridcell "€397.37" [ref=e1185]:
+                          - generic [ref=e1187]: €397.37
+                        - gridcell "—" [ref=e1188]:
+                          - generic [ref=e1190]: —
+                        - gridcell "—" [ref=e1191]:
+                          - generic [ref=e1193]: —
+                        - gridcell "—" [ref=e1194]:
+                          - generic [ref=e1196]: —
+                        - gridcell "—" [ref=e1197]:
+                          - generic [ref=e1199]: —
+                        - gridcell "0.00" [ref=e1200]:
+                          - generic [ref=e1202]: "0.00"
+                        - gridcell "291" [ref=e1203]:
+                          - generic [ref=e1205]: "291"
+                        - gridcell "5.96%" [ref=e1206]:
+                          - generic [ref=e1208]: 5.96%
+                        - gridcell "868.84" [ref=e1209]:
+                          - generic [ref=e1211]: "868.84"
+                        - gridcell "2.19" [ref=e1212]:
+                          - generic [ref=e1214]: "2.19"
+                        - gridcell "17.33" [ref=e1215]:
+                          - generic [ref=e1217]: "17.33"
+                        - gridcell "€1.37" [ref=e1218]:
+                          - generic [ref=e1220]: €1.37
+                        - gridcell "€22.93" [ref=e1221]:
+                          - generic [ref=e1223]: €22.93
+                        - gridcell "868.84" [ref=e1224]:
+                          - generic [ref=e1226]: "868.84"
+                      - row "Select row Enabled Collants solides Edit name Edit settings S | General | EU | FR — — 120.00% Not eligible Campaign is paused Standard €79.99 3,206 284 Clicks 8.86% €0.90 €256.46 — — — — 0.00 284 0.35% 49.54 0.19 1.00 €0.90 €256.46 49.54" [ref=e1227]:
+                        - gridcell "Select row" [ref=e1228]:
+                          - checkbox "Select row" [ref=e1230] [cursor=pointer]:
+                            - img [ref=e1232]
+                        - gridcell "Enabled" [ref=e1233]:
+                          - img "Enabled" [ref=e1235]
+                        - gridcell "Collants solides Edit name Edit settings" [ref=e1236]:
+                          - generic [ref=e1239] [cursor=pointer]: Collants solides
+                          - generic [ref=e1240]:
+                            - button "Edit name" [ref=e1241] [cursor=pointer]
+                            - button "Edit settings" [ref=e1246] [cursor=pointer]:
+                              - img [ref=e1249]: settings
+                        - gridcell "S | General | EU | FR" [ref=e1251]:
+                          - generic [ref=e1254] [cursor=pointer]: S | General | EU | FR
+                        - gridcell "—" [ref=e1255]:
+                          - generic [ref=e1257]: —
+                        - gridcell "—" [ref=e1259]:
+                          - generic [ref=e1261]: —
+                        - gridcell "120.00%" [ref=e1263]:
+                          - generic [ref=e1265]: 120.00%
+                        - gridcell "Not eligible Campaign is paused" [ref=e1269]:
+                          - generic [ref=e1274]:
+                            - generic [ref=e1276] [cursor=pointer]: Not eligible
+                            - generic [ref=e1278] [cursor=pointer]: Campaign is paused
+                        - gridcell "Standard" [ref=e1279]:
+                          - generic [ref=e1280]: Standard
+                        - gridcell "€79.99" [ref=e1281]:
+                          - generic [ref=e1283]: €79.99
+                        - gridcell "3,206" [ref=e1284]:
+                          - generic [ref=e1286]: 3,206
+                        - gridcell "284 Clicks" [ref=e1287]:
+                          - generic [ref=e1288]:
+                            - generic [ref=e1289]: "284"
+                            - generic [ref=e1290]: Clicks
+                        - gridcell "8.86%" [ref=e1291]:
+                          - generic [ref=e1293]: 8.86%
+                        - gridcell "€0.90" [ref=e1294]:
+                          - generic [ref=e1296]: €0.90
+                        - gridcell "€256.46" [ref=e1297]:
+                          - generic [ref=e1299]: €256.46
+                        - gridcell "—" [ref=e1300]:
+                          - generic [ref=e1302]: —
+                        - gridcell "—" [ref=e1303]:
+                          - generic [ref=e1305]: —
+                        - gridcell "—" [ref=e1306]:
+                          - generic [ref=e1308]: —
+                        - gridcell "—" [ref=e1309]:
+                          - generic [ref=e1311]: —
+                        - gridcell "0.00" [ref=e1312]:
+                          - generic [ref=e1314]: "0.00"
+                        - gridcell "284" [ref=e1315]:
+                          - generic [ref=e1317]: "284"
+                        - gridcell "0.35%" [ref=e1318]:
+                          - generic [ref=e1320]: 0.35%
+                        - gridcell "49.54" [ref=e1321]:
+                          - generic [ref=e1323]: "49.54"
+                        - gridcell "0.19" [ref=e1324]:
+                          - generic [ref=e1326]: "0.19"
+                        - gridcell "1.00" [ref=e1327]:
+                          - generic [ref=e1329]: "1.00"
+                        - gridcell "€0.90" [ref=e1330]:
+                          - generic [ref=e1332]: €0.90
+                        - gridcell "€256.46" [ref=e1333]:
+                          - generic [ref=e1335]: €256.46
+                        - gridcell "49.54" [ref=e1336]:
+                          - generic [ref=e1338]: "49.54"
+                      - row "Select row Enabled tights anti ladder Edit name Edit settings S | General | EU | EN — — 100.00% Not eligible Campaign is paused Standard €41.47 3,973 275 Clicks 6.92% €0.60 €164.76 — — — — 0.00 275 2.36% 365.81 2.22 6.50 €0.60 €25.35 365.81" [ref=e1339]:
+                        - gridcell "Select row" [ref=e1340]:
+                          - checkbox "Select row" [ref=e1342] [cursor=pointer]:
+                            - img [ref=e1344]
+                        - gridcell "Enabled" [ref=e1345]:
+                          - img "Enabled" [ref=e1347]
+                        - gridcell "tights anti ladder Edit name Edit settings" [ref=e1348]:
+                          - generic [ref=e1351] [cursor=pointer]: tights anti ladder
+                          - generic [ref=e1352]:
+                            - button "Edit name" [ref=e1353] [cursor=pointer]
+                            - button "Edit settings" [ref=e1358] [cursor=pointer]:
+                              - img [ref=e1361]: settings
+                        - gridcell "S | General | EU | EN" [ref=e1363]:
+                          - generic [ref=e1366] [cursor=pointer]: S | General | EU | EN
+                        - gridcell "—" [ref=e1367]:
+                          - generic [ref=e1369]: —
+                        - gridcell "—" [ref=e1371]:
+                          - generic [ref=e1373]: —
+                        - gridcell "100.00%" [ref=e1375]:
+                          - generic [ref=e1377]: 100.00%
+                        - gridcell "Not eligible Campaign is paused" [ref=e1381]:
+                          - generic [ref=e1386]:
+                            - generic [ref=e1388] [cursor=pointer]: Not eligible
+                            - generic [ref=e1390] [cursor=pointer]: Campaign is paused
+                        - gridcell "Standard" [ref=e1391]:
+                          - generic [ref=e1392]: Standard
+                        - gridcell "€41.47" [ref=e1393]:
+                          - generic [ref=e1395]: €41.47
+                        - gridcell "3,973" [ref=e1396]:
+                          - generic [ref=e1398]: 3,973
+                        - gridcell "275 Clicks" [ref=e1399]:
+                          - generic [ref=e1400]:
+                            - generic [ref=e1401]: "275"
+                            - generic [ref=e1402]: Clicks
+                        - gridcell "6.92%" [ref=e1403]:
+                          - generic [ref=e1405]: 6.92%
+                        - gridcell "€0.60" [ref=e1406]:
+                          - generic [ref=e1408]: €0.60
+                        - gridcell "€164.76" [ref=e1409]:
+                          - generic [ref=e1411]: €164.76
+                        - gridcell "—" [ref=e1412]:
+                          - generic [ref=e1414]: —
+                        - gridcell "—" [ref=e1415]:
+                          - generic [ref=e1417]: —
+                        - gridcell "—" [ref=e1418]:
+                          - generic [ref=e1420]: —
+                        - gridcell "—" [ref=e1421]:
+                          - generic [ref=e1423]: —
+                        - gridcell "0.00" [ref=e1424]:
+                          - generic [ref=e1426]: "0.00"
+                        - gridcell "275" [ref=e1427]:
+                          - generic [ref=e1429]: "275"
+                        - gridcell "2.36%" [ref=e1430]:
+                          - generic [ref=e1432]: 2.36%
+                        - gridcell "365.81" [ref=e1433]:
+                          - generic [ref=e1435]: "365.81"
+                        - gridcell "2.22" [ref=e1436]:
+                          - generic [ref=e1438]: "2.22"
+                        - gridcell "6.50" [ref=e1439]:
+                          - generic [ref=e1441]: "6.50"
+                        - gridcell "€0.60" [ref=e1442]:
+                          - generic [ref=e1444]: €0.60
+                        - gridcell "€25.35" [ref=e1445]:
+                          - generic [ref=e1447]: €25.35
+                        - gridcell "365.81" [ref=e1448]:
+                          - generic [ref=e1450]: "365.81"
+                      - row "Select row Enabled panty anti ladder Edit name Edit settings S | General | NL — — 100.00% Not eligible Campaign is paused Standard €86.31 3,784 270 Clicks 7.14% €1.21 €326.60 — — — — 0.00 270 3.15% 572.37 1.75 8.50 €1.21 €38.42 572.37" [ref=e1451]:
+                        - gridcell "Select row" [ref=e1452]:
+                          - checkbox "Select row" [ref=e1454] [cursor=pointer]:
+                            - img [ref=e1456]
+                        - gridcell "Enabled" [ref=e1457]:
+                          - img "Enabled" [ref=e1459]
+                        - gridcell "panty anti ladder Edit name Edit settings" [ref=e1460]:
+                          - generic [ref=e1463] [cursor=pointer]: panty anti ladder
+                          - generic [ref=e1464]:
+                            - button "Edit name" [ref=e1465] [cursor=pointer]
+                            - button "Edit settings" [ref=e1470] [cursor=pointer]:
+                              - img [ref=e1473]: settings
+                        - gridcell "S | General | NL" [ref=e1475]:
+                          - generic [ref=e1478] [cursor=pointer]: S | General | NL
+                        - gridcell "—" [ref=e1479]:
+                          - generic [ref=e1481]: —
+                        - gridcell "—" [ref=e1483]:
+                          - generic [ref=e1485]: —
+                        - gridcell "100.00%" [ref=e1487]:
+                          - generic [ref=e1489]: 100.00%
+                        - gridcell "Not eligible Campaign is paused" [ref=e1493]:
+                          - generic [ref=e1498]:
+                            - generic [ref=e1500] [cursor=pointer]: Not eligible
+                            - generic [ref=e1502] [cursor=pointer]: Campaign is paused
+                        - gridcell "Standard" [ref=e1503]:
+                          - generic [ref=e1504]: Standard
+                        - gridcell "€86.31" [ref=e1505]:
+                          - generic [ref=e1507]: €86.31
+                        - gridcell "3,784" [ref=e1508]:
+                          - generic [ref=e1510]: 3,784
+                        - gridcell "270 Clicks" [ref=e1511]:
+                          - generic [ref=e1512]:
+                            - generic [ref=e1513]: "270"
+                            - generic [ref=e1514]: Clicks
+                        - gridcell "7.14%" [ref=e1515]:
+                          - generic [ref=e1517]: 7.14%
+                        - gridcell "€1.21" [ref=e1518]:
+                          - generic [ref=e1520]: €1.21
+                        - gridcell "€326.60" [ref=e1521]:
+                          - generic [ref=e1523]: €326.60
+                        - gridcell "—" [ref=e1524]:
+                          - generic [ref=e1526]: —
+                        - gridcell "—" [ref=e1527]:
+                          - generic [ref=e1529]: —
+                        - gridcell "—" [ref=e1530]:
+                          - generic [ref=e1532]: —
+                        - gridcell "—" [ref=e1533]:
+                          - generic [ref=e1535]: —
+                        - gridcell "0.00" [ref=e1536]:
+                          - generic [ref=e1538]: "0.00"
+                        - gridcell "270" [ref=e1539]:
+                          - generic [ref=e1541]: "270"
+                        - gridcell "3.15%" [ref=e1542]:
+                          - generic [ref=e1544]: 3.15%
+                        - gridcell "572.37" [ref=e1545]:
+                          - generic [ref=e1547]: "572.37"
+                        - gridcell "1.75" [ref=e1548]:
+                          - generic [ref=e1550]: "1.75"
+                        - gridcell "8.50" [ref=e1551]:
+                          - generic [ref=e1553]: "8.50"
+                        - gridcell "€1.21" [ref=e1554]:
+                          - generic [ref=e1556]: €1.21
+                        - gridcell "€38.42" [ref=e1557]:
+                          - generic [ref=e1559]: €38.42
+                        - gridcell "572.37" [ref=e1560]:
+                          - generic [ref=e1562]: "572.37"
+                      - row "Select row Enabled tights does not break Edit name Edit settings S | General | UK — — 100.00% Not eligible Campaign is paused Standard €71.52 3,227 269 Clicks 8.34% €0.86 €230.80 — — — — 0.00 269 2.97% 476.14 2.06 8.00 €0.86 €28.85 476.14" [ref=e1563]:
+                        - gridcell "Select row" [ref=e1564]:
+                          - checkbox "Select row" [ref=e1566] [cursor=pointer]:
+                            - img [ref=e1568]
+                        - gridcell "Enabled" [ref=e1569]:
+                          - img "Enabled" [ref=e1571]
+                        - gridcell "tights does not break Edit name Edit settings" [ref=e1572]:
+                          - generic [ref=e1575] [cursor=pointer]: tights does not break
+                          - generic [ref=e1576]:
+                            - button "Edit name" [ref=e1577] [cursor=pointer]
+                            - button "Edit settings" [ref=e1582] [cursor=pointer]:
+                              - img [ref=e1585]: settings
+                        - gridcell "S | General | UK" [ref=e1587]:
+                          - generic [ref=e1590] [cursor=pointer]: S | General | UK
+                        - gridcell "—" [ref=e1591]:
+                          - generic [ref=e1593]: —
+                        - gridcell "—" [ref=e1595]:
+                          - generic [ref=e1597]: —
+                        - gridcell "100.00%" [ref=e1599]:
+                          - generic [ref=e1601]: 100.00%
+                        - gridcell "Not eligible Campaign is paused" [ref=e1605]:
+                          - generic [ref=e1610]:
+                            - generic [ref=e1612] [cursor=pointer]: Not eligible
+                            - generic [ref=e1614] [cursor=pointer]: Campaign is paused
+                        - gridcell "Standard" [ref=e1615]:
+                          - generic [ref=e1616]: Standard
+                        - gridcell "€71.52" [ref=e1617]:
+                          - generic [ref=e1619]: €71.52
+                        - gridcell "3,227" [ref=e1620]:
+                          - generic [ref=e1622]: 3,227
+                        - gridcell "269 Clicks" [ref=e1623]:
+                          - generic [ref=e1624]:
+                            - generic [ref=e1625]: "269"
+                            - generic [ref=e1626]: Clicks
+                        - gridcell "8.34%" [ref=e1627]:
+                          - generic [ref=e1629]: 8.34%
+                        - gridcell "€0.86" [ref=e1630]:
+                          - generic [ref=e1632]: €0.86
+                        - gridcell "€230.80" [ref=e1633]:
+                          - generic [ref=e1635]: €230.80
+                        - gridcell "—" [ref=e1636]:
+                          - generic [ref=e1638]: —
+                        - gridcell "—" [ref=e1639]:
+                          - generic [ref=e1641]: —
+                        - gridcell "—" [ref=e1642]:
+                          - generic [ref=e1644]: —
+                        - gridcell "—" [ref=e1645]:
+                          - generic [ref=e1647]: —
+                        - gridcell "0.00" [ref=e1648]:
+                          - generic [ref=e1650]: "0.00"
+                        - gridcell "269" [ref=e1651]:
+                          - generic [ref=e1653]: "269"
+                        - gridcell "2.97%" [ref=e1654]:
+                          - generic [ref=e1656]: 2.97%
+                        - gridcell "476.14" [ref=e1657]:
+                          - generic [ref=e1659]: "476.14"
+                        - gridcell "2.06" [ref=e1660]:
+                          - generic [ref=e1662]: "2.06"
+                        - gridcell "8.00" [ref=e1663]:
+                          - generic [ref=e1665]: "8.00"
+                        - gridcell "€0.86" [ref=e1666]:
+                          - generic [ref=e1668]: €0.86
+                        - gridcell "€28.85" [ref=e1669]:
+                          - generic [ref=e1671]: €28.85
+                        - gridcell "476.14" [ref=e1672]:
+                          - generic [ref=e1674]: "476.14"
+                      - row "Select row Enabled tights does not break Edit name Edit settings S | General | EU | EN — — 100.00% Not eligible Campaign is paused Standard €55.55 2,774 243 Clicks 8.76% €0.63 €154.09 — — — — 0.00 243 3.09% 392.81 2.55 7.50 €0.63 €20.55 392.81" [ref=e1675]:
+                        - gridcell "Select row" [ref=e1676]:
+                          - checkbox "Select row" [ref=e1678] [cursor=pointer]:
+                            - img [ref=e1680]
+                        - gridcell "Enabled" [ref=e1681]:
+                          - img "Enabled" [ref=e1683]
+                        - gridcell "tights does not break Edit name Edit settings" [ref=e1684]:
+                          - generic [ref=e1687] [cursor=pointer]: tights does not break
+                          - generic [ref=e1688]:
+                            - button "Edit name" [ref=e1689] [cursor=pointer]
+                            - button "Edit settings" [ref=e1694] [cursor=pointer]:
+                              - img [ref=e1697]: settings
+                        - gridcell "S | General | EU | EN" [ref=e1699]:
+                          - generic [ref=e1702] [cursor=pointer]: S | General | EU | EN
+                        - gridcell "—" [ref=e1703]:
+                          - generic [ref=e1705]: —
+                        - gridcell "—" [ref=e1707]:
+                          - generic [ref=e1709]: —
+                        - gridcell "100.00%" [ref=e1711]:
+                          - generic [ref=e1713]: 100.00%
+                        - gridcell "Not eligible Campaign is paused" [ref=e1717]:
+                          - generic [ref=e1722]:
+                            - generic [ref=e1724] [cursor=pointer]: Not eligible
+                            - generic [ref=e1726] [cursor=pointer]: Campaign is paused
+                        - gridcell "Standard" [ref=e1727]:
+                          - generic [ref=e1728]: Standard
+                        - gridcell "€55.55" [ref=e1729]:
+                          - generic [ref=e1731]: €55.55
+                        - gridcell "2,774" [ref=e1732]:
+                          - generic [ref=e1734]: 2,774
+                        - gridcell "243 Clicks" [ref=e1735]:
+                          - generic [ref=e1736]:
+                            - generic [ref=e1737]: "243"
+                            - generic [ref=e1738]: Clicks
+                        - gridcell "8.76%" [ref=e1739]:
+                          - generic [ref=e1741]: 8.76%
+                        - gridcell "€0.63" [ref=e1742]:
+                          - generic [ref=e1744]: €0.63
+                        - gridcell "€154.09" [ref=e1745]:
+                          - generic [ref=e1747]: €154.09
+                        - gridcell "—" [ref=e1748]:
+                          - generic [ref=e1750]: —
+                        - gridcell "—" [ref=e1751]:
+                          - generic [ref=e1753]: —
+                        - gridcell "—" [ref=e1754]:
+                          - generic [ref=e1756]: —
+                        - gridcell "—" [ref=e1757]:
+                          - generic [ref=e1759]: —
+                        - gridcell "0.00" [ref=e1760]:
+                          - generic [ref=e1762]: "0.00"
+                        - gridcell "243" [ref=e1763]:
+                          - generic [ref=e1765]: "243"
+                        - gridcell "3.09%" [ref=e1766]:
+                          - generic [ref=e1768]: 3.09%
+                        - gridcell "392.81" [ref=e1769]:
+                          - generic [ref=e1771]: "392.81"
+                        - gridcell "2.55" [ref=e1772]:
+                          - generic [ref=e1774]: "2.55"
+                        - gridcell "7.50" [ref=e1775]:
+                          - generic [ref=e1777]: "7.50"
+                        - gridcell "€0.63" [ref=e1778]:
+                          - generic [ref=e1780]: €0.63
+                        - gridcell "€20.55" [ref=e1781]:
+                          - generic [ref=e1783]: €20.55
+                        - gridcell "392.81" [ref=e1784]:
+                          - generic [ref=e1786]: "392.81"
+                      - 'row "Total: All but removed ad groups in your current view More information €65.93 84,562 5,879 Clicks, engagements 6.95% €0.95 €5,575.15 0.00 — 0.00 5,692 5.57% 19,045.42 3.42 327.32 €0.98 €17.03 19,045.42" [ref=e1787]':
+                        - gridcell [ref=e1788]
+                        - gridcell [ref=e1789]:
+                          - button [ref=e1791] [cursor=pointer]:
+                            - img [ref=e1792]: expand_more
+                        - 'gridcell "Total: All but removed ad groups in your current view More information"':
+                          - generic [ref=e1793]:
+                            - generic [ref=e1794]: "Total: All but removed ad groups in your current view"
+                            - button "More information" [ref=e1796] [cursor=pointer]:
+                              - img [ref=e1798]: help_outline
+                        - gridcell [ref=e1799]
+                        - gridcell [ref=e1800]
+                        - gridcell [ref=e1801]
+                        - gridcell [ref=e1802]
+                        - gridcell [ref=e1803]
+                        - gridcell [ref=e1804]
+                        - gridcell [ref=e1805]
+                        - gridcell "€65.93" [ref=e1806]:
+                          - generic [ref=e1808]: €65.93
+                        - gridcell "84,562" [ref=e1809]:
+                          - generic [ref=e1811]: 84,562
+                        - gridcell "5,879 Clicks, engagements" [ref=e1812]:
+                          - generic [ref=e1813]:
+                            - generic [ref=e1814]: 5,879
+                            - generic [ref=e1815]: Clicks, engagements
+                        - gridcell "6.95%" [ref=e1816]:
+                          - generic [ref=e1818]: 6.95%
+                        - gridcell "€0.95" [ref=e1819]:
+                          - generic [ref=e1821]: €0.95
+                        - gridcell "€5,575.15" [ref=e1822]:
+                          - generic [ref=e1824]: €5,575.15
+                        - gridcell [ref=e1825]
+                        - gridcell [ref=e1826]
+                        - gridcell "0.00" [ref=e1827]:
+                          - generic [ref=e1830]: "0.00"
+                        - gridcell "—" [ref=e1831]:
+                          - generic [ref=e1833]: —
+                        - gridcell "0.00" [ref=e1834]:
+                          - generic [ref=e1836]: "0.00"
+                        - gridcell "5,692" [ref=e1837]:
+                          - generic [ref=e1839]: 5,692
+                        - gridcell "5.57%" [ref=e1840]:
+                          - generic [ref=e1842]: 5.57%
+                        - gridcell "19,045.42" [ref=e1843]:
+                          - generic [ref=e1845]: 19,045.42
+                        - gridcell "3.42" [ref=e1846]:
+                          - generic [ref=e1848]: "3.42"
+                        - gridcell "327.32" [ref=e1849]:
+                          - generic [ref=e1851]: "327.32"
+                        - gridcell "€0.98" [ref=e1852]:
+                          - generic [ref=e1854]: €0.98
+                        - gridcell "€17.03" [ref=e1855]:
+                          - generic [ref=e1857]: €17.03
+                        - gridcell "19,045.42" [ref=e1858]:
+                          - generic [ref=e1860]: 19,045.42
+                      - 'row "Expand row Total: Account More information €6.58 1,868,675 42,640 Clicks, engagements 2.28% €0.29 €12,293.56 0.00 — 0.00 30,417 1.17% 28,811.29 2.34 500.00 €0.40 €24.59 28,769.79" [ref=e1861]':
+                        - gridcell [ref=e1862]
+                        - gridcell "Expand row" [ref=e1863]:
+                          - button "Expand row" [ref=e1865] [cursor=pointer]:
+                            - img "Expand row" [ref=e1866]: expand_more
+                        - 'gridcell "Total: Account More information"':
+                          - generic [ref=e1867]:
+                            - generic [ref=e1868]: "Total: Account"
+                            - button "More information" [ref=e1870] [cursor=pointer]:
+                              - img [ref=e1872]: help_outline
+                        - gridcell [ref=e1873]
+                        - gridcell [ref=e1874]
+                        - gridcell [ref=e1875]
+                        - gridcell [ref=e1876]
+                        - gridcell [ref=e1877]
+                        - gridcell [ref=e1878]
+                        - gridcell [ref=e1879]
+                        - gridcell "€6.58" [ref=e1880]:
+                          - generic [ref=e1882]: €6.58
+                        - gridcell "1,868,675" [ref=e1883]:
+                          - generic [ref=e1885]: 1,868,675
+                        - gridcell "42,640 Clicks, engagements" [ref=e1886]:
+                          - generic [ref=e1887]:
+                            - generic [ref=e1888]: 42,640
+                            - generic [ref=e1889]: Clicks, engagements
+                        - gridcell "2.28%" [ref=e1890]:
+                          - generic [ref=e1892]: 2.28%
+                        - gridcell "€0.29" [ref=e1893]:
+                          - generic [ref=e1895]: €0.29
+                        - gridcell "€12,293.56" [ref=e1896]:
+                          - generic [ref=e1898]: €12,293.56
+                        - gridcell [ref=e1899]
+                        - gridcell [ref=e1900]
+                        - gridcell "0.00" [ref=e1901]:
+                          - generic [ref=e1904]: "0.00"
+                        - gridcell "—" [ref=e1905]:
+                          - generic [ref=e1907]: —
+                        - gridcell "0.00" [ref=e1908]:
+                          - generic [ref=e1910]: "0.00"
+                        - gridcell "30,417" [ref=e1911]:
+                          - generic [ref=e1913]: 30,417
+                        - gridcell "1.17%" [ref=e1914]:
+                          - generic [ref=e1916]: 1.17%
+                        - gridcell "28,811.29" [ref=e1917]:
+                          - generic [ref=e1919]: 28,811.29
+                        - gridcell "2.34" [ref=e1920]:
+                          - generic [ref=e1922]: "2.34"
+                        - gridcell "500.00" [ref=e1923]:
+                          - generic [ref=e1925]: "500.00"
+                        - gridcell "€0.40" [ref=e1926]:
+                          - generic [ref=e1928]: €0.40
+                        - gridcell "€24.59" [ref=e1929]:
+                          - generic [ref=e1931]: €24.59
+                        - gridcell "28,769.79" [ref=e1932]:
+                          - generic [ref=e1934]: 28,769.79
+                    - generic [ref=e1942]:
+                      - generic [ref=e1943]:
+                        - generic [ref=e1944]: Show rows
+                        - button "Show rows 10 selected." [ref=e1947] [cursor=pointer]:
+                          - generic [ref=e1948]: "10"
+                          - img [ref=e1950]: arrow_drop_down
+                      - generic [ref=e1951]:
+                        - generic [ref=e1953]: 1 - 10 of 93
+                        - generic [ref=e1954]:
+                          - button "Go to the first page" [disabled] [ref=e1955]:
+                            - generic:
+                              - generic:
+                                - img: first_page
+                          - button "Go to the previous page" [disabled] [ref=e1956]:
+                            - generic:
+                              - generic:
+                                - img: chevron_left
+                          - button "Go to the next page" [ref=e1957] [cursor=pointer]:
+                            - img [ref=e1960]: chevron_right
+                          - button "Go to the last page" [ref=e1962] [cursor=pointer]:
+                            - img [ref=e1965]: last_page
+                - generic [ref=e1967]:
+                  - generic [ref=e1968]:
+                    - link "Reporting is not carried out in real time." [ref=e1970] [cursor=pointer]:
+                      - /url: https://support.google.com/google-ads/?p=help_2544985&hl=en_GB
+                    - text: "Time zone for all dates and times: (GMT+01:00) Central European Time."
+                    - link "Learn more about changing your Google Ads account settings" [ref=e1972] [cursor=pointer]:
+                      - /url: https://support.google.com/google-ads/?p=help_9842104&hl=en_GB
+                      - text: Learn more
+                    - generic [ref=e1973]: Some inventory may be provided through third-party intermediaries.
+                    - generic [ref=e1974]: You'll see Media Rating Council (MRC) accreditation noted in the column header's hover text for accredited metrics.
+                  - generic [ref=e1975]: © Google, 2026.
+  - generic:
+    - dialog:
+      - generic:
+        - generic:
+          - heading [level=1]: Turn off ad blockers
+          - paragraph: Google Ads can't work when you're using an ad blocker. To use Google Ads, please turn off any ad blockers for now.
+  - generic:
+    - generic:
+      - generic:
+        - dialog "dialogue"
+  - generic:
+    - generic:
+      - generic:
+        - dialog "dialogue"

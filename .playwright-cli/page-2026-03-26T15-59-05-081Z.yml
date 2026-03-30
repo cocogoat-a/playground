@@ -1,0 +1,398 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - link "Перейти до контенту" [ref=e3] [cursor=pointer]:
+      - /url: "#page-content"
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - link "Google Logo" [ref=e9] [cursor=pointer]:
+          - /url: https://business.google.com/ua/
+          - img "Google Logo" [ref=e11]
+        - navigation "Загальна навігація" [ref=e13]:
+          - menubar [ref=e14]:
+            - menuitem "Із чого почати?" [ref=e15] [cursor=pointer]
+            - menuitem "Рішення" [ref=e16] [cursor=pointer]
+            - menuitem "Навчання й статистика" [ref=e17] [cursor=pointer]
+            - menuitem "Отримати допомогу" [ref=e18] [cursor=pointer]
+        - button "Увійти" [ref=e23] [cursor=pointer]:
+          - generic [ref=e24]: person
+      - generic [ref=e27]:
+        - link "Google Ads" [ref=e28] [cursor=pointer]:
+          - /url: https://business.google.com/ua/google-ads/
+          - generic [ref=e29]: Google Ads
+        - navigation "Навігація розділом Google Ads" [ref=e31]:
+          - list [ref=e32]:
+            - listitem [ref=e33]:
+              - link "Цілі" [ref=e34] [cursor=pointer]:
+                - /url: https://business.google.com/ua/google-ads/campaign-goals/
+            - listitem [ref=e35]:
+              - link "Як це працює" [ref=e36] [cursor=pointer]:
+                - /url: https://business.google.com/ua/google-ads/how-ads-work/
+            - listitem [ref=e37]:
+              - link "Вартість" [ref=e38] [cursor=pointer]:
+                - /url: https://business.google.com/ua/google-ads/campaign-budget/
+        - generic [ref=e39]:
+          - link "Увійти" [ref=e40] [cursor=pointer]:
+            - /url: https://ads.google.com/nav/login?subid=ua-uk-awhp-g-aw-c-home-signin-bgc!o2-ahpm-0000000200-0000000002&authuser=0
+          - link "Почати" [ref=e41] [cursor=pointer]:
+            - /url: https://ads.google.com/signup?subid=ua-uk-awhp-g-aw-c-home-top-bgc!o2-ahpm-0000000200-0000000002&authuser=0
+  - main [ref=e42]:
+    - generic [ref=e43]:
+      - generic [ref=e44]:
+        - generic [ref=e45]:
+          - heading "Більше продажів, Виділяйтеся, Будьте помітні, Зацікавлюйте, завдяки Google Ads" [level=1] [ref=e46]
+          - generic [ref=e47]:
+            - generic [ref=e48]:
+              - heading [level=2] [ref=e49]: Більше продажів
+              - heading [level=2] [ref=e50]: Виділяйтеся
+              - heading [level=2] [ref=e51]: Будьте помітні
+              - heading [level=2] [ref=e52]: Зацікавлюйте
+            - generic [ref=e54]:
+              - paragraph [ref=e55]: завдяки Google Ads
+              - button "Призупинити анімацію" [ref=e57] [cursor=pointer]
+          - img "Do more for your business with" [ref=e60]:
+            - generic [ref=e61]:
+              - generic:
+                - img:
+                  - generic:
+                    - generic: Торгова кампанія
+                    - generic: Розпродаж взуття
+                    - generic: Переглянути колекції
+                    - generic: example-business.com
+            - generic [ref=e62]:
+              - generic:
+                - img:
+                  - generic:
+                    - generic: Відеокампанія
+                    - generic: Банк “Надійний”
+                    - generic: example-business.com
+            - generic [ref=e63]:
+              - generic:
+                - img:
+                  - generic:
+                    - generic: Пошукова кампанія
+                    - generic: Оголошення
+                    - generic: example-business.com
+                    - generic: Сучасний дизайн і матеріали
+            - generic [ref=e64]:
+              - generic:
+                - img:
+                  - generic:
+                    - generic: Медійне оголошення
+                    - generic: Сучасні дивани спеціальних розмірів
+                    - generic: Найкращі сучасні меблі
+        - generic [ref=e65]:
+          - generic [ref=e66]: Використовуйте Google Ads, щоб потенційні клієнти могли швидко знайти вашу компанію.
+          - link "Більше продажів, Виділяйтеся, Будьте помітні, Зацікавлюйте, завдяки Google Ads" [ref=e69] [cursor=pointer]:
+            - /url: https://ads.google.com/signup?subid=ua-uk-awhp-g-aw-c-home-hero-bgc!o2-ahpm-0000000200-0000000002&authuser=0
+            - text: Почати
+      - generic [ref=e71]:
+        - heading "Google Ads пропонує багато можливостей привернути увагу до вашого бізнесу" [level=2] [ref=e74]
+        - generic [ref=e78]:
+          - tablist [ref=e80]:
+            - tab "Пошукові оголошення" [selected] [ref=e81] [cursor=pointer]:
+              - img [ref=e82]
+              - generic [ref=e84]: Пошукові оголошення
+              - img
+            - tab "Медійні оголошення" [ref=e85] [cursor=pointer]:
+              - img [ref=e86]
+              - generic [ref=e88]: Медійні оголошення
+              - img
+            - tab "Товарні оголошення" [ref=e89] [cursor=pointer]:
+              - img [ref=e90]
+              - generic [ref=e92]: Товарні оголошення
+              - img
+            - tab "Відеореклама" [ref=e93] [cursor=pointer]:
+              - img [ref=e94]
+              - generic [ref=e96]: Відеореклама
+              - img
+            - tab "Реклама додатків" [ref=e97] [cursor=pointer]:
+              - img [ref=e98]
+              - generic [ref=e100]: Реклама додатків
+              - img
+          - tabpanel "Пошукові оголошення" [ref=e102]:
+            - generic [ref=e104]:
+              - generic [ref=e105]:
+                - generic:
+                  - img "Ілюстрація, на якій показано, як пошуковий запит Google щодо домашнього декору спрямовує користувача на релевантне пошукове оголошення про меблі.":
+                    - generic:
+                      - generic: Сучасні меблі
+                      - generic: Оголошення
+                      - generic: example-business.com
+                      - generic: Сучасний дизайн і матеріали
+                      - generic: Найкращі сучасні меблі для вашої оселі.
+              - generic [ref=e106]:
+                - heading "Почніть із пошукових оголошень" [level=3] [ref=e107]
+                - paragraph [ref=e108]: Збільшуйте обсяг продажів, кількість потенційних клієнтів або відвідувачів сайту, рекламуючи свою компанію людям, які шукають у Google товари чи послуги з вашого асортименту.
+                - link "Докладніше про пошукові оголошення" [ref=e111] [cursor=pointer]:
+                  - /url: https://business.google.com/ua/ad-solutions/search/
+                  - img [ref=e113]
+                  - text: Докладніше про пошукові оголошення
+      - generic [ref=e117]:
+        - generic [ref=e121]:
+          - heading "Досягайте всіх поставлених цілей в одному інтерфейсі" [level=2] [ref=e123]
+          - link "Докладніше про те, як досягти поставлених цілей" [ref=e125] [cursor=pointer]:
+            - /url: https://business.google.com/ua/google-ads/campaign-goals/
+            - text: Докладніше
+        - generic [ref=e130]:
+          - generic [ref=e135]:
+            - generic [ref=e136]: Отримати максимальну кількість запитів і конверсій
+            - paragraph [ref=e139]: Залучайте зацікавлених клієнтів і збільшуйте кількість конверсій.
+          - generic [ref=e144]:
+            - generic [ref=e145]: Збільшити обсяг онлайн-продажів
+            - paragraph [ref=e148]: Показуйте рекламу покупцям у потрібний момент, а також збільшуйте обсяг продажів і трафіку на сайті.
+          - generic [ref=e153]:
+            - generic [ref=e154]: Збільшити кількість відвідувачів магазину
+            - paragraph [ref=e157]: Спонукайте людей відвідати ваш магазин і збільште обсяг офлайн-продажів.
+          - generic [ref=e162]:
+            - generic [ref=e163]: Розповісти про бренд більшій кількості людей
+            - paragraph [ref=e166]: Розкажіть про свій бренд, щоб підвищити охоплення й зацікавленість користувачів.
+          - generic [ref=e171]:
+            - generic [ref=e172]: Рекламувати додаток новим користувачам
+            - paragraph [ref=e175]: Рекламуйте свій додаток, щоб збільшити кількість завантажень і спонукати до взаємодії.
+      - generic [ref=e178]:
+        - heading "Можливості Google для вашої компанії" [level=2] [ref=e182]:
+          - generic [ref=e183]:
+            - text: Можливості Google
+            - text: для вашої компанії
+        - list [ref=e185]:
+          - listitem [ref=e186]:
+            - generic [ref=e190]:
+              - heading "Залучайте клієнтів на всіх платформах" [level=3] [ref=e191]
+              - paragraph
+              - paragraph [ref=e192]: Показуйте рекламу в потужній екосистемі Google Ads у слушний час і в потрібному місці. Дозвольте ШІ від Google знайти найефективніші формати оголошень для пошукової мережі, рекомендацій, YouTube і інших сервісів, щоб отримати якнайбільше конверсій.
+              - paragraph
+          - listitem [ref=e194]:
+            - generic [ref=e196]:
+              - generic:
+                - img:
+                  - generic:
+                    - generic: Конверсії
+                    - generic: +100 тис.
+            - generic [ref=e197]:
+              - heading "Відстежуйте, аналізуйте й оптимізуйте показники, щоб покращити рентабельність інвестицій (ROI)" [level=3] [ref=e198]
+              - paragraph
+              - paragraph [ref=e199]: Відстежуйте конверсії, щоб отримувати унікальну статистику аудиторії. Скористайтеся можливостями залучити нових клієнтів за найвищої рентабельності інвестицій завдяки функціям автоматизації Google для оптимізації бюджету.
+              - paragraph
+          - listitem [ref=e201]:
+            - generic [ref=e203]:
+              - generic:
+                - img:
+                  - generic:
+                    - generic: Обмеження місячного бюджету
+                    - generic: ₴
+                    - generic: ₴₴
+            - generic [ref=e204]:
+              - heading "Повністю контролюйте свій бюджет" [level=3] [ref=e205]
+              - paragraph
+              - paragraph [ref=e206]: Отримуйте рекомендації, призначайте місячний бюджет і коригуйте витрати в будь-який час. Технології Google допоможуть вам відстежувати результати й ефективно розподіляти рекламні витрати.
+              - paragraph
+      - generic [ref=e211]:
+        - heading "Поширені запитання" [level=2] [ref=e213]
+        - generic [ref=e215]:
+          - button "Показати або сховати всі групи панелей" [ref=e217] [cursor=pointer]:
+            - generic [ref=e218]: Розгорнути всі
+            - generic [ref=e219]: expand_all
+          - generic [ref=e220]:
+            - generic [ref=e221]:
+              - heading "Які типи кампаній Google Ads я можу запускати?" [level=3] [ref=e222]:
+                - button "Які типи кампаній Google Ads я можу запускати?" [ref=e223] [cursor=pointer]:
+                  - generic [ref=e225]: Які типи кампаній Google Ads я можу запускати?
+                  - generic [ref=e227]: add
+              - generic [ref=e228]:
+                - text: "Існує багато типів кампаній Google Ads на вибір:"
+                - list [ref=e229]:
+                  - listitem [ref=e230]: Пошукові оголошення
+                  - listitem [ref=e231]: Кампанії з максимальною ефективністю
+                  - listitem [ref=e232]: Медійні оголошення
+                  - listitem [ref=e233]: Кампанії для створення попиту
+                  - listitem [ref=e234]: Товарні оголошення
+                  - listitem [ref=e235]: Відеореклама
+                  - listitem [ref=e236]: Реклама додатків
+                - text: Вибір типу кампанії залежить від ваших маркетингових цілей, стратегії бренду та кількості часу, який ви можете інвестувати. Дізнайтеся, як вибрати правильну кампанію для запуску, відвідавши
+                - link [ref=e237] [cursor=pointer]:
+                  - /url: https://support.google.com/google-ads/answer/2567043?ref_topic=10286612,3181080,3126923,&sjid=2416158513707060248-NA&visit_id=638567559239781313-1816988681&rd=1
+                  - text: сторінку довідки «Як вибрати тип кампанії».
+            - generic [ref=e238]:
+              - heading "Який тип кампанії Google Ads підходить для мого бізнесу?" [level=3] [ref=e239]:
+                - button "Який тип кампанії Google Ads підходить для мого бізнесу?" [ref=e240] [cursor=pointer]:
+                  - generic [ref=e242]: Який тип кампанії Google Ads підходить для мого бізнесу?
+                  - generic [ref=e244]: add
+              - generic [ref=e245]:
+                - text: Найкраща рекламна кампанія для вашого бізнесу залежить від ваших цілей. Вибір типу кампанії залежить від ваших маркетингових цілей, стратегії бренду та кількості часу, який ви можете інвестувати. Дізнайтеся, як вибрати правильний тип кампанії, відвідавши
+                - link [ref=e246] [cursor=pointer]:
+                  - /url: https://support.google.com/google-ads/answer/2567043?ref_topic=10286612,3181080,3126923,&sjid=2416158513707060248-NA&visit_id=638567559239781313-1816988681&rd=1
+                  - text: сторінку довідки «Як вибрати тип кампанії».
+            - generic [ref=e247]:
+              - heading "Чи використовує Google Ads штучний інтелект?" [level=3] [ref=e248]:
+                - button "Чи використовує Google Ads штучний інтелект?" [ref=e249] [cursor=pointer]:
+                  - generic [ref=e251]: Чи використовує Google Ads штучний інтелект?
+                  - generic [ref=e253]: add
+              - generic [ref=e254]:
+                - text: Так, рекламні рішення Google на основі штучного інтелекту допомагають просувати ваш маркетинг далі, допомагаючи вам знаходити нових клієнтів, створювати креативні об’єкти, відкривати можливості для підвищення ефективності та примножувати результати вашого бізнесу. Дізнайтеся про основні принципи та те, як посилити свій маркетинг за допомогою штучного інтелекту, відвідавши
+                - link [ref=e255] [cursor=pointer]:
+                  - /url: https://support.google.com/google-ads/answer/13580022?sjid=2416158513707060248-NA
+                  - text: сторінку довідки «Основи штучного інтелекту в Google Ads».
+            - generic [ref=e256]:
+              - heading "Як я можу використовувати Google Ads для охоплення потенційних клієнтів?" [level=3] [ref=e257]:
+                - button "Як я можу використовувати Google Ads для охоплення потенційних клієнтів?" [ref=e258] [cursor=pointer]:
+                  - generic [ref=e260]: Як я можу використовувати Google Ads для охоплення потенційних клієнтів?
+                  - generic [ref=e262]: add
+              - generic [ref=e263]:
+                - text: Google Ads може допомогти вам знайти потенційних клієнтів, зацікавлених у продуктах або брендах, подібних до ваших. Аудиторії Google Ads допомагають охопити людей на основі їхніх пристрастей або тем, які вони активно досліджують. Створюючи користувацькі аудиторії на основі релевантних ключових слів і веб-сайтів, ви можете розміщувати релевантнішу рекламу для кращого досягнення своїх цілей. Дізнайтеся, як охопити більше потенційних клієнтів, відвідавши
+                - link [ref=e264] [cursor=pointer]:
+                  - /url: https://support.google.com/google-ads/answer/10075331?sjid=2416158513707060248-NA
+                  - text: сторінку довідки «Як охопити більше ідеальних клієнтів за допомогою спеціальних аудиторій».
+  - contentinfo [ref=e265]:
+    - heading "Посилання в нижньому колонтитулі" [level=2] [ref=e266]
+    - generic [ref=e270]:
+      - paragraph [ref=e271]: Ми в соцмережах
+      - list [ref=e272]:
+        - listitem [ref=e273]:
+          - link "Підпишіться на сторінку Google Ads в X" [ref=e274] [cursor=pointer]:
+            - /url: https://x.com/googleads
+            - img
+        - listitem [ref=e275]:
+          - link "Підпишіться на канал Google Ads на YouTube" [ref=e276] [cursor=pointer]:
+            - /url: https://www.youtube.com/googleads
+            - img
+        - listitem [ref=e277]:
+          - link "Підпишіться на сторінку Google Ads у Facebook" [ref=e278] [cursor=pointer]:
+            - /url: https://www.facebook.com/GoogleAds/
+            - img
+    - navigation "Посилання в нижньому колонтитулі" [ref=e279]:
+      - generic [ref=e280]:
+        - generic [ref=e281]:
+          - heading "Продукти" [level=3] [ref=e282]:
+            - generic [ref=e283]: Продукти
+          - list "Продукти" [ref=e285]:
+            - listitem [ref=e286]:
+              - link "Google Ads" [ref=e287] [cursor=pointer]:
+                - /url: https://business.google.com/ua/google-ads/
+            - listitem [ref=e288]:
+              - link "Реклама на YouTube" [ref=e289] [cursor=pointer]:
+                - /url: https://business.google.com/ua/ad-solutions/youtube-ads/
+            - listitem [ref=e290]:
+              - link "Merchant Center" [ref=e291] [cursor=pointer]:
+                - /url: https://business.google.com/ua/merchant-center/
+            - listitem [ref=e292]:
+              - link "Профіль компанії" [ref=e293] [cursor=pointer]:
+                - /url: https://business.google.com/ua/business-profile/
+            - listitem [ref=e294]:
+              - link "Google Analytics" [ref=e295] [cursor=pointer]:
+                - /url: https://business.google.com/ua/google-analytics/
+            - listitem [ref=e296]:
+              - link "Manufacturer Center" [ref=e297] [cursor=pointer]:
+                - /url: https://business.google.com/ua/merchant-center/manufacturer-center/
+        - generic [ref=e298]:
+          - heading "Навчання й підтримка" [level=3] [ref=e299]:
+            - generic [ref=e300]: Навчання й підтримка
+          - list "Навчання й підтримка" [ref=e302]:
+            - listitem [ref=e303]:
+              - link "Accelerate with Google" [ref=e304] [cursor=pointer]:
+                - /url: https://business.google.com/ua/accelerate/home/
+            - listitem [ref=e305]:
+              - link "Довідковий центр Google Ads" [ref=e306] [cursor=pointer]:
+                - /url: https://support.google.com/google-ads/#topic=10286612&utm_source=smb_marketing&utm_medium=referral&utm_campaign=us-en-et-awhp-footer&utm_content=
+            - listitem [ref=e307]:
+              - link "Посібник із Merchant Center" [ref=e308] [cursor=pointer]:
+                - /url: https://support.google.com/merchants/answer/12159157
+            - listitem [ref=e309]:
+              - link "Ваш посібник із Google Ads" [ref=e310] [cursor=pointer]:
+                - /url: https://support.google.com/google-ads/answer/6146252?utm_medium=et&utm_campaign=en&utm_source=ww-ww-et-b2bfooter_adwords
+            - listitem [ref=e311]:
+              - link "Спільнота рекламодавців Google" [ref=e312] [cursor=pointer]:
+                - /url: https://support.google.com/google-ads/community?ctx=lithium
+        - generic [ref=e313]:
+          - heading "Партнери й розробники" [level=3] [ref=e314]:
+            - generic [ref=e315]: Партнери й розробники
+          - list "Партнери й розробники" [ref=e317]:
+            - listitem [ref=e318]:
+              - link "Google Partners" [ref=e319] [cursor=pointer]:
+                - /url: https://partnersdirectory.withgoogle.com/?premier=true
+            - listitem [ref=e320]:
+              - link "Сайт Google Developers" [ref=e321] [cursor=pointer]:
+                - /url: https://developers.google.com/
+            - listitem [ref=e322]:
+              - link "Скрипти Google Ads" [ref=e323] [cursor=pointer]:
+                - /url: https://developers.google.com/google-ads/scripts/docs/start
+            - listitem [ref=e324]:
+              - link "Теги ремаркетингу Google Ads" [ref=e325] [cursor=pointer]:
+                - /url: https://support.google.com/google-ads/answer/2476688
+            - listitem [ref=e326]:
+              - link "Google Ads API" [ref=e327] [cursor=pointer]:
+                - /url: https://business.google.com/ua/ad-tools/google-ads-api/
+        - generic [ref=e328]:
+          - heading "Інші рішення" [level=3] [ref=e329]:
+            - generic [ref=e330]: Інші рішення
+          - list "Інші рішення" [ref=e332]:
+            - listitem [ref=e333]:
+              - link "Workspace" [ref=e334] [cursor=pointer]:
+                - /url: https://workspace.google.com/
+            - listitem [ref=e335]:
+              - link "Chrome" [ref=e336] [cursor=pointer]:
+                - /url: https://www.google.com/chrome/
+            - listitem [ref=e337]:
+              - link "Google Cloud" [ref=e338] [cursor=pointer]:
+                - /url: https://cloud.google.com/
+            - listitem [ref=e339]:
+              - link "AdSense" [ref=e340] [cursor=pointer]:
+                - /url: https://adsense.google.com/start/
+            - listitem [ref=e341]:
+              - link "AdMob" [ref=e342] [cursor=pointer]:
+                - /url: https://admob.google.com/home/get-started/
+    - paragraph [ref=e344]: Фактичні результати можуть відрізнятися залежно від рекламодавця.
+    - generic [ref=e345]:
+      - link "Google" [ref=e347] [cursor=pointer]:
+        - /url: https://www.google.com
+        - img [ref=e348]
+      - list [ref=e350]:
+        - listitem [ref=e351]:
+          - link "Про Google" [ref=e352] [cursor=pointer]:
+            - /url: https://about.google/intl/uk/
+        - listitem [ref=e353]:
+          - link "Продукти Google" [ref=e354] [cursor=pointer]:
+            - /url: https://about.google/intl/uk/products/
+        - listitem [ref=e355]:
+          - link "Конфіденційність" [ref=e356] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=uk&authuser=0
+        - listitem [ref=e357]:
+          - link "Умови використання" [ref=e358] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=uk
+      - list [ref=e359]:
+        - listitem [ref=e360]:
+          - link "Довідка" [ref=e361] [cursor=pointer]:
+            - /url: https://support.google.com/google-ads/
+            - img [ref=e362]
+            - text: Довідка
+        - listitem [ref=e364]:
+          - combobox "Змінити мову чи регіон" [ref=e365]:
+            - option "Australia and New Zealand - English"
+            - option "Brasil - Português (Brasil)"
+            - option "Canada - English"
+            - option "Canada - Français"
+            - option "Česká Republika - Čeština"
+            - option "Deutschland - Deutsch"
+            - option "English (Global)"
+            - option "España - Español"
+            - option "Español (Latinoamérica)"
+            - option "France - Français"
+            - option "India - English"
+            - option "Indonesia - Bahasa Indonesia"
+            - option "Italia - Italiano"
+            - option "Nederland - Nederlands"
+            - option "Polska - Polski"
+            - option "Русский"
+            - option "România - Română"
+            - option "Sverige - Svenska"
+            - option "Türkiye - Türkçe"
+            - option "United Kingdom - English"
+            - option "United States - English"
+            - option "Việt Nam - Tiếng Việt"
+            - option "ישראל - עברית"
+            - option "العربية"
+            - option "简体中文"
+            - option "繁體中文"
+            - option "日本 - 日本語"
+            - option "대한민국 - 한국어"
+            - option "ไทย - ไทย"
+            - option "Україна - Українська" [selected]

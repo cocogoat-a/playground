@@ -1,0 +1,59 @@
+{
+   "checksum": "d97df9519deb3bea99f2ccab529ec414",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13385654423775619",
+            "date_last_used": "13387395197490447",
+            "guid": "b242870d-09fb-4d2a-b842-11a16f03b8f8",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Shopify Partners",
+            "type": "url",
+            "url": "https://partners.shopify.com/3045009/stores"
+         }, {
+            "date_added": "13387537061474529",
+            "date_last_used": "13390570522188258",
+            "guid": "a4ebfb47-e149-479c-ba8c-c0f0658d210d",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "5 Gallon Bucket Liner · Home · Shopify",
+            "type": "url",
+            "url": "https://admin.shopify.com/store/df5cef-bd?organization_id=113014655&invite_acceptance=1"
+         } ],
+         "date_added": "13418833728031191",
+         "date_last_used": "0",
+         "date_modified": "13387537061474529",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Панель закладок",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13418833728031191",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Інші закладки",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13418833728031191",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Закладки на мобільному",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CqgBCocBCIiBAhKAASAAkgFsCmoKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCZlvY2vFTQYAEZlvY2vFTQYAIjQJVJVTa8VNBgAQAxn9SyR8enrhGSABKhw1MSFibS9mZDo5MTYzNzIzNTU5NDY4ODkzMTYxKS0hZGvFTQYA6gEMCOWsis4GELjdj4YDEgAqGHVBeCtoTnpad08zbmxoWXlQMUlYM1E9PUgDEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaeFlXem5Eald4NFBoYlBxWUNhYzVyczdiaTErTWw3VVcvdFRPTDVGUVV6b2ZDc1JqazZCREF1bGJIdml6VkxTZ2xWcDBDTm4rdG5FQXdQQTZHcmp0M09laXdySHc9PRgAIAAoADDX9Kigg/OLAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEusBCAYS5gEKHEJaaE9IS2ZBcUxnanJFN3JGdVE5b3B0ejZuUT0SZlo6QURxdEFaeFhHZTMxNXlCQXNJS3d2REloMmdUZE8rR0ZweDBoZm9oZGR0a05qSXBTeU9IZWJCMDNHdTBCNHc5RW4wNzNWRkhuWm5waE84bExTemMrbWJkN3JRelZON2ZEOWc9PRgAIAAoADD9r9n16oCRAzji3La13TJA4ty2td0yShxzWnBkYVpHMUhvSVZyTjZYMDhNUEdFOWptU1U9Wh4iHHZPN2M2TUNwcXNma3VDTC8wRzVLY1V1d2JFUT1leplodhLrAQgFEuYBChx1Mmo2VEpySDQ3SC80ZHZTKzBHSlZYQWcrUGc9EmZaOkFEcXRBWnhYR2UzMTV5QkFzSUt3dkRJaDJnVGRUNzVRTHRZY0RmOUsxb29JcU9rWlgwbkVvMFhjWHE4bW5jSHVyS0RTWXlkMHB1VjdDMUNENlFFVnV5U1BIdXF1OHg4Ym93PT0YACAAKAAwtPjyofSnjAM44NHbs9YyQODR27PWMkocVmZhUjJmNUIwL2JUMVFrZU1sbFdaeUdVdzNjPVoeIhxHVXhtZnFsSld3YzBTYlhyN1F2U3pyOG5EUlE9ZQbE30ASwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp6d0hDaHY2RUY5NjA2NHRYc1BjNFJKQkYrWlo4Nk12UEs1elByM0RlQlRQSGdPdXluL2VoNTUwME9HNjl0a0ladUFmOW13MW1BZ1dLWVJydXVpVm5jek9UZ01FZz09GAAgACgAMNf0qKCD84sDOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp6NnFOT3ZDNkVhZjVOWm8yZytON1lMNkVxc0sxZWxKRy9CY3ZNMGE4Q09WRGFSNThscU1OUWF6QnRxblZXVTJ1WkN5U3BZGAAgACgAMNf0qKCD84sDOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAwATgA",
+   "version": 1
+}

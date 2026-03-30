@@ -1,0 +1,15 @@
+Campaign state,Base Campaign Name,Impressions,Clicks,CTR,CPC,Cost,Revenue,Profit,Conversions,CPA,CR,ROAS
+active,"[ADa] - PMax: different signals - bestsellers",117300,1600,1.35%,1.4,2207,5279,3072,33,67,1.4%,2.4
+active,"[ADa] - PMax: All products - Search",100000,1100,1.06%,1.15,1216,3495,2279,25,49,1.6%,2.9
+active,"Megaphone - Brand Terms",1900,598,32.1%,0.57,343,5296,4952,50,7,8.4%,15.4
+paused,"AUS - Shopping Campaign - April 2024",0,0,0%,0,0,0,0,0,0,0.0%,0.0
+paused,"learning bucket 2024_6_5 17_43",0,0,0%,0,0,0,0,0,0,0.0%,0.0
+paused,"Megaphone - Retargeting - Responsive Display",0,0,0%,0,0,0,0,0,0,0.0%,0.0
+paused,"Megaphone - Search - Baby Books",0,0,0%,0,0,0,0,0,0,0.0%,0.0
+paused,"Megaphone - Search - Best Children's Books",0,0,0%,0,0,0,0,0,0,0.0%,0.0
+paused,"Megaphone - Search - Busy Book",0,0,0%,0,0,0,0,0,0,0.0%,0.0
+paused,"Megaphone - Search - DSA",0,0,0%,0,0,0,0,0,0,0.0%,0.0
+paused,"Megaphone - Search - Picture Books",0,0,0%,0,0,0,0,0,0,0.0%,0.0
+paused,"Megaphone - Search - Quiet Book",0,0,0%,0,0,0,0,0,0,0.0%,0.0
+Total,All Campaigns,219100,3200,1.48%,1.16,3767,14070,10303,108,35,2.4%,3.7
+Note,"The Looker table shows rounded display values, so these rows are display-level exports reconstructed from the visible report.",,,,,,,,,,,

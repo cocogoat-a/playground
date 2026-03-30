@@ -1,0 +1,1500 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - banner "Top navigation" [ref=e6]:
+      - status
+      - generic [ref=e7]:
+        - button [expanded] [ref=e8] [cursor=pointer]:
+          - img [ref=e11]: menu
+        - heading "Google Ads – Go to starting page" [level=1] [ref=e13]:
+          - button "Google Ads – Go to starting page" [ref=e14]:
+            - img [ref=e16] [cursor=pointer]
+        - button "Etavrian MCC minvoir.com 416-384-5005" [ref=e2279] [cursor=pointer]:
+          - generic [ref=e28]:
+            - generic [ref=e2280]:
+              - link "Etavrian MCC" [ref=e2281]:
+                - /url: /aw/overview?ocid=6547539728&ascid=6547539728&authuser=0&__u=6216113857&__c=4614269072
+              - img [ref=e2283]: chevron_right
+            - generic [ref=e29]:
+              - generic [ref=e30]: minvoir.com
+              - generic [ref=e31]: 416-384-5005
+              - img [ref=e33]: arrow_drop_down
+      - generic [ref=e36]:
+        - button "Page search" [ref=e39] [cursor=pointer]:
+          - generic [ref=e41]:
+            - img [ref=e42]: search
+            - text: Search
+        - generic [ref=e44]:
+          - button "Ads advisor" [ref=e2284] [cursor=pointer]:
+            - generic [ref=e2285]:
+              - generic [ref=e2286]:
+                - img [ref=e2287]: button_magic
+                - text: Ads Advisor
+              - generic [ref=e2288]: Beta
+          - button "Appearance" [ref=e47] [cursor=pointer]:
+            - generic [ref=e49]:
+              - img [ref=e50]: responsive_layout
+              - text: Appearance
+          - button "Refresh" [ref=e54] [cursor=pointer]:
+            - generic [ref=e56]:
+              - img [ref=e57]: refresh
+              - text: Refresh
+          - button "Open the quick help panel" [ref=e60] [cursor=pointer]:
+            - generic [ref=e61]:
+              - text: Help
+              - generic [ref=e62]:
+                - img [ref=e63]: help_outline
+                - text: Help
+          - button "Notifications" [ref=e70] [cursor=pointer]:
+            - generic [ref=e72]:
+              - img [ref=e75]: notifications
+              - generic [ref=e76]: Notifications
+      - button "Google Account" [ref=e83] [cursor=pointer]:
+        - img "Google Account (team@etavrian.com)" [ref=e84]
+    - generic [ref=e86]:
+      - generic [ref=e4299]:
+        - img [ref=e4301]: report_problem
+        - generic [ref=e4303]:
+          - status [ref=e4304]:
+            - generic [ref=e4306]: Call-only ads are being deprecated - Update to call assets by February 2027.
+          - generic [ref=e4308]:
+            - button "Learn more" [ref=e4311] [cursor=pointer]:
+              - generic [ref=e4312]: Learn more
+            - button "Fix it" [ref=e4315] [cursor=pointer]:
+              - generic [ref=e4316]: Fix it
+            - button "Dismiss" [ref=e4319] [cursor=pointer]:
+              - generic [ref=e4320]: Dismiss
+      - generic [ref=e87]:
+        - generic [ref=e89]:
+          - generic [ref=e90]:
+            - generic [ref=e91]:
+              - button "Create" [ref=e93] [cursor=pointer]:
+                - img [ref=e96]
+              - generic [ref=e98]: Create
+            - menu [ref=e99]:
+              - menu [ref=e2290]:
+                - menuitem "Campaigns" [ref=e2293] [cursor=pointer]:
+                  - generic [ref=e2294]:
+                    - img [ref=e2296]: campaign
+                    - generic [ref=e2297]: Campaigns
+                - menuitem "Goals" [ref=e2300] [cursor=pointer]:
+                  - generic [ref=e2301]:
+                    - img [ref=e2303]: rewarded_ads
+                    - generic [ref=e2304]: Goals
+                - menuitem "Tools" [ref=e2307] [cursor=pointer]:
+                  - generic [ref=e2308]:
+                    - img [ref=e2310]: construction
+                    - generic [ref=e2311]: Tools
+                - menuitem "Billing" [ref=e2314] [cursor=pointer]:
+                  - generic [ref=e2315]:
+                    - img [ref=e2317]: credit_card
+                    - generic [ref=e2318]: Billing
+                - menuitem "Admin" [ref=e2321] [cursor=pointer]:
+                  - generic [ref=e2322]:
+                    - img [ref=e2324]: settings
+                    - generic [ref=e2325]: Admin
+          - navigation [ref=e143]:
+            - menu [ref=e144]:
+              - generic [ref=e2326]:
+                - menuitem "Overview" [ref=e2329] [cursor=pointer]:
+                  - generic [ref=e2331]: Overview
+                - menuitem "Recommendations" [ref=e2335] [cursor=pointer]:
+                  - generic [ref=e2337]: Recommendations
+                - menuitem "Insights and reports" [ref=e2341] [cursor=pointer]:
+                  - generic [ref=e2342]:
+                    - generic [ref=e2343]: Insights and reports
+                    - img [ref=e2346]: expand_more
+                - menuitem "Campaigns" [ref=e2349] [cursor=pointer]:
+                  - generic [ref=e2350]:
+                    - generic [ref=e2351]: Campaigns
+                    - img [ref=e2354]: expand_more
+                - menuitem "Assets" [ref=e2357] [cursor=pointer]:
+                  - generic [ref=e2358]:
+                    - generic [ref=e2359]: Assets
+                    - img [ref=e2362]: expand_more
+                - menuitem "Products" [ref=e2365] [cursor=pointer]:
+                  - generic [ref=e2366]:
+                    - generic [ref=e2367]: Products
+                    - img [ref=e2370]: expand_more
+                - menuitem "Audiences, keywords and content" [ref=e2373] [cursor=pointer]:
+                  - generic [ref=e2374]:
+                    - generic [ref=e2375]: Audiences, keywords and content
+                    - img [ref=e2378]: expand_more
+                - menuitem "Change history" [ref=e2381] [cursor=pointer]:
+                  - generic [ref=e2383]: Change history
+            - group [ref=e198]:
+              - generic [ref=e199]:
+                - generic [ref=e200]:
+                  - generic "Get the Google Ads app" [ref=e201]:
+                    - img [ref=e203]: app_promo
+                    - generic [ref=e204]: Get the Google Ads app
+                  - button "Get the Google Ads app dismiss" [ref=e205] [cursor=pointer]:
+                    - img [ref=e208]: close
+                - generic [ref=e210]:
+                  - img "QR Code for Ads Mobile" [ref=e211]
+                  - generic "Scan to download the mobile app and get updates for your campaigns on the go" [ref=e212]
+        - generic [ref=e213]:
+          - generic [ref=e216]:
+            - button "View (2 filters) All campaigns" [ref=e221] [cursor=pointer]:
+              - generic [ref=e222]:
+                - generic [ref=e223]: View (2 filters)
+                - generic [ref=e224]:
+                  - img [ref=e227]: home
+                  - button "All campaigns" [ref=e228]
+              - img [ref=e230]: arrow_drop_down
+            - button "Campaigns (38) Select a campaign" [ref=e2385] [cursor=pointer]:
+              - generic [ref=e2386]:
+                - generic [ref=e2387]: Campaigns (38)
+                - generic [ref=e2388]: Select a campaign
+              - img [ref=e240]: arrow_drop_down
+          - group [ref=e248]:
+            - generic [ref=e249]:
+              - generic [ref=e250] [cursor=pointer]:
+                - generic: Filters
+              - generic: "Filters Applied:"
+              - grid "Filters Applied:" [ref=e251]:
+                - 'row "Campaign status: Enabled, Paused" [ref=e1338] [cursor=pointer]':
+                  - 'gridcell "Campaign status: Enabled, Paused" [ref=e1339]':
+                    - 'button "Campaign status: Enabled, Paused" [ref=e1340]': "Campaign status: Enabled, Paused"
+                - 'row "Ad group status: Enabled, Paused" [ref=e1342] [cursor=pointer]':
+                  - 'gridcell "Ad group status: Enabled, Paused" [ref=e1343]':
+                    - 'button "Ad group status: Enabled, Paused" [ref=e1344]': "Ad group status: Enabled, Paused"
+                - row [ref=e260]:
+                  - gridcell [ref=e261]:
+                    - combobox "Add filter" [ref=e262]
+                    - status [ref=e263]
+              - button "Save" [ref=e266] [cursor=pointer]:
+                - generic [ref=e267]:
+                  - img [ref=e269]: save
+                  - generic [ref=e270]: Save
+          - generic [ref=e273]:
+            - generic [ref=e275]:
+              - heading "Overview" [level=2] [ref=e2389]
+              - generic [ref=e281]:
+                - generic [ref=e283] [cursor=pointer]:
+                  - generic [ref=e284]: Custom
+                  - generic [ref=e286]:
+                    - button "1 Jan - 26 Mar 2026 Not applicable" [ref=e288]:
+                      - generic [ref=e289]: 1 Jan - 26 Mar 2026
+                      - img [ref=e291]: arrow_drop_down
+                    - generic [ref=e292]:
+                      - button "Previous" [ref=e293]:
+                        - img [ref=e296]: chevron_left
+                      - button "Next" [disabled]:
+                        - generic:
+                          - generic:
+                            - img: chevron_right
+                - button "Show last 30 days" [ref=e298] [cursor=pointer]:
+                  - generic [ref=e299]: Show last 30 days
+            - main [ref=e305]:
+              - generic [ref=e307]:
+                - application [ref=e2390]:
+                  - application [ref=e2392]:
+                    - generic [ref=e2393]:
+                      - tablist [ref=e2397]:
+                        - tab "Home" [selected] [ref=e2398] [cursor=pointer]:
+                          - generic [ref=e2399]: Home
+                      - button "Add custom view" [ref=e2402] [cursor=pointer]:
+                        - generic [ref=e2403]:
+                          - img [ref=e2405]: add
+                          - text: Add custom view
+                      - img [ref=e2408] [cursor=pointer]: help_outline
+                    - generic [ref=e2409]:
+                      - button "New campaign" [ref=e2413] [cursor=pointer]:
+                        - img [ref=e2415]: add
+                        - generic [ref=e2416]: New campaign
+                      - generic [ref=e2417]:
+                        - button "Button to download the overview cards content in a selected format." [ref=e2420] [cursor=pointer]:
+                          - generic [ref=e2422]:
+                            - img [ref=e2423]: file_download
+                            - text: Download
+                        - button "Button to submit feedback about the overview page." [ref=e2427] [cursor=pointer]:
+                          - generic [ref=e2429]:
+                            - img [ref=e2430]: feedback
+                            - text: Feedback
+                    - list [ref=e2432]:
+                      - generic [ref=e4322]:
+                        - generic [ref=e4324]:
+                          - generic [ref=e4325]:
+                            - img [ref=e4327]: tips_and_updates
+                            - generic "title" [ref=e4328]: Your performance summary from 26 Feb - 25 Mar compared to 29 Jan - 25 Feb
+                            - generic [ref=e4329]: Beta
+                          - generic [ref=e4330]:
+                            - paragraph [ref=e4331]: Helpful?
+                            - generic [ref=e4332]:
+                              - button "This is useful" [ref=e4333] [cursor=pointer]:
+                                - img [ref=e4336]: thumb_up
+                              - button "This isn't useful" [ref=e4338] [cursor=pointer]:
+                                - img [ref=e4341]: thumb_down
+                            - button "A menu with additional card options. Press enter to open." [ref=e4344] [cursor=pointer]:
+                              - img [ref=e4347]: more_vert
+                        - tablist [ref=e4352]:
+                          - tab "Clicks" [selected] [ref=e4353] [cursor=pointer]:
+                            - generic [ref=e4354]: Clicks
+                          - tab "Conv. value" [ref=e4356] [cursor=pointer]:
+                            - generic [ref=e4357]: Conv. value
+                        - generic [ref=e4363]:
+                          - generic [ref=e4365]:
+                            - heading "Clicks for your campaign ADa_Brand_NL increased by 21" [level=3] [ref=e4366]
+                            - button "1 campaign focused on clicks based on your Maximise clicks, Enhanced CPC and manual CPC bid strategies" [ref=e4367]:
+                              - img [ref=e4368]: help_outline
+                          - list [ref=e4369]:
+                            - listitem "bullet" [ref=e4370]: "Potential reasons for this change: keyword targeting changed, budget changed, and ads eligibility changed."
+                        - generic [ref=e4371]:
+                          - button "View details" [ref=e4373]: View details
+                          - paragraph [ref=e4378]:
+                            - text: Google AI is experimental.
+                            - link "Terms" [ref=e4379] [cursor=pointer]:
+                              - /url: https://policies.google.com/terms
+                      - generic [ref=e2452]:
+                        - listitem "Card 1 of 0. Use arrow keys to move to another card, tab to enter card content." [ref=e2453]:
+                          - generic [ref=e2455]:
+                            - heading "Time series" [level=1]
+                            - generic [ref=e2458]:
+                              - generic [ref=e2459]:
+                                - generic [ref=e2464]:
+                                  - generic [ref=e2466]:
+                                    - 'button "Choose metric 1 of 4 for the Time series chart. Current metric: Clicks" [ref=e2471] [cursor=pointer]':
+                                      - generic [ref=e2472]:
+                                        - img [ref=e2474]: arrow_drop_down
+                                        - generic [ref=e2475]: Clicks
+                                    - generic [ref=e2477]: 12.2k
+                                    - 'button ": 12.2k for this time period. Hide this metric from the chart. When someone clicks your ad, it''s counted here. This metric is accredited by the Media Rating Council (MRC) in desktop and mobile environments for the Search and Display Networks.. . ." [ref=e2478] [cursor=pointer]'
+                                  - generic [ref=e2480]:
+                                    - 'button "Choose metric 2 of 4 for the Time series chart. Current metric: Conversions" [ref=e2485] [cursor=pointer]':
+                                      - generic [ref=e2486]:
+                                        - img [ref=e2488]: arrow_drop_down
+                                        - generic [ref=e2489]: Conversions
+                                    - generic [ref=e2491]: "151.00"
+                                    - 'button ": 151.00 for this time period. Hide this metric from the chart. \"Conversions\" shows the number of conversions that you received after ad interactions (such as text ad clicks or video ad views). The conversion settings “Include in ‘Conversions’”, “Count” and “Include cross-device conversions” affect the number that you see here.. . ." [ref=e2492] [cursor=pointer]'
+                                  - generic [ref=e2494]:
+                                    - 'button "Choose metric 3 of 4 for the Time series chart. Current metric: Cost / conv." [ref=e2499] [cursor=pointer]':
+                                      - generic [ref=e2500]:
+                                        - img [ref=e2502]: arrow_drop_down
+                                        - generic [ref=e2503]: Cost / conv.
+                                    - generic [ref=e2505]: €44.57
+                                    - 'button ": €44.57. Show this metric in the chart. \"Cost per conversion (''Cost / conv.'')\" shows the average cost of a conversion. It’s the cost divided by the conversions. If you track multiple conversion actions, your overall cost per conversion may be lower than the cost for each conversion action. The cost in this metric only includes ad interactions that could lead to conversions.. . ." [ref=e2506] [cursor=pointer]'
+                                  - generic [ref=e2508]:
+                                    - 'button "Choose metric 4 of 4 for the Time series chart. Current metric: Cost" [ref=e2513] [cursor=pointer]':
+                                      - generic [ref=e2514]:
+                                        - img [ref=e2516]: arrow_drop_down
+                                        - generic [ref=e2517]: Cost
+                                    - generic [ref=e2519]: €6.73k
+                                    - 'button ": €6.73k. Show this metric in the chart. Cost is the sum of your spend during this period. . ." [ref=e2520] [cursor=pointer]'
+                                - generic [ref=e2522]:
+                                  - button "Metrics" [ref=e2523] [cursor=pointer]:
+                                    - generic [ref=e2525]:
+                                      - img [ref=e2527]: add_chart
+                                      - generic [ref=e2528]: Metrics
+                                  - button "Adjust" [ref=e2532] [cursor=pointer]:
+                                    - generic [ref=e2534]:
+                                      - img [ref=e2536]: tune
+                                      - generic [ref=e2537]: Adjust
+                                  - button "A menu with additional card options. Press enter to open." [ref=e2540] [cursor=pointer]:
+                                    - img [ref=e2543]: more_vert
+                              - application [ref=e2547]:
+                                - generic [ref=e4380]: Time series chart showing Clicks and Conversions from Thu, 1 Jan 2026 to Thu, 26 Mar 2026. Use arrow keys to navigate.
+                        - listitem "Card 1 of 0. Use arrow keys to move to another card, tab to enter card content." [ref=e2550]:
+                          - generic [ref=e2552]:
+                            - generic [ref=e2553]:
+                              - generic [ref=e2554]:
+                                - img [ref=e2556]: troubleshoot
+                                - heading "Account diagnostics" [level=1] [ref=e2557]
+                              - button "A menu with additional card options. Press enter to open." [ref=e2561] [cursor=pointer]:
+                                - img [ref=e2564]: more_vert
+                            - generic [ref=e2571]:
+                              - button "A few recent campaigns need attention" [expanded] [ref=e2573] [cursor=pointer]:
+                                - generic [ref=e2574]:
+                                  - generic [ref=e2577]: A few recent campaigns need attention
+                                  - paragraph
+                                - img [ref=e2578]: expand_less
+                              - region "A few recent campaigns need attention" [ref=e2579]:
+                                - generic [ref=e2586]:
+                                  - generic [ref=e2587]:
+                                    - generic [ref=e2589]:
+                                      - generic [ref=e2590]:
+                                        - link "ADa_Brand_NL" [ref=e2592]
+                                        - generic [ref=e2594]: Eligible (Limited)
+                                      - generic [ref=e2595]: Campaign is limited by bid strategy, ad strength is poor
+                                      - button "View details" [ref=e2597]:
+                                        - generic [ref=e2600]: View details
+                                    - generic [ref=e2602]:
+                                      - generic [ref=e2603]:
+                                        - link "ADa_Panty_NL" [ref=e2605]
+                                        - generic [ref=e2607]: Eligible (Limited)
+                                      - generic [ref=e2608]: Campaign may be limited by budget soon due to an expected future increase in traffic. +1 more issue
+                                      - button "View details" [ref=e2610]:
+                                        - generic [ref=e2613]: View details
+                                    - generic [ref=e2615]:
+                                      - generic [ref=e2616]:
+                                        - link "ADa_Pants_NL" [ref=e2618]
+                                        - generic [ref=e2620]: Eligible (Limited)
+                                      - generic [ref=e2621]: Campaign may be limited by budget soon due to an expected future increase in traffic.
+                                      - button "View details" [ref=e2623]:
+                                        - generic [ref=e2626]: View details
+                                    - generic [ref=e2628]:
+                                      - generic [ref=e2629]:
+                                        - link "PMax | Rem | AU-NZ | EN" [ref=e2631]
+                                        - generic [ref=e2633]: Paused
+                                      - generic [ref=e2634]: Campaign is paused, 1 out of 2 asset groups are limited by policy
+                                      - button "View details" [ref=e2636]:
+                                        - generic [ref=e2639]: View details
+                                    - generic [ref=e2641]:
+                                      - generic [ref=e2642]:
+                                        - link "PMax | Rem | CA | EN" [ref=e2644]
+                                        - generic [ref=e2646]: Paused
+                                      - generic [ref=e2647]: Campaign is paused, 1 out of 2 asset groups are limited by policy
+                                      - button "View details" [ref=e2649]:
+                                        - generic [ref=e2652]: View details
+                                  - button [ref=e2653] [cursor=pointer]:
+                                    - img [ref=e2656]: chevron_right
+                      - generic [ref=e2660]:
+                        - listitem "Card 1 of 0. Use arrow keys to move to another card, tab to enter card content." [ref=e2661]:
+                          - generic [ref=e2663]:
+                            - generic [ref=e2664]:
+                              - generic [ref=e2665]:
+                                - img [ref=e2667]: lightbulb
+                                - heading "Optimisation score" [level=1] [ref=e2668]
+                              - button "A menu with additional card options. Press enter to open." [ref=e2672] [cursor=pointer]:
+                                - img [ref=e2675]: more_vert
+                            - generic [ref=e2678]:
+                              - generic [ref=e2679]:
+                                - generic [ref=e2680]:
+                                  - link "Your optimisation score is 100%." [ref=e2681] [cursor=pointer]: 100%
+                                  - progressbar "Active progress" [ref=e2684]
+                                - generic [ref=e2688]:
+                                  - generic [ref=e2689]:
+                                    - generic [ref=e2690]: Your optimisation score
+                                    - button "More information" [ref=e2692] [cursor=pointer]:
+                                      - img [ref=e2694]: help_outline
+                                  - generic [ref=e2695]: Increase your score by applying the recommendations in these campaigns
+                              - grid "Use arrow keys to move between rows" [ref=e2696]:
+                                - rowgroup [ref=e2697]:
+                                  - row "The optimisation score for ADa_Brand_NL is 100%. Use the Enter key to go to the corresponding recommendations." [ref=e2698] [cursor=pointer]:
+                                    - gridcell "100%" [ref=e2699]
+                                    - gridcell "ADa_Brand_NL" [ref=e2700]
+                                    - gridcell [ref=e2701]:
+                                      - img [ref=e2703]: east
+                                  - row "The optimisation score for ADa_Panty_NL is 100%. Use the Enter key to go to the corresponding recommendations." [ref=e2704] [cursor=pointer]:
+                                    - gridcell "100%" [ref=e2705]
+                                    - gridcell "ADa_Panty_NL" [ref=e2706]
+                                    - gridcell [ref=e2707]:
+                                      - img [ref=e2709]: east
+                                  - row "The optimisation score for ADa_Pants_NL is 100%. Use the Enter key to go to the corresponding recommendations." [ref=e2710] [cursor=pointer]:
+                                    - gridcell "100%" [ref=e2711]
+                                    - gridcell "ADa_Pants_NL" [ref=e2712]
+                                    - gridcell [ref=e2713]:
+                                      - img [ref=e2715]: east
+                            - generic [ref=e2716]:
+                              - button "Go to the recommendations place" [ref=e2718] [cursor=pointer]:
+                                - generic [ref=e2719]: All recommendations
+                              - generic [ref=e2721]:
+                                - generic:
+                                  - img: keyboard_arrow_left
+                                - generic [ref=e2722]: 1 / 1
+                                - generic:
+                                  - img: keyboard_arrow_right
+                        - listitem "Card 1 of 0. Use arrow keys to move to another card, tab to enter card content." [ref=e2723]:
+                          - generic [ref=e2725]:
+                            - generic [ref=e2726]:
+                              - generic [ref=e2727]:
+                                - img [ref=e2729]: add_ad
+                                - heading "Biggest changes" [level=1] [ref=e2730]
+                              - generic [ref=e2732]:
+                                - 'button "Choose a metric for the Biggest changes card. Current metric: Cost" [ref=e2733]':
+                                  - 'generic "Choose a metric for the Biggest changes card. Current metric: Cost" [ref=e2734] [cursor=pointer]':
+                                    - generic [ref=e2735]: Cost
+                                    - text: arrow_drop_down
+                                - button "A menu with additional card options. Press enter to open." [ref=e2737] [cursor=pointer]:
+                                  - img [ref=e2740]: more_vert
+                            - generic [ref=e2743]:
+                              - generic [ref=e2744]: Biggest changes to your campaigns and ad groups
+                              - generic [ref=e2745]:
+                                - text: 1 Jan - 26 Mar 2026 compared to 8 Oct - 31 Dec 2025
+                                - button "Press enter for more information on date range comparison." [ref=e2746] [cursor=pointer]:
+                                  - img [ref=e2748]: help_outline
+                              - region "Use arrow keys to move between rows" [ref=e2749]:
+                                - list [ref=e2750]:
+                                  - listitem [ref=e2751]:
+                                    - generic [ref=e2755]:
+                                      - img [ref=e2758]: pause_circle_filled
+                                      - generic [ref=e2760]: PMax | Rem | NL | New
+                                      - generic [ref=e2765]:
+                                        - generic [ref=e2766]: "-€1,457.16"
+                                        - generic [ref=e2767]: "-47.72%"
+                                  - listitem [ref=e2769]:
+                                    - generic [ref=e2773]:
+                                      - img [ref=e2776]: pause_circle_filled
+                                      - generic [ref=e2778]: PMax | Rem | EU | EN
+                                      - generic [ref=e2783]:
+                                        - generic [ref=e2784]: "-€821.73"
+                                        - generic [ref=e2785]: "-58.77%"
+                                  - listitem [ref=e2787]:
+                                    - generic [ref=e2791]:
+                                      - img [ref=e2794]: pause_circle_filled
+                                      - generic [ref=e2796]: S | Brand | EU | DE
+                                      - generic [ref=e2801]:
+                                        - generic [ref=e2802]: "-€723.65"
+                                        - generic [ref=e2803]: "-99.61%"
+                                  - listitem [ref=e2805]:
+                                    - generic [ref=e2809]:
+                                      - img [ref=e2812]: circle
+                                      - generic [ref=e2813]:
+                                        - generic [ref=e2814]:
+                                          - generic [ref=e2815]: S | General | NL
+                                          - generic [ref=e2816]: ›
+                                        - generic [ref=e2817]: panty does not break
+                                      - generic [ref=e2822]:
+                                        - generic [ref=e2823]: "-€561.41"
+                                        - generic [ref=e2824]: "-56.49%"
+                                  - listitem [ref=e2826]:
+                                    - generic [ref=e2830]:
+                                      - img [ref=e2833]: pause_circle_filled
+                                      - generic [ref=e2835]: PMax | Rem | FR
+                                      - generic [ref=e2840]:
+                                        - generic [ref=e2841]: "-€380.74"
+                                        - generic [ref=e2842]: "-100.00%"
+                                  - listitem [ref=e2844]:
+                                    - generic [ref=e2848]:
+                                      - img [ref=e2851]: circle
+                                      - generic [ref=e2853]: ADa_Panty_NL
+                                      - generic [ref=e2858]:
+                                        - generic [ref=e2859]: +€333.27
+                                        - generic [ref=e2860]: +∞
+                            - generic [ref=e2863]:
+                              - generic:
+                                - img: keyboard_arrow_left
+                              - generic [ref=e2864]: 1 / 5
+                              - img [ref=e2866] [cursor=pointer]: keyboard_arrow_right
+                        - listitem "Card 1 of 0. Use arrow keys to move to another card, tab to enter card content." [ref=e2867]:
+                          - generic [ref=e2869]:
+                            - generic [ref=e2870]:
+                              - generic [ref=e2871]:
+                                - img [ref=e2873]: bar_chart
+                                - heading "Campaigns" [level=1] [ref=e2874]
+                              - button "A menu with additional card options. Press enter to open." [ref=e2878] [cursor=pointer]:
+                                - img [ref=e2881]: more_vert
+                            - region "Campaigns sorted by Cost, in high to low order. Use arrow keys to select, E to edit budget, enter to navigate to an overview page for that campaign" [ref=e2884]:
+                              - generic [ref=e2885]: Summary of how your campaigns are performing
+                              - generic:
+                                - generic: Campaigns sorted by Cost, in high to low order. Use arrow keys to select, E to edit budget, enter to navigate to an overview page for that campaign
+                              - generic [ref=e2887]:
+                                - generic [ref=e2891]:
+                                  - generic [ref=e2898] [cursor=pointer]:
+                                    - img [ref=e2900]: pause_circle_filled
+                                    - generic [ref=e2901]: PMax | Rem | NL | New
+                                  - generic [ref=e2908] [cursor=pointer]:
+                                    - img [ref=e2910]: pause_circle_filled
+                                    - generic [ref=e2911]: S | General | NL
+                                  - generic [ref=e2918] [cursor=pointer]:
+                                    - img [ref=e2920]: pause_circle_filled
+                                    - generic [ref=e2921]: PMax | Rem | DE
+                                  - generic [ref=e2928] [cursor=pointer]:
+                                    - img [ref=e2930]: pause_circle_filled
+                                    - generic [ref=e2931]: S | General | EU | EN
+                                  - generic [ref=e2938] [cursor=pointer]:
+                                    - img [ref=e2940]: pause_circle_filled
+                                    - generic [ref=e2941]: PMax | Rem | EU | EN
+                                - generic [ref=e2943]:
+                                  - 'button "Choose metric 1 of 3 for the Campaigns card. Current metric: Cost" [ref=e2945]':
+                                    - 'generic "Choose metric 1 of 3 for the Campaigns card. Current metric: Cost" [ref=e2946] [cursor=pointer]':
+                                      - generic [ref=e2947]: Cost
+                                      - text: arrow_drop_down
+                                  - generic [ref=e2949]:
+                                    - generic [ref=e2954]: €1,596.48
+                                    - generic [ref=e2959]: €1,203.83
+                                    - generic [ref=e2964]: €767.40
+                                    - generic [ref=e2969]: €646.29
+                                    - generic [ref=e2974]: €576.49
+                                - generic [ref=e2976]:
+                                  - 'button "Choose metric 2 of 3 for the Campaigns card. Current metric: Conversions" [ref=e2978]':
+                                    - 'generic "Choose metric 2 of 3 for the Campaigns card. Current metric: Conversions" [ref=e2979] [cursor=pointer]':
+                                      - generic [ref=e2980]: Conversions
+                                      - text: arrow_drop_down
+                                  - generic [ref=e2982]:
+                                    - generic [ref=e2987]: "40.25"
+                                    - generic [ref=e2992]: "14.50"
+                                    - generic [ref=e2997]: "13.00"
+                                    - generic [ref=e3002]: "6.00"
+                                    - generic [ref=e3007]: "5.88"
+                                - generic [ref=e3009]:
+                                  - 'button "Choose metric 3 of 3 for the Campaigns card. Current metric: Cost / conv." [ref=e3011]':
+                                    - 'generic "Choose metric 3 of 3 for the Campaigns card. Current metric: Cost / conv." [ref=e3012] [cursor=pointer]':
+                                      - generic [ref=e3013]: Cost / conv.
+                                      - text: arrow_drop_down
+                                  - generic [ref=e3015]:
+                                    - generic [ref=e3020]: €39.66
+                                    - generic [ref=e3025]: €83.02
+                                    - generic [ref=e3030]: €59.03
+                                    - generic [ref=e3035]: €107.72
+                                    - generic [ref=e3040]: €98.02
+                            - generic [ref=e3042]:
+                              - button "Go to the campaigns table" [ref=e3044] [cursor=pointer]:
+                                - generic [ref=e3045]: All campaigns
+                              - generic [ref=e3047]:
+                                - generic:
+                                  - img: keyboard_arrow_left
+                                - generic [ref=e3048]: 1 / 5
+                                - img [ref=e3050] [cursor=pointer]: keyboard_arrow_right
+                        - listitem "Card 1 of 0. Use arrow keys to move to another card, tab to enter card content." [ref=e3051]:
+                          - generic [ref=e3053]:
+                            - generic [ref=e3054]:
+                              - generic [ref=e3055]:
+                                - img [ref=e3057]: devices
+                                - heading "Devices" [level=1] [ref=e3058]
+                              - button "A menu with additional card options. Press enter to open." [ref=e3062] [cursor=pointer]:
+                                - img [ref=e3065]: more_vert
+                            - generic [ref=e3068]:
+                              - generic [ref=e3069]: Ad performance across devices
+                              - generic [ref=e3070]:
+                                - generic [ref=e3071]:
+                                  - generic [ref=e3072]:
+                                    - generic [ref=e3073]:
+                                      - generic [ref=e3074]: smartphone
+                                      - generic [ref=e3075]: Mobile Phones
+                                    - generic [ref=e3076]:
+                                      - generic [ref=e3077]: tablet
+                                      - generic [ref=e3078]: Tablets
+                                    - generic [ref=e3079]:
+                                      - generic [ref=e3080]: laptop
+                                      - generic [ref=e3081]: Computers
+                                    - generic [ref=e3082]:
+                                      - generic [ref=e3083]: tv
+                                      - generic [ref=e3084]: TV screens
+                                  - table "Segmented data. Use arrow keys to navigate between cells." [ref=e3085]:
+                                    - generic [ref=e3086]:
+                                      - row [ref=e3087]:
+                                        - cell [ref=e3088]
+                                        - cell [ref=e3089]
+                                        - cell [ref=e3090]
+                                        - cell [ref=e3091]
+                                      - row "81.6% 2.1% 16.2% 0.1%" [ref=e3092]:
+                                        - cell "81.6%" [ref=e3093]:
+                                          - generic [ref=e3095]: 81.6%
+                                        - cell "2.1%" [ref=e3096]:
+                                          - generic [ref=e3098]: 2.1%
+                                        - cell "16.2%" [ref=e3099]:
+                                          - generic [ref=e3101]: 16.2%
+                                        - cell "0.1%" [ref=e3102]:
+                                          - generic [ref=e3104]: 0.1%
+                                    - generic [ref=e3105]:
+                                      - row [ref=e3106]:
+                                        - cell [ref=e3107]
+                                        - cell [ref=e3108]
+                                        - cell [ref=e3109]
+                                        - cell
+                                      - row "81.9% 3.2% 14.9% 0.0%" [ref=e3110]:
+                                        - cell "81.9%" [ref=e3111]:
+                                          - generic [ref=e3113]: 81.9%
+                                        - cell "3.2%" [ref=e3114]:
+                                          - generic [ref=e3116]: 3.2%
+                                        - cell "14.9%" [ref=e3117]:
+                                          - generic [ref=e3119]: 14.9%
+                                        - cell "0.0%" [ref=e3120]:
+                                          - generic [ref=e3122]: 0.0%
+                                    - generic [ref=e3123]:
+                                      - row [ref=e3124]:
+                                        - cell [ref=e3125]
+                                        - cell [ref=e3126]
+                                        - cell [ref=e3127]
+                                        - cell
+                                      - row "88.1% 3.3% 8.6% 0.0%" [ref=e3128]:
+                                        - cell "88.1%" [ref=e3129]:
+                                          - generic [ref=e3131]: 88.1%
+                                        - cell "3.3%" [ref=e3132]:
+                                          - generic [ref=e3134]: 3.3%
+                                        - cell "8.6%" [ref=e3135]:
+                                          - generic [ref=e3137]: 8.6%
+                                        - cell "0.0%" [ref=e3138]:
+                                          - generic [ref=e3140]: 0.0%
+                                - generic [ref=e3141]:
+                                  - 'button "Choose metric 1 of 3 for the Devices card. Current metric: Cost" [ref=e3143]':
+                                    - 'generic "Choose metric 1 of 3 for the Devices card. Current metric: Cost" [ref=e3144] [cursor=pointer]':
+                                      - generic [ref=e3145]: Cost
+                                      - text: arrow_drop_down
+                                  - 'button "Choose metric 2 of 3 for the Devices card. Current metric: Clicks" [ref=e3147]':
+                                    - 'generic "Choose metric 2 of 3 for the Devices card. Current metric: Clicks" [ref=e3148] [cursor=pointer]':
+                                      - generic [ref=e3149]: Clicks
+                                      - text: arrow_drop_down
+                                  - 'button "Choose metric 3 of 3 for the Devices card. Current metric: Conversions" [ref=e3151]':
+                                    - 'generic "Choose metric 3 of 3 for the Devices card. Current metric: Conversions" [ref=e3152] [cursor=pointer]':
+                                      - generic [ref=e3153]: Conversions
+                                      - text: arrow_drop_down
+                            - button "Go to the devices table" [ref=e3156] [cursor=pointer]:
+                              - generic [ref=e3157]: Devices
+                        - listitem "Card 1 of 0. Use arrow keys to move to another card, tab to enter card content." [ref=e3159]:
+                          - generic [ref=e3161]:
+                            - generic [ref=e3162]:
+                              - generic [ref=e3163]:
+                                - img [ref=e3165]: share_eta
+                                - heading "Day & hour" [level=1] [ref=e3166]
+                              - generic [ref=e3168]:
+                                - 'button "Choose a metric for the Day & hour card. Current metric: Impressions" [ref=e3169]':
+                                  - 'generic "Choose a metric for the Day & hour card. Current metric: Impressions" [ref=e3170] [cursor=pointer]':
+                                    - generic [ref=e3171]: Impressions
+                                    - text: arrow_drop_down
+                                - button "A menu with additional card options. Press enter to open." [ref=e3173] [cursor=pointer]:
+                                  - img [ref=e3176]: more_vert
+                            - generic [ref=e3179]:
+                              - generic [ref=e3180]: Your performance by day of week and time of day
+                              - tablist [ref=e3182]:
+                                - tab "Day" [ref=e3184] [cursor=pointer]:
+                                  - generic [ref=e3185]: Day
+                                - tab "Day & hour" [selected] [ref=e3187] [cursor=pointer]:
+                                  - generic [ref=e3188]: Day & hour
+                                - tab "Hour" [ref=e3190] [cursor=pointer]:
+                                  - generic [ref=e3191]: Hour
+                              - generic [ref=e3193]:
+                                - generic [ref=e3194]:
+                                  - generic [ref=e3195]: S
+                                  - generic [ref=e3196]: M
+                                  - generic [ref=e3197]: T
+                                  - generic [ref=e3198]: W
+                                  - generic [ref=e3199]: T
+                                  - generic [ref=e3200]: F
+                                  - generic [ref=e3201]: S
+                                - grid [ref=e3202]:
+                                  - generic [ref=e3203]:
+                                    - row [ref=e3204]:
+                                      - gridcell [ref=e3205]
+                                      - gridcell [ref=e3206]
+                                      - gridcell [ref=e3207]
+                                      - gridcell [ref=e3208]
+                                      - gridcell [ref=e3209]
+                                      - gridcell [ref=e3210]
+                                      - gridcell [ref=e3211]
+                                      - gridcell [ref=e3212]
+                                      - gridcell [ref=e3213]
+                                      - gridcell [ref=e3214]
+                                      - gridcell [ref=e3215]
+                                      - gridcell [ref=e3216]
+                                      - gridcell [ref=e3217]
+                                      - gridcell [ref=e3218]
+                                      - gridcell [ref=e3219]
+                                      - gridcell [ref=e3220]
+                                      - gridcell [ref=e3221]
+                                      - gridcell [ref=e3222]
+                                      - gridcell [ref=e3223]
+                                      - gridcell [ref=e3224]
+                                      - gridcell [ref=e3225]
+                                      - gridcell [ref=e3226]
+                                      - gridcell [ref=e3227]
+                                      - gridcell [ref=e3228]
+                                    - row [ref=e3229]:
+                                      - gridcell [ref=e3230]
+                                      - gridcell [ref=e3231]
+                                      - gridcell [ref=e3232]
+                                      - gridcell [ref=e3233]
+                                      - gridcell [ref=e3234]
+                                      - gridcell [ref=e3235]
+                                      - gridcell [ref=e3236]
+                                      - gridcell [ref=e3237]
+                                      - gridcell [ref=e3238]
+                                      - gridcell [ref=e3239]
+                                      - gridcell [ref=e3240]
+                                      - gridcell [ref=e3241]
+                                      - gridcell [ref=e3242]
+                                      - gridcell [ref=e3243]
+                                      - gridcell [ref=e3244]
+                                      - gridcell [ref=e3245]
+                                      - gridcell [ref=e3246]
+                                      - gridcell [ref=e3247]
+                                      - gridcell [ref=e3248]
+                                      - gridcell [ref=e3249]
+                                      - gridcell [ref=e3250]
+                                      - gridcell [ref=e3251]
+                                      - gridcell [ref=e3252]
+                                      - gridcell [ref=e3253]
+                                    - row [ref=e3254]:
+                                      - gridcell [ref=e3255]
+                                      - gridcell [ref=e3256]
+                                      - gridcell [ref=e3257]
+                                      - gridcell [ref=e3258]
+                                      - gridcell [ref=e3259]
+                                      - gridcell [ref=e3260]
+                                      - gridcell [ref=e3261]
+                                      - gridcell [ref=e3262]
+                                      - gridcell [ref=e3263]
+                                      - gridcell [ref=e3264]
+                                      - gridcell [ref=e3265]
+                                      - gridcell [ref=e3266]
+                                      - gridcell [ref=e3267]
+                                      - gridcell [ref=e3268]
+                                      - gridcell [ref=e3269]
+                                      - gridcell [ref=e3270]
+                                      - gridcell [ref=e3271]
+                                      - gridcell [ref=e3272]
+                                      - gridcell [ref=e3273]
+                                      - gridcell [ref=e3274]
+                                      - gridcell [ref=e3275]
+                                      - gridcell [ref=e3276]
+                                      - gridcell [ref=e3277]
+                                      - gridcell [ref=e3278]
+                                    - row [ref=e3279]:
+                                      - gridcell [ref=e3280]
+                                      - gridcell [ref=e3281]
+                                      - gridcell [ref=e3282]
+                                      - gridcell [ref=e3283]
+                                      - gridcell [ref=e3284]
+                                      - gridcell [ref=e3285]
+                                      - gridcell [ref=e3286]
+                                      - gridcell [ref=e3287]
+                                      - gridcell [ref=e3288]
+                                      - gridcell [ref=e3289]
+                                      - gridcell [ref=e3290]
+                                      - gridcell [ref=e3291]
+                                      - gridcell [ref=e3292]
+                                      - gridcell [ref=e3293]
+                                      - gridcell [ref=e3294]
+                                      - gridcell [ref=e3295]
+                                      - gridcell [ref=e3296]
+                                      - gridcell [ref=e3297]
+                                      - gridcell [ref=e3298]
+                                      - gridcell [ref=e3299]
+                                      - gridcell [ref=e3300]
+                                      - gridcell [ref=e3301]
+                                      - gridcell [ref=e3302]
+                                      - gridcell [ref=e3303]
+                                    - row [ref=e3304]:
+                                      - gridcell [ref=e3305]
+                                      - gridcell [ref=e3306]
+                                      - gridcell [ref=e3307]
+                                      - gridcell [ref=e3308]
+                                      - gridcell [ref=e3309]
+                                      - gridcell [ref=e3310]
+                                      - gridcell [ref=e3311]
+                                      - gridcell [ref=e3312]
+                                      - gridcell [ref=e3313]
+                                      - gridcell [ref=e3314]
+                                      - gridcell [ref=e3315]
+                                      - gridcell [ref=e3316]
+                                      - gridcell [ref=e3317]
+                                      - gridcell [ref=e3318]
+                                      - gridcell [ref=e3319]
+                                      - gridcell [ref=e3320]
+                                      - gridcell [ref=e3321]
+                                      - gridcell [ref=e3322]
+                                      - gridcell [ref=e3323]
+                                      - gridcell [ref=e3324]
+                                      - gridcell [ref=e3325]
+                                      - gridcell [ref=e3326]
+                                      - gridcell [ref=e3327]
+                                      - gridcell [ref=e3328]
+                                    - row [ref=e3329]:
+                                      - gridcell [ref=e3330]
+                                      - gridcell [ref=e3331]
+                                      - gridcell [ref=e3332]
+                                      - gridcell [ref=e3333]
+                                      - gridcell [ref=e3334]
+                                      - gridcell [ref=e3335]
+                                      - gridcell [ref=e3336]
+                                      - gridcell [ref=e3337]
+                                      - gridcell [ref=e3338]
+                                      - gridcell [ref=e3339]
+                                      - gridcell [ref=e3340]
+                                      - gridcell [ref=e3341]
+                                      - gridcell [ref=e3342]
+                                      - gridcell [ref=e3343]
+                                      - gridcell [ref=e3344]
+                                      - gridcell [ref=e3345]
+                                      - gridcell [ref=e3346]
+                                      - gridcell [ref=e3347]
+                                      - gridcell [ref=e3348]
+                                      - gridcell [ref=e3349]
+                                      - gridcell [ref=e3350]
+                                      - gridcell [ref=e3351]
+                                      - gridcell [ref=e3352]
+                                      - gridcell [ref=e3353]
+                                    - row [ref=e3354]:
+                                      - gridcell [ref=e3355]
+                                      - gridcell [ref=e3356]
+                                      - gridcell [ref=e3357]
+                                      - gridcell [ref=e3358]
+                                      - gridcell [ref=e3359]
+                                      - gridcell [ref=e3360]
+                                      - gridcell [ref=e3361]
+                                      - gridcell [ref=e3362]
+                                      - gridcell [ref=e3363]
+                                      - gridcell [ref=e3364]
+                                      - gridcell [ref=e3365]
+                                      - gridcell [ref=e3366]
+                                      - gridcell [ref=e3367]
+                                      - gridcell [ref=e3368]
+                                      - gridcell [ref=e3369]
+                                      - gridcell [ref=e3370]
+                                      - gridcell [ref=e3371]
+                                      - gridcell [ref=e3372]
+                                      - gridcell [ref=e3373]
+                                      - gridcell [ref=e3374]
+                                      - gridcell [ref=e3375]
+                                      - gridcell [ref=e3376]
+                                      - gridcell [ref=e3377]
+                                      - gridcell [ref=e3378]
+                                - generic [ref=e3386]:
+                                  - generic [ref=e3387]: "00"
+                                  - generic [ref=e3388]: "06"
+                                  - generic [ref=e3389]: "12"
+                                  - generic [ref=e3390]: "18"
+                                  - generic [ref=e3391]: "00"
+                            - button "Go to the ad schedule table" [ref=e3394] [cursor=pointer]:
+                              - generic [ref=e3395]: Ad schedule
+                        - listitem "Card 1 of 0. Use arrow keys to move to another card, tab to enter card content." [ref=e3397]:
+                          - generic [ref=e3399]:
+                            - generic [ref=e3400]:
+                              - generic [ref=e3401]:
+                                - img [ref=e3403]: bar_chart
+                                - heading "Measure conversions" [level=1] [ref=e3404]
+                              - button "A menu with additional card options. Press enter to open." [ref=e3408] [cursor=pointer]:
+                                - img [ref=e3411]: more_vert
+                            - generic [ref=e3417]:
+                              - generic [ref=e3418]:
+                                - generic [ref=e3419]:
+                                  - generic [ref=e3420]: "1"
+                                  - text: Select the action that you'd like to track
+                                - generic [ref=e3422]:
+                                  - generic [ref=e3423]: A conversion action is something valuable to your business that people do after interacting with your ads.
+                                  - button "Select the action that you'd like to track Select" [ref=e3426] [cursor=pointer]:
+                                    - generic [ref=e3427]: Select
+                                    - img [ref=e3429]: arrow_drop_down
+                              - generic [ref=e3431]:
+                                - generic [ref=e3432]: "2"
+                                - text: Add the tracking code to your website
+                            - button "Go to the conversions table" [ref=e3435] [cursor=pointer]:
+                              - generic [ref=e3436]: Manage conversions
+                        - listitem "Card 1 of 0. Use arrow keys to move to another card, tab to enter card content." [ref=e3438]:
+                          - generic [ref=e3440]:
+                            - generic [ref=e3441]:
+                              - generic [ref=e3442]:
+                                - img [ref=e3444]: user_attributes
+                                - heading "Demographics" [level=1] [ref=e3445]
+                              - generic [ref=e3447]:
+                                - 'button "Choose a metric for the Demographics card. Current metric: Impressions" [ref=e3448]':
+                                  - 'generic "Choose a metric for the Demographics card. Current metric: Impressions" [ref=e3449] [cursor=pointer]':
+                                    - generic [ref=e3450]: Impressions
+                                    - text: arrow_drop_down
+                                - button "A menu with additional card options. Press enter to open." [ref=e3452] [cursor=pointer]:
+                                  - img [ref=e3455]: more_vert
+                            - generic [ref=e3458]:
+                              - generic [ref=e3459]: Summary of the demographic groups your ads are reaching by age and gender
+                              - tablist [ref=e3461]:
+                                - tab "Gender" [ref=e3463] [cursor=pointer]:
+                                  - generic [ref=e3464]: Gender
+                                - tab "Gender & age" [selected] [ref=e3466] [cursor=pointer]:
+                                  - generic [ref=e3467]: Gender & age
+                                - tab "Age" [ref=e3469] [cursor=pointer]:
+                                  - generic [ref=e3470]: Age
+                              - generic [ref=e3472]:
+                                - generic [ref=e3473]:
+                                  - generic [ref=e3474]: Male
+                                  - generic [ref=e3475]: Female
+                                - grid [ref=e3476]:
+                                  - generic [ref=e3477]:
+                                    - row [ref=e3478]:
+                                      - gridcell [ref=e3479]
+                                      - gridcell [ref=e3480]
+                                      - gridcell [ref=e3481]
+                                      - gridcell [ref=e3482]
+                                      - gridcell [ref=e3483]
+                                      - gridcell [ref=e3484]
+                                    - row [ref=e3485]:
+                                      - gridcell [ref=e3486]
+                                      - gridcell [ref=e3487]
+                                      - gridcell [ref=e3488]
+                                      - gridcell [ref=e3489]
+                                      - gridcell [ref=e3490]
+                                      - gridcell [ref=e3491]
+                                - generic [ref=e3493]:
+                                  - generic [ref=e3494]: 18–24
+                                  - generic [ref=e3495]: 25–34
+                                  - generic [ref=e3496]: 35–44
+                                  - generic [ref=e3497]: 45–54
+                                  - generic [ref=e3498]: 55–64
+                                  - generic [ref=e3499]: 65+
+                              - generic [ref=e3500]:
+                                - text: Based on the 93% of your impressions with known gender and age.
+                                - button "More information" [ref=e3502] [cursor=pointer]:
+                                  - img [ref=e3504]: help_outline
+                            - button "Gender & age" [ref=e3507] [cursor=pointer]:
+                              - generic [ref=e3508]: Gender & age
+                        - listitem "Card 1 of 0. Use arrow keys to move to another card, tab to enter card content." [ref=e3510]:
+                          - generic [ref=e3512]:
+                            - generic [ref=e3513]:
+                              - generic [ref=e3514]:
+                                - img [ref=e3516]: edit_note
+                                - heading "Draft campaign" [level=1] [ref=e3517]
+                              - button "A menu with additional card options. Press enter to open." [ref=e3521] [cursor=pointer]:
+                                - img [ref=e3524]: more_vert
+                            - generic [ref=e3527]:
+                              - generic [ref=e3528]: Continue creating your campaign
+                              - region [ref=e3530]:
+                                - generic [ref=e3531]:
+                                  - img [ref=e3532]: performance_max
+                                  - link "Sales-Performance Max-5" [ref=e3533]
+                                - generic [ref=e3534]: "Last modified:"
+                                - generic [ref=e3535]:
+                                  - img [ref=e3536]: calendar_today
+                                  - text: 1 Apr 2024
+                                - generic [ref=e3537]: "Campaign type:"
+                                - generic [ref=e3538]: Performance Max
+                                - generic [ref=e3539]: "Ad groups:"
+                                - generic [ref=e3540]: None
+                                - generic [ref=e3541]: "Keywords:"
+                                - generic [ref=e3542]: None
+                            - generic [ref=e3544]:
+                              - button "Resume draft" [ref=e3545] [cursor=pointer]:
+                                - generic [ref=e3546]: Resume draft
+                              - button "Remove" [ref=e3548] [cursor=pointer]:
+                                - generic [ref=e3549]: Remove
+                        - listitem "Card 1 of 0. Use arrow keys to move to another card, tab to enter card content." [ref=e3551]:
+                          - generic [ref=e3553]:
+                            - generic [ref=e3554]:
+                              - generic [ref=e3555]:
+                                - img [ref=e3557]: label
+                                - heading "Labels" [level=1] [ref=e3558]
+                              - button "A menu with additional card options. Press enter to open." [ref=e3562] [cursor=pointer]:
+                                - img [ref=e3565]: more_vert
+                            - generic [ref=e3568]:
+                              - tablist [ref=e3570]:
+                                - tab "Campaign" [selected]:
+                                  - generic: Campaign
+                                - tab "Ad Group" [ref=e3572] [cursor=pointer]:
+                                  - generic [ref=e3573]: Ad Group
+                                - tab "Keyword" [ref=e3575] [cursor=pointer]:
+                                  - generic [ref=e3576]: Keyword
+                              - region "Labels sorted by Cost, in high to low order. Use arrow keys to select":
+                                - generic:
+                                  - generic: Labels sorted by Cost, in high to low order. Use arrow keys to select
+                                - generic [ref=e3578]: Some label types are not available. To apply labels, visit their respective tables.
+                        - listitem "Card 1 of 0. Use arrow keys to move to another card, tab to enter card content." [ref=e3579]:
+                          - generic [ref=e3581]:
+                            - generic [ref=e3582]:
+                              - generic [ref=e3583]:
+                                - img [ref=e3585]: query_stats
+                                - heading "Search keywords" [level=1] [ref=e3586]
+                              - generic [ref=e3588]:
+                                - link "Add a keyword" [ref=e3589] [cursor=pointer]:
+                                  - generic [ref=e3590]:
+                                    - img [ref=e3592]: add
+                                    - text: Add keyword
+                                - button "A menu with additional card options. Press enter to open." [ref=e3595] [cursor=pointer]:
+                                  - img [ref=e3598]: more_vert
+                            - generic "Keywords sorted by Cost, in high to low order. Use arrow keys to select, E to edit budget, enter to navigate to an overview page for that keyword" [ref=e3601]:
+                              - generic [ref=e3602]: Summary of how your keywords are performing
+                              - generic:
+                                - generic: Keywords sorted by Cost, in high to low order. Use arrow keys to select, E to edit budget, enter to navigate to an overview page for that keyword
+                              - generic [ref=e3604]:
+                                - generic [ref=e3608]:
+                                  - generic [ref=e3615] [cursor=pointer]:
+                                    - img [ref=e3617]: circle
+                                    - generic [ref=e3618]: "\"panty\""
+                                  - generic [ref=e3625] [cursor=pointer]:
+                                    - img [ref=e3627]: circle
+                                    - generic [ref=e3628]: onbreekbare panty
+                                  - generic [ref=e3635] [cursor=pointer]:
+                                    - img [ref=e3637]: circle
+                                    - generic [ref=e3638]: onverwoestbare panty
+                                  - generic [ref=e3645] [cursor=pointer]:
+                                    - img [ref=e3647]: circle
+                                    - generic [ref=e3648]: panty's die niet stuk gaan
+                                  - generic [ref=e3655] [cursor=pointer]:
+                                    - img [ref=e3657]: circle
+                                    - generic [ref=e3658]: stippen panty
+                                - generic [ref=e3660]:
+                                  - 'button "Choose metric 1 of 3 for the Search keywords card. Current metric: Cost" [ref=e3662]':
+                                    - 'generic "Choose metric 1 of 3 for the Search keywords card. Current metric: Cost" [ref=e3663] [cursor=pointer]':
+                                      - generic [ref=e3664]: Cost
+                                      - text: arrow_drop_down
+                                  - generic [ref=e3666]:
+                                    - generic [ref=e3671]: €223.59
+                                    - generic [ref=e3676]: €108.64
+                                    - generic [ref=e3681]: €95.41
+                                    - generic [ref=e3686]: €91.20
+                                    - generic [ref=e3691]: €86.92
+                                - generic [ref=e3693]:
+                                  - 'button "Choose metric 2 of 3 for the Search keywords card. Current metric: Clicks" [ref=e3695]':
+                                    - 'generic "Choose metric 2 of 3 for the Search keywords card. Current metric: Clicks" [ref=e3696] [cursor=pointer]':
+                                      - generic [ref=e3697]: Clicks
+                                      - text: arrow_drop_down
+                                  - generic [ref=e3699]:
+                                    - generic [ref=e3704]: "104"
+                                    - generic [ref=e3709]: "30"
+                                    - generic [ref=e3714]: "30"
+                                    - generic [ref=e3719]: "53"
+                                    - generic [ref=e3724]: "43"
+                                - generic [ref=e3726]:
+                                  - 'button "Choose metric 3 of 3 for the Search keywords card. Current metric: CTR" [ref=e3728]':
+                                    - 'generic "Choose metric 3 of 3 for the Search keywords card. Current metric: CTR" [ref=e3729] [cursor=pointer]':
+                                      - generic [ref=e3730]: CTR
+                                      - text: arrow_drop_down
+                                  - generic [ref=e3732]:
+                                    - generic [ref=e3737]: 3.68%
+                                    - generic [ref=e3742]: 8.67%
+                                    - generic [ref=e3747]: 4.54%
+                                    - generic [ref=e3752]: 3.86%
+                                    - generic [ref=e3757]: 3.64%
+                            - generic [ref=e3759]:
+                              - generic [ref=e3760]:
+                                - button "Go to the keywords table" [ref=e3761] [cursor=pointer]:
+                                  - generic [ref=e3762]: Keywords
+                                - button "Go to the negative keywords table" [ref=e3764] [cursor=pointer]:
+                                  - generic [ref=e3765]: Negative keywords
+                              - generic [ref=e3767]:
+                                - generic:
+                                  - img: keyboard_arrow_left
+                                - generic [ref=e3768]: 1 / 10
+                                - img [ref=e3770] [cursor=pointer]: keyboard_arrow_right
+                        - listitem "Card 1 of 0. Use arrow keys to move to another card, tab to enter card content." [ref=e3771]:
+                          - generic [ref=e3773]:
+                            - generic [ref=e3774]:
+                              - generic [ref=e3775]:
+                                - img [ref=e3777]: search
+                                - button "Searches" [ref=e3778]:
+                                  - heading "Searches" [level=1] [ref=e3779] [cursor=pointer]
+                              - generic [ref=e3781]:
+                                - generic [ref=e3782]: "Sort by:"
+                                - 'button "Choose a metric for the Searches card. Current metric: Impressions" [ref=e3783]':
+                                  - 'generic "Choose a metric for the Searches card. Current metric: Impressions" [ref=e3784] [cursor=pointer]':
+                                    - generic [ref=e3785]: Impressions
+                                    - text: arrow_drop_down
+                                - button "A menu with additional card options. Press enter to open." [ref=e3787] [cursor=pointer]:
+                                  - img [ref=e3790]: more_vert
+                            - generic [ref=e3793]:
+                              - generic [ref=e3794]: Top searches and words within searches where people saw your ads
+                              - tablist [ref=e3796]:
+                                - tab "Searches" [selected] [ref=e3798] [cursor=pointer]:
+                                  - generic [ref=e3799]: Searches
+                                - tab "Words" [ref=e3801] [cursor=pointer]:
+                                  - generic [ref=e3802]: Words
+                              - 'listbox "100 results including: minvoir, minvoir panty, panty" [ref=e3806]':
+                                - option "minvoir" [ref=e3807] [cursor=pointer]:
+                                  - generic [ref=e3808]: minvoir
+                                - option "minvoir panty" [ref=e3809] [cursor=pointer]:
+                                  - generic [ref=e3810]: minvoir panty
+                                - option "panty" [ref=e3811] [cursor=pointer]:
+                                  - generic [ref=e3812]: panty
+                                - option "sheertex" [ref=e3813] [cursor=pointer]:
+                                  - generic [ref=e3814]: sheertex
+                                - option "sheertex europe" [ref=e3815] [cursor=pointer]:
+                                  - generic [ref=e3816]: sheertex europe
+                                - option "anti ladder panty" [ref=e3817] [cursor=pointer]:
+                                  - generic [ref=e3818]: anti ladder panty
+                                - option "panty's die niet stuk gaan" [ref=e3819] [cursor=pointer]:
+                                  - generic [ref=e3820]: panty's die niet stuk gaan
+                                - option "sheertex eu" [ref=e3821] [cursor=pointer]:
+                                  - generic [ref=e3822]: sheertex eu
+                                - option "ninepine" [ref=e3823] [cursor=pointer]:
+                                  - generic [ref=e3824]: ninepine
+                                - option "unbreakable tights" [ref=e3825] [cursor=pointer]:
+                                  - generic [ref=e3826]: unbreakable tights
+                                - option "panty die niet stuk gaat" [ref=e3827] [cursor=pointer]:
+                                  - generic [ref=e3828]: panty die niet stuk gaat
+                                - option "minvoir reviews" [ref=e3829] [cursor=pointer]:
+                                  - generic [ref=e3830]: minvoir reviews
+                                - option "pantys die niet kapot gaan" [ref=e3831] [cursor=pointer]:
+                                  - generic [ref=e3832]: pantys die niet kapot gaan
+                                - option "sheertex tights" [ref=e3833] [cursor=pointer]:
+                                  - generic [ref=e3834]: sheertex tights
+                                - option "panty kwaliteit" [ref=e3835] [cursor=pointer]:
+                                  - generic [ref=e3836]: panty kwaliteit
+                                - option "onverwoestbare panty" [ref=e3837] [cursor=pointer]:
+                                  - generic [ref=e3838]: onverwoestbare panty
+                                - option "panty laddervrij" [ref=e3839] [cursor=pointer]:
+                                  - generic [ref=e3840]: panty laddervrij
+                                - option "onbreekbare panty" [ref=e3841] [cursor=pointer]:
+                                  - generic [ref=e3842]: onbreekbare panty
+                                - option "rip resistant tights" [ref=e3843] [cursor=pointer]:
+                                  - generic [ref=e3844]: rip resistant tights
+                                - option "panty zonder broekje" [ref=e3845] [cursor=pointer]:
+                                  - generic [ref=e3846]: panty zonder broekje
+                                - option "laddervrije panty" [ref=e3847] [cursor=pointer]:
+                                  - generic [ref=e3848]: laddervrije panty
+                                - option "indestructible tights" [ref=e3849] [cursor=pointer]:
+                                  - generic [ref=e3850]: indestructible tights
+                                - option "sheertex panty" [ref=e3851] [cursor=pointer]:
+                                  - generic [ref=e3852]: sheertex panty
+                                - option "beste panty" [ref=e3853] [cursor=pointer]:
+                                  - generic [ref=e3854]: beste panty
+                                - option "panty die niet scheurt" [ref=e3855] [cursor=pointer]:
+                                  - generic [ref=e3856]: panty die niet scheurt
+                                - option "tights" [ref=e3857] [cursor=pointer]:
+                                  - generic [ref=e3858]: tights
+                                - option "panty abonnement" [ref=e3859] [cursor=pointer]:
+                                  - generic [ref=e3860]: panty abonnement
+                                - option "so tight panty" [ref=e3861] [cursor=pointer]:
+                                  - generic [ref=e3862]: so tight panty
+                                - option "tights that don t rip" [ref=e3863] [cursor=pointer]:
+                                  - generic [ref=e3864]: tights that don t rip
+                                - option "panty anti ladder" [ref=e3865] [cursor=pointer]:
+                                  - generic [ref=e3866]: panty anti ladder
+                                - option "pantys" [ref=e3867] [cursor=pointer]:
+                                  - generic [ref=e3868]: pantys
+                                - option "perfect stockings" [ref=e3869] [cursor=pointer]:
+                                  - generic [ref=e3870]: perfect stockings
+                                - option "sotight" [ref=e3871] [cursor=pointer]:
+                                  - generic [ref=e3872]: sotight
+                                - option "saintsass" [ref=e3873] [cursor=pointer]:
+                                  - generic [ref=e3874]: saintsass
+                                - option "sterke panty" [ref=e3875] [cursor=pointer]:
+                                  - generic [ref=e3876]: sterke panty
+                                - option "moody mumu" [ref=e3877] [cursor=pointer]:
+                                  - generic [ref=e3878]: moody mumu
+                                - option "unrippable tights" [ref=e3879] [cursor=pointer]:
+                                  - generic [ref=e3880]: unrippable tights
+                                - option "leishape" [ref=e3881] [cursor=pointer]:
+                                  - generic [ref=e3882]: leishape
+                                - option "saint sass" [ref=e3883] [cursor=pointer]:
+                                  - generic [ref=e3884]: saint sass
+                                - option "compression tights" [ref=e3885] [cursor=pointer]:
+                                  - generic [ref=e3886]: compression tights
+                                - option "nylonkousen die niet kapot gaan" [ref=e3887] [cursor=pointer]:
+                                  - generic [ref=e3888]: nylonkousen die niet kapot gaan
+                                - option "nylonkousen" [ref=e3889] [cursor=pointer]:
+                                  - generic [ref=e3890]: nylonkousen
+                                - option "panty die niet kapot gaat" [ref=e3891] [cursor=pointer]:
+                                  - generic [ref=e3892]: panty die niet kapot gaat
+                                - option "stevige panty" [ref=e3893] [cursor=pointer]:
+                                  - generic [ref=e3894]: stevige panty
+                                - option "ladder resistant panty" [ref=e3895] [cursor=pointer]:
+                                  - generic [ref=e3896]: ladder resistant panty
+                                - option "no rip tights" [ref=e3897] [cursor=pointer]:
+                                  - generic [ref=e3898]: no rip tights
+                                - option "soshin" [ref=e3899] [cursor=pointer]:
+                                  - generic [ref=e3900]: soshin
+                                - option "snagtights" [ref=e3901] [cursor=pointer]:
+                                  - generic [ref=e3902]: snagtights
+                                - option "sotightofficial" [ref=e3903] [cursor=pointer]:
+                                  - generic [ref=e3904]: sotightofficial
+                                - option "wolford panty" [ref=e3905] [cursor=pointer]:
+                                  - generic [ref=e3906]: wolford panty
+                                - option "kwaliteit panty" [ref=e3907] [cursor=pointer]:
+                                  - generic [ref=e3908]: kwaliteit panty
+                                - option "shapewear" [ref=e3909] [cursor=pointer]:
+                                  - generic [ref=e3910]: shapewear
+                                - option "heist tights" [ref=e3911] [cursor=pointer]:
+                                  - generic [ref=e3912]: heist tights
+                                - option "panty zonder ladder" [ref=e3913] [cursor=pointer]:
+                                  - generic [ref=e3914]: panty zonder ladder
+                                - option "welke panty gaat niet kapot" [ref=e3915] [cursor=pointer]:
+                                  - generic [ref=e3916]: welke panty gaat niet kapot
+                                - option "winter panty" [ref=e3917] [cursor=pointer]:
+                                  - generic [ref=e3918]: winter panty
+                                - option "ninepine broek" [ref=e3919] [cursor=pointer]:
+                                  - generic [ref=e3920]: ninepine broek
+                                - option "thermo panty" [ref=e3921] [cursor=pointer]:
+                                  - generic [ref=e3922]: thermo panty
+                                - option "panty niet kapot" [ref=e3923] [cursor=pointer]:
+                                  - generic [ref=e3924]: panty niet kapot
+                                - option "sotightshop" [ref=e3925] [cursor=pointer]:
+                                  - generic [ref=e3926]: sotightshop
+                                - option "beste pantys" [ref=e3927] [cursor=pointer]:
+                                  - generic [ref=e3928]: beste pantys
+                                - option "huidskleur panty die je niet ziet" [ref=e3929] [cursor=pointer]:
+                                  - generic [ref=e3930]: huidskleur panty die je niet ziet
+                                - option "kanten panty" [ref=e3931] [cursor=pointer]:
+                                  - generic [ref=e3932]: kanten panty
+                                - option "laddervrije panty zwart" [ref=e3933] [cursor=pointer]:
+                                  - generic [ref=e3934]: laddervrije panty zwart
+                                - option "miari broeken" [ref=e3935] [cursor=pointer]:
+                                  - generic [ref=e3936]: miari broeken
+                                - option "panty hema" [ref=e3937] [cursor=pointer]:
+                                  - generic [ref=e3938]: panty hema
+                                - option "beste anti ladder panty" [ref=e3939] [cursor=pointer]:
+                                  - generic [ref=e3940]: beste anti ladder panty
+                                - option "kousen" [ref=e3941] [cursor=pointer]:
+                                  - generic [ref=e3942]: kousen
+                                - option "panty bruin" [ref=e3943] [cursor=pointer]:
+                                  - generic [ref=e3944]: panty bruin
+                                - option "seamless pantyhose" [ref=e3945] [cursor=pointer]:
+                                  - generic [ref=e3946]: seamless pantyhose
+                                - option "alo leggings" [ref=e3947] [cursor=pointer]:
+                                  - generic [ref=e3948]: alo leggings
+                                - option "dikke panty" [ref=e3949] [cursor=pointer]:
+                                  - generic [ref=e3950]: dikke panty
+                                - option "pantalon" [ref=e3951] [cursor=pointer]:
+                                  - generic [ref=e3952]: pantalon
+                                - option "panty die niet afzakt" [ref=e3953] [cursor=pointer]:
+                                  - generic [ref=e3954]: panty die niet afzakt
+                                - option "rip proof tights" [ref=e3955] [cursor=pointer]:
+                                  - generic [ref=e3956]: rip proof tights
+                                - option "so tight official" [ref=e3957] [cursor=pointer]:
+                                  - generic [ref=e3958]: so tight official
+                                - option "thrivin leggings" [ref=e3959] [cursor=pointer]:
+                                  - generic [ref=e3960]: thrivin leggings
+                                - option "unbreakable panty" [ref=e3961] [cursor=pointer]:
+                                  - generic [ref=e3962]: unbreakable panty
+                                - option "anti rip tights" [ref=e3963] [cursor=pointer]:
+                                  - generic [ref=e3964]: anti rip tights
+                                - option "bruine panty" [ref=e3965] [cursor=pointer]:
+                                  - generic [ref=e3966]: bruine panty
+                                - option "brxl leggings" [ref=e3967] [cursor=pointer]:
+                                  - generic [ref=e3968]: brxl leggings
+                                - option "fleecepanty" [ref=e3969] [cursor=pointer]:
+                                  - generic [ref=e3970]: fleecepanty
+                                - option "ladder resist tights" [ref=e3971] [cursor=pointer]:
+                                  - generic [ref=e3972]: ladder resist tights
+                                - option "panty minvoir" [ref=e3973] [cursor=pointer]:
+                                  - generic [ref=e3974]: panty minvoir
+                                - option "unbreakable pantyhose" [ref=e3975] [cursor=pointer]:
+                                  - generic [ref=e3976]: unbreakable pantyhose
+                                - option "c&a dames broeken met elastische band" [ref=e3977] [cursor=pointer]:
+                                  - generic [ref=e3978]: c&a dames broeken met elastische band
+                                - option "compression tights women" [ref=e3979] [cursor=pointer]:
+                                  - generic [ref=e3980]: compression tights women
+                                - option "gevoerde panty" [ref=e3981] [cursor=pointer]:
+                                  - generic [ref=e3982]: gevoerde panty
+                                - option "minvoir trustpilot" [ref=e3983] [cursor=pointer]:
+                                  - generic [ref=e3984]: minvoir trustpilot
+                                - option "ninepine review" [ref=e3985] [cursor=pointer]:
+                                  - generic [ref=e3986]: ninepine review
+                                - option "panty met print" [ref=e3987] [cursor=pointer]:
+                                  - generic [ref=e3988]: panty met print
+                                - option "panty niet scheuren" [ref=e3989] [cursor=pointer]:
+                                  - generic [ref=e3990]: panty niet scheuren
+                                - option "pantys kopen" [ref=e3991] [cursor=pointer]:
+                                  - generic [ref=e3992]: pantys kopen
+                                - option "scrunch leggings" [ref=e3993] [cursor=pointer]:
+                                  - generic [ref=e3994]: scrunch leggings
+                                - option "thriving leggings" [ref=e3995] [cursor=pointer]:
+                                  - generic [ref=e3996]: thriving leggings
+                                - option "tights for women" [ref=e3997] [cursor=pointer]:
+                                  - generic [ref=e3998]: tights for women
+                                - option "warme panty" [ref=e3999] [cursor=pointer]:
+                                  - generic [ref=e4000]: warme panty
+                                - option "hema panty" [ref=e4001] [cursor=pointer]:
+                                  - generic [ref=e4002]: hema panty
+                                - option "minvoir panty review" [ref=e4003] [cursor=pointer]:
+                                  - generic [ref=e4004]: minvoir panty review
+                                - option "non rip tights" [ref=e4005] [cursor=pointer]:
+                                  - generic [ref=e4006]: non rip tights
+                            - generic [ref=e4007]:
+                              - button "Navigate to the Searches table" [ref=e4009] [cursor=pointer]:
+                                - generic [ref=e4010]: All searches
+                              - generic [ref=e4012]:
+                                - generic:
+                                  - img: keyboard_arrow_left
+                                - generic [ref=e4013]: 1 / 6
+                                - img [ref=e4015] [cursor=pointer]: keyboard_arrow_right
+                        - listitem "Card 1 of 0. Use arrow keys to move to another card, tab to enter card content." [ref=e4016]:
+                          - generic [ref=e4018]:
+                            - generic [ref=e4019]:
+                              - generic [ref=e4020]:
+                                - img [ref=e4022]: payments
+                                - heading "Billing" [level=1] [ref=e4023]
+                              - button "A menu with additional card options. Press enter to open." [ref=e4027] [cursor=pointer]:
+                                - img [ref=e4030]: more_vert
+                            - generic [ref=e4034]:
+                              - generic [ref=e4035]:
+                                - generic [ref=e4037]:
+                                  - generic [ref=e4038]: Balance as of 26 Mar 2026
+                                  - generic [ref=e4039]: €154.50
+                                - generic [ref=e4041]:
+                                  - generic [ref=e4042]:
+                                    - text: Next automatic payment
+                                    - button "More information" [ref=e4044] [cursor=pointer]:
+                                      - img "More information" [ref=e4045]: help_outline
+                                  - generic [ref=e4047]:
+                                    - generic [ref=e4048]: 1 Apr 2026
+                                    - generic [ref=e4051]:
+                                      - text: or when your balance
+                                      - text: reaches €500.00
+                              - generic [ref=e4053]:
+                                - generic [ref=e4054]: Payment methods
+                                - generic [ref=e4055]:
+                                  - generic [ref=e4056]:
+                                    - text: Primary
+                                    - button "Amex •••• 3009 is your primary payment method. Press enter to change your payment method" [ref=e4057] [cursor=pointer]:
+                                      - generic [ref=e4059]: Amex •••• 3009
+                                  - generic [ref=e4061]:
+                                    - text: Backup
+                                    - button "You don't have a backup payment method. Press enter to add now" [ref=e4062] [cursor=pointer]:
+                                      - generic [ref=e4064]: Add a backup
+                            - generic [ref=e4067]:
+                              - button "View billing" [ref=e4068] [cursor=pointer]:
+                                - generic [ref=e4069]: View billing
+                              - button "View statements and tax documents" [ref=e4071] [cursor=pointer]:
+                                - generic [ref=e4072]: View statements and tax documents
+                        - listitem "Card 1 of 0. Use arrow keys to move to another card, tab to enter card content." [ref=e4074]:
+                          - generic [ref=e4076]:
+                            - generic [ref=e4077]:
+                              - generic [ref=e4078]:
+                                - img [ref=e4080]: add_ad
+                                - heading "Most-shown search ads" [level=1] [ref=e4081]
+                              - button "A menu with additional card options. Press enter to open." [ref=e4085] [cursor=pointer]:
+                                - img [ref=e4088]: more_vert
+                            - list "Use left/right keys to move between ads, E to edit an ad, C to copy and enter to navigate to the ad URL." [ref=e4091]:
+                              - listitem [ref=e4092]:
+                                - generic [ref=e4093]:
+                                  - link "Found in campaign S | General | EU | EN with status paused" [ref=e4094] [cursor=pointer]:
+                                    - generic [ref=e4097]: S | General | EU | EN
+                                  - generic [ref=e4098]: ›
+                                  - link "ad group tights does not break with status active" [ref=e4099] [cursor=pointer]:
+                                    - generic [ref=e4102]: tights does not break
+                              - listitem [ref=e4103]:
+                                - generic [ref=e4110]:
+                                  - generic [ref=e4112]:
+                                    - generic [ref=e4113]:
+                                      - generic [ref=e4114]: Minvoir - Tights Laddervrij
+                                      - generic [ref=e4116]: "|"
+                                      - generic [ref=e4118]: Minvoir - Unbreakable Tights
+                                      - generic [ref=e4120]: "|"
+                                      - generic [ref=e4122]: 10,000+ Sold
+                                    - generic [ref=e4124]:
+                                      - generic [ref=e4125]: Ad
+                                      - text: www.minvoir.eu
+                                      - generic [ref=e4126]:
+                                        - generic [ref=e4127]: /
+                                        - generic [ref=e4128]: unbreakable
+                                        - generic [ref=e4129]: /
+                                        - generic [ref=e4130]: tights
+                                  - generic [ref=e4135]:
+                                    - generic [ref=e4137]: "The strongest and nicest tights you've ever had. Extra stretch & Push-up | Minvoir. Minvoir Sale: 40% off."
+                                    - generic [ref=e4139]:
+                                      - generic [ref=e4141]: All Products
+                                      - generic [ref=e4143]: About Us
+                                      - generic [ref=e4145]: 90 Day Warranty
+                                      - generic [ref=e4147]: Save With Bundles
+                              - listitem [ref=e4148]
+                              - listitem [ref=e4149]
+                              - listitem [ref=e4150]
+                              - listitem [ref=e4151]
+                              - listitem [ref=e4152]
+                              - listitem [ref=e4153]
+                              - listitem [ref=e4154]
+                              - listitem [ref=e4155]
+                              - listitem [ref=e4156]
+                              - generic [ref=e4157]:
+                                - generic [ref=e4158]: Ad
+                                - generic [ref=e4160]:
+                                  - img [ref=e4162]: circle
+                                  - generic [ref=e4163]: Enabled
+                              - 'listitem "Status: Not eligible. Press F to focus onto the hovercard." [ref=e4164]':
+                                - generic [ref=e4165]: Status
+                                - generic [ref=e4166] [cursor=pointer]: Not eligible
+                              - generic [ref=e4167]:
+                                - generic [ref=e4168]: Impressions
+                                - generic [ref=e4169]: 3,764
+                              - 'listitem "Choose metric 1 of 2 for the Most-shown search ads card. Current metric: Clicks" [ref=e4172]':
+                                - 'generic "Choose metric 1 of 2 for the Most-shown search ads card. Current metric: Clicks" [ref=e4173] [cursor=pointer]':
+                                  - generic [ref=e4174]: Clicks
+                                  - text: arrow_drop_down
+                              - generic [ref=e4175]: "209"
+                              - 'listitem "Choose metric 2 of 2 for the Most-shown search ads card. Current metric: CTR" [ref=e4178]':
+                                - 'generic "Choose metric 2 of 2 for the Most-shown search ads card. Current metric: CTR" [ref=e4179] [cursor=pointer]':
+                                  - generic [ref=e4180]: CTR
+                                  - text: arrow_drop_down
+                              - generic [ref=e4181]: 5.55%
+                              - generic [ref=e4182]: Minvoir - Tights Laddervrij | Minvoir - Unbreakable Tights | 10,000+ Sold
+                            - generic [ref=e4183]:
+                              - generic [ref=e4184]:
+                                - button "Go to the ads table" [ref=e4185] [cursor=pointer]:
+                                  - generic [ref=e4186]: All search ads
+                                - button "Go to the assets table" [ref=e4188] [cursor=pointer]:
+                                  - generic [ref=e4189]: All assets
+                              - generic [ref=e4191]:
+                                - generic:
+                                  - img: keyboard_arrow_left
+                                - generic [ref=e4192]: 1 / 10
+                                - img [ref=e4194] [cursor=pointer]: keyboard_arrow_right
+                        - listitem "Card 1 of 0. Use arrow keys to move to another card, tab to enter card content." [ref=e4195]:
+                          - generic [ref=e4197]:
+                            - generic [ref=e4198]:
+                              - generic [ref=e4199]:
+                                - img [ref=e4201]: bar_chart
+                                - heading "Networks" [level=1] [ref=e4202]
+                              - generic [ref=e4204]:
+                                - 'button "Networks Card: Mouseover or press enter on this icon for more information" [ref=e4205] [cursor=pointer]':
+                                  - img [ref=e4207]: help_outline
+                                - button "A menu with additional card options. Press enter to open." [ref=e4209] [cursor=pointer]:
+                                  - img [ref=e4212]: more_vert
+                            - generic [ref=e4215]:
+                              - generic [ref=e4216]: Summary of how your ads are performing on these networks
+                              - generic [ref=e4217]:
+                                - generic [ref=e4218]:
+                                  - generic [ref=e4219]:
+                                    - generic [ref=e4220]:
+                                      - generic [ref=e4221]: stop
+                                      - generic [ref=e4222]: Google Search
+                                    - generic [ref=e4223]:
+                                      - generic [ref=e4224]: stop
+                                      - generic [ref=e4225]: Search partners
+                                    - generic [ref=e4226]:
+                                      - generic [ref=e4227]: stop
+                                      - generic [ref=e4228]: Cross-network
+                                  - table "Segmented data. Use arrow keys to navigate between cells." [ref=e4229]:
+                                    - generic [ref=e4230]:
+                                      - row [ref=e4231]:
+                                        - cell [ref=e4232]
+                                        - cell [ref=e4233]
+                                        - cell [ref=e4234]
+                                      - row "14.5% 0.0% 85.5%" [ref=e4235]:
+                                        - cell "14.5%" [ref=e4236]:
+                                          - generic [ref=e4238]: 14.5%
+                                        - cell "0.0%" [ref=e4239]:
+                                          - generic [ref=e4241]: 0.0%
+                                        - cell "85.5%" [ref=e4242]:
+                                          - generic [ref=e4244]: 85.5%
+                                    - generic [ref=e4245]:
+                                      - row [ref=e4246]:
+                                        - cell [ref=e4247]
+                                        - cell [ref=e4248]
+                                        - cell [ref=e4249]
+                                      - row "30.9% 0.0% 69.1%" [ref=e4250]:
+                                        - cell "30.9%" [ref=e4251]:
+                                          - generic [ref=e4253]: 30.9%
+                                        - cell "0.0%" [ref=e4254]:
+                                          - generic [ref=e4256]: 0.0%
+                                        - cell "69.1%" [ref=e4257]:
+                                          - generic [ref=e4259]: 69.1%
+                                    - row "€1.17 €0.68 €0.44" [ref=e4261]:
+                                      - cell "€1.17" [ref=e4262]:
+                                        - generic [ref=e4265]: €1.17
+                                      - cell "€0.68" [ref=e4266]:
+                                        - generic [ref=e4269]: €0.68
+                                      - cell "€0.44" [ref=e4270]:
+                                        - generic [ref=e4273]: €0.44
+                                - generic [ref=e4274]:
+                                  - 'button "Choose metric 1 of 3 for the Networks card. Current metric: Clicks" [ref=e4276]':
+                                    - 'generic "Choose metric 1 of 3 for the Networks card. Current metric: Clicks" [ref=e4277] [cursor=pointer]':
+                                      - generic [ref=e4278]: Clicks
+                                      - text: arrow_drop_down
+                                  - 'button "Choose metric 2 of 3 for the Networks card. Current metric: Cost" [ref=e4280]':
+                                    - 'generic "Choose metric 2 of 3 for the Networks card. Current metric: Cost" [ref=e4281] [cursor=pointer]':
+                                      - generic [ref=e4282]: Cost
+                                      - text: arrow_drop_down
+                                  - 'button "Choose metric 3 of 3 for the Networks card. Current metric: Avg. CPC" [ref=e4284]':
+                                    - 'generic "Choose metric 3 of 3 for the Networks card. Current metric: Avg. CPC" [ref=e4285] [cursor=pointer]':
+                                      - generic [ref=e4286]: Avg. CPC
+                                      - text: arrow_drop_down
+                            - button "Go to the campaigns table segmented by networks" [ref=e4289] [cursor=pointer]:
+                              - generic [ref=e4290]: Networks
+                - generic [ref=e1237]:
+                  - generic [ref=e1238]:
+                    - link "Reporting is not carried out in real time." [ref=e1240] [cursor=pointer]:
+                      - /url: https://support.google.com/google-ads/?p=help_2544985&hl=en_GB
+                    - text: "Time zone for all dates and times: (GMT+01:00) Central European Time."
+                    - link "Learn more about changing your Google Ads account settings" [ref=e1242] [cursor=pointer]:
+                      - /url: https://support.google.com/google-ads/?p=help_9842104&hl=en_GB
+                      - text: Learn more
+                    - generic [ref=e1243]: Some inventory may be provided through third-party intermediaries.
+                    - generic [ref=e1244]: You'll see Media Rating Council (MRC) accreditation noted in the column header's hover text for accredited metrics.
+                  - generic [ref=e1245]: © Google, 2026.
+  - generic:
+    - dialog:
+      - generic:
+        - generic:
+          - heading [level=1]: Turn off ad blockers
+          - paragraph: Google Ads can't work when you're using an ad blocker. To use Google Ads, please turn off any ad blockers for now.
+  - generic:
+    - generic:
+      - generic:
+        - dialog "dialogue"
+    - generic:
+      - generic:
+        - dialog "dialogue"
+  - generic:
+    - generic:
+      - generic:
+        - dialog "dialogue"
+  - generic:
+    - generic:
+      - generic:
+        - dialog "dialogue"

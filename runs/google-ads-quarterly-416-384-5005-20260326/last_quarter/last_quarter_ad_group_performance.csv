@@ -1,0 +1,176 @@
+Ad group report
+1 October 2025 - 31 December 2025
+Ad group status,Ad group,Campaign,Currency code,Default max. CPC,Target CPA,Target ROAS,Status,Status reasons,Ad group type,Currency code,Avg. CPM,Impr.,Interactions,Interaction rate,Avg. cost,Cost,Brand inclusions,Locations of interest,Conv. (Platform comparable),Cost/Conv. (Platform comparable),Conv. value/Cost (platform comparable),Clicks,Conv. rate,Conv. value,Conv. value / cost,Conversions,Avg. CPC,Cost / conv.,Original conv. value
+Paused,Exact,Ehsan - Generic Search_Dutch_NL/BE,EUR, --,40.00, --,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,competitor anni rolfi,S | Competitors | NL,EUR, --, --,250%,Not eligible,campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Paused,competitor snag tights,S | General | NL,EUR, --, --,100%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,strumpfhosen anti ladder,S | General | EU | DE,EUR, --, --,120%,Not eligible,campaign paused; unknown,Standard,EUR,68.41,"1,977",101,5.11%,1.34,135.25,[],[],0.00,0,0.00,101,4.95%,288.17,2.13,5.00,1.34,27.05,288.17
+Paused,competitor sheertex,S | General | NL,EUR, --, --,100%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,panty stippen,S | General | NL,EUR, --, --,100%,Not eligible,campaign paused; unknown,Standard,EUR,48.94,"6,422",240,3.74%,1.31,314.30,[],[],0.00,0,0.00,240,5.14%,614.14,1.95,12.33,1.31,25.48,614.14
+Enabled,tights does not break,S | General | EU | EN,EUR, --, --,100%,Not eligible,campaign paused; unknown,Standard,EUR,55.55,"2,774",243,8.76%,0.63,154.09,[],[],0.00,0,0.00,243,3.09%,392.81,2.55,7.50,0.63,20.55,392.81
+Paused,panty anti ladder best,S | General | NL,EUR, --, --,100%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,competitor hunkemoller,S | Competitors | NL,EUR, --, --,250%,Not eligible,campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Paused,competitor marcmarcs,S | General | NL,EUR, --, --,100%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,competitor falke,S | Competitors | NL,EUR, --, --,250%,Not eligible,campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,strumpfhosen stippen,S | General | EU | DE,EUR, --, --,120%,Not eligible,campaign paused; unknown,Standard,EUR,44.03,837,30,3.58%,1.23,36.85,[],[],0.00,0,0.00,30,0.00%,0.00,0.00,0.00,1.23,0.00,0.00
+Enabled,tights 80 den,S | General | EU | EN,EUR, --, --,100%,Not eligible,campaign paused; unknown,Standard,EUR,21.34,"1,289",55,4.27%,0.50,27.51,[],[],0.00,0,0.00,55,0.00%,0.00,0.00,0.00,0.50,0.00,0.00
+Enabled,14 days add cart,Rem | NL,EUR, --, --, --,Not eligible,campaign paused; unknown,Ad Exchange,EUR,7.56,"15,252",131,0.86%,0.88,115.35,[],[],0.00,0,0.00,101,1.53%,108.41,0.94,2.00,1.14,57.67,108.41
+Paused,panty zwarte,S | General | NL,EUR, --, --,100%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Paused,tights black,S | General | EU | EN,EUR, --, --,100%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Paused,competitor oroblu,S | General | NL,EUR, --, --,100%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,All Products,DGen | EN,EUR, --, --, --,Not eligible,campaign paused; unknown, --,EUR,0,0,0, --,0,0.00,[],"[geo_target_criterion_id: 	 2703
+localized_full_name: ""Slovakia""
+name: ""Slovakia""
+country_code: ""SK""
+, geo_target_criterion_id: 	 2276
+localized_full_name: ""Germany""
+name: ""Germany""
+country_code: ""DE""
+, geo_target_criterion_id: 	 2616
+localized_full_name: ""Poland""
+name: ""Poland""
+country_code: ""PL""
+, geo_target_criterion_id: 	 2752
+localized_full_name: ""Sweden""
+name: ""Sweden""
+country_code: ""SE""
+, geo_target_criterion_id: 	 2250
+localized_full_name: ""France""
+name: ""France""
+country_code: ""FR""
+, geo_target_criterion_id: 	 2756
+localized_full_name: ""Switzerland""
+name: ""Switzerland""
+country_code: ""CH""
+, geo_target_criterion_id: 	 2442
+localized_full_name: ""Luxembourg""
+name: ""Luxembourg""
+country_code: ""LU""
+, geo_target_criterion_id: 	 2705
+localized_full_name: ""Slovenia""
+name: ""Slovenia""
+country_code: ""SI""
+, geo_target_criterion_id: 	 2040
+localized_full_name: ""Austria""
+name: ""Austria""
+country_code: ""AT""
+, geo_target_criterion_id: 	 2246
+localized_full_name: ""Finland""
+name: ""Finland""
+country_code: ""FI""
+, geo_target_criterion_id: 	 2528
+localized_full_name: ""Netherlands""
+name: ""Netherlands""
+country_code: ""NL""
+, geo_target_criterion_id: 	 2203
+localized_full_name: ""Czechia""
+name: ""Czechia""
+country_code: ""CZ""
+, geo_target_criterion_id: 	 2208
+localized_full_name: ""Denmark""
+name: ""Denmark""
+country_code: ""DK""
+, geo_target_criterion_id: 	 2724
+localized_full_name: ""Spain""
+name: ""Spain""
+country_code: ""ES""
+, geo_target_criterion_id: 	 2620
+localized_full_name: ""Portugal""
+name: ""Portugal""
+country_code: ""PT""
+, geo_target_criterion_id: 	 2056
+localized_full_name: ""Belgium""
+name: ""Belgium""
+country_code: ""BE""
+, geo_target_criterion_id: 	 2380
+localized_full_name: ""Italy""
+name: ""Italy""
+country_code: ""IT""
+, geo_target_criterion_id: 	 2578
+localized_full_name: ""Norway""
+name: ""Norway""
+country_code: ""NO""
+]",0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,competitor hedoïne,S | Competitors | NL,EUR, --, --,250%,Not eligible,campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,general,Sh | General | NL | old,EUR,0.50, --, --,Not eligible,campaign paused; unknown,Shopping – Product,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,Exact,ADa_Brand_NL,EUR, --, --, --,Eligible,unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,competitor swedish stockings,S | Competitors | NL,EUR, --, --,250%,Not eligible,campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Paused,competitor zeeman,S | General | NL,EUR, --, --,100%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,competitor oroblu,S | Competitors | NL,EUR, --, --,250%,Not eligible,campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Paused,competitor calzedonia,S | General | NL,EUR, --, --,100%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Paused,competitors,S | General | EU | DE,EUR, --, --,120%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,Brand,S | Brand | NL,EUR, --, --, --,Not eligible,campaign paused; unknown,Standard,EUR,101.53,"2,969","1,095",36.88%,0.28,301.43,[],[],0.00,0,0.00,"1,095",15.86%,"10,069.11",33.40,173.70,0.28,1.74,"10,069.11"
+Enabled,Brand,S | Brand | EU | DE,EUR, --, --, --,Not eligible,campaign paused; unknown,Standard,EUR,439.49,"1,673",205,12.25%,3.59,735.27,[],[],0.00,0,0.00,205,12.20%,"1,713.33",2.33,25.00,3.59,29.41,"1,713.33"
+Enabled,panty onverwoestbare,S | General | NL,EUR, --, --,100%,Not eligible,campaign paused; unknown,Standard,EUR,139.28,"2,853",291,10.20%,1.37,397.37,[],[],0.00,0,0.00,291,5.96%,868.84,2.19,17.33,1.37,22.93,868.84
+Enabled,customer list,Rem | EU | DE,EUR, --, --, --,Not eligible,campaign paused; unknown,Ad Exchange,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,14 days add cart,Rem | EU | EN,EUR, --, --, --,Not eligible,campaign paused; unknown,Ad Exchange,EUR,19.78,"2,318",69,2.98%,0.66,45.85,[],[],0.00,0,0.00,20,0.00%,0.00,0.00,0.00,2.29,0.00,0.00
+Enabled,customer list,Rem | EU | FR,EUR, --, --, --,Not eligible,campaign paused; unknown,Ad Exchange,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,competitor blom kousen,S | Competitors | NL,EUR, --, --,250%,Not eligible,campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Paused,tights black,S | General | UK,EUR, --, --,100%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Paused,panty 30 dernier,S | General | NL,EUR, --, --,100%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,competitor marcmarcs,S | Competitors | NL,EUR, --, --,250%,Not eligible,campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Paused,panty 30 dernier plus size,S | General | NL,EUR, --, --,100%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,14 days add cart,Rem | EU | FR,EUR, --, --, --,Not eligible,campaign paused; unknown,Ad Exchange,EUR,29.05,"2,032",82,4.04%,0.72,59.02,[],[],0.00,0,0.00,25,0.00%,0.00,0.00,0.00,2.36,0.00,0.00
+Enabled,tights ladder resist,S | General | UK,EUR, --, --,100%,Not eligible,campaign paused; unknown,Standard,EUR,89.68,"2,832",292,10.31%,0.87,253.99,[],[],0.00,0,0.00,292,2.05%,410.49,1.62,6.00,0.87,42.33,410.49
+Enabled,competitor wolford,S | Competitors | NL,EUR, --, --,250%,Not eligible,campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,Phrase,ADa_Brand_NL,EUR, --, --, --,Eligible,unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,competitor kunert,S | Competitors | NL,EUR, --, --,250%,Not eligible,campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,tights does not break,S | General | UK,EUR, --, --,100%,Not eligible,campaign paused; unknown,Standard,EUR,71.52,"3,227",269,8.34%,0.86,230.80,[],[],0.00,0,0.00,269,2.97%,476.14,2.06,8.00,0.86,28.85,476.14
+Enabled,tights ladder resist,S | General | EU | EN,EUR, --, --,100%,Not eligible,campaign paused; unknown,Standard,EUR,34.35,"3,269",202,6.18%,0.56,112.28,[],[],0.00,0,0.00,202,0.99%,129.32,1.15,2.00,0.56,56.14,129.32
+Paused,competitor wolford,S | General | NL,EUR, --, --,100%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,competitor calzedonia,S | Competitors | NL,EUR, --, --,250%,Not eligible,campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Paused,panty 80 dernier,S | General | NL,EUR, --, --,100%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,panty anti ladder zwart,S | General | NL,EUR, --, --,100%,Not eligible,campaign paused; unknown,Standard,EUR,61.10,129,6,4.65%,1.31,7.88,[],[],0.00,0,0.00,6,0.00%,0.00,0.00,0.00,1.31,0.00,0.00
+Enabled,strumpfhosen ladder resist,S | General | EU | DE,EUR, --, --,120%,Not eligible,campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,customer list,Rem | EU | EN,EUR, --, --, --,Not eligible,campaign paused; unknown,Ad Exchange,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,competitor sheertex,S | Competitors | NL,EUR, --, --,250%,Not eligible,campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,customer list,Rem | NL,EUR, --, --, --,Not eligible,campaign paused; unknown,Ad Exchange,EUR,3.84,418,2,0.48%,0.80,1.60,[],[],0.00,0,0.00,2,0.00%,0.00,0.00,0.00,0.80,0.00,0.00
+Enabled,tights 80 den,S | General | UK,EUR, --, --,100%,Not eligible,campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,Add payment info,Remarketing,EUR,0.50, --, --,Not eligible,campaign paused; most ads limited by policy,Ad Exchange,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,Brand,S | Brand | UK,EUR, --, --, --,Not eligible,campaign paused; unknown,Standard,EUR,374.24,33,11,33.33%,1.12,12.35,[],[],0.00,0,0.00,11,0.00%,0.00,0.00,0.00,1.12,0.00,0.00
+Enabled,competitor kruidvat,S | Competitors | NL,EUR, --, --,250%,Not eligible,campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Paused,competitor hedoïne,S | General | NL,EUR, --, --,100%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,panty anti ladder,S | General | NL,EUR, --, --,100%,Not eligible,campaign paused; unknown,Standard,EUR,86.31,"3,784",270,7.14%,1.21,326.60,[],[],0.00,0,0.00,270,3.15%,572.37,1.75,8.50,1.21,38.42,572.37
+Enabled,strumpfhosen does not break,S | General | EU | DE,EUR, --, --,120%,Not eligible,campaign paused; unknown,Standard,EUR,67.50,"1,958",116,5.92%,1.14,132.16,[],[],0.00,0,0.00,116,0.00%,0.00,0.00,0.00,1.14,0.00,0.00
+Enabled,Visitors 7 days,Remarketing,EUR,0.50, --, --,Not eligible,campaign paused; most ads limited by policy,Ad Exchange,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,strumpfhosen 80 dernier,S | General | EU | DE,EUR, --, --,120%,Not eligible,campaign paused; unknown,Standard,EUR,105.15,578,28,4.84%,2.17,60.78,[],[],0.00,0,0.00,28,0.00%,0.00,0.00,0.00,2.17,0.00,0.00
+Enabled,Collants solides,S | General | EU | FR,EUR, --, --,120%,Not eligible,campaign paused; unknown,Standard,EUR,79.99,"3,206",284,8.86%,0.90,256.46,[],[],0.00,0,0.00,284,0.35%,49.54,0.19,1.00,0.90,256.46,49.54
+Enabled,Brand,S | Brand | EU | FR,EUR, --, --, --,Not eligible,campaign paused; unknown,Standard,EUR,26.00,20,7,35.00%,0.07,0.52,[],[],0.00,0,0.00,7,0.00%,0.00,0.00,0.00,0.07,0.00,0.00
+Paused,competitor hema,S | General | NL,EUR, --, --,100%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,competitor snag tights,S | Competitors | NL,EUR, --, --,250%,Not eligible,campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,strumpfhosen onverwoestbare,S | General | EU | DE,EUR, --, --,120%,Not eligible,campaign paused; unknown,Standard,EUR,103.90,"1,662",97,5.84%,1.78,172.68,[],[],0.00,0,0.00,97,2.06%,177.30,1.03,2.00,1.78,86.34,177.30
+Enabled,tights anti ladder,S | General | UK,EUR, --, --,100%,Not eligible,campaign paused; unknown,Standard,EUR,78.42,"3,311",342,10.33%,0.76,259.64,[],[],0.00,0,0.00,342,2.34%,487.61,1.88,8.00,0.76,32.46,487.61
+Enabled,competitor heist studios,S | Competitors | NL,EUR, --, --,250%,Not eligible,campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,panty strong,S | General | NL,EUR, --, --,100%,Not eligible,campaign paused; unknown,Standard,EUR,80.83,842,71,8.43%,0.96,68.06,[],[],0.00,0,0.00,71,3.52%,115.14,1.69,2.50,0.96,27.22,115.14
+Enabled,panty does not break,S | General | NL,EUR, --, --,100%,Not eligible,campaign paused; unknown,Standard,EUR,93.11,"11,612",928,7.99%,1.17,1081.21,[],[],0.00,0,0.00,928,4.30%,"2,206.88",2.04,39.95,1.17,27.06,"2,206.88"
+Enabled,Brand,S | Brand | EU | EN,EUR, --, --, --,Not eligible,campaign paused; unknown,Standard,EUR,112.60,54,18,33.33%,0.34,6.08,[],[],0.00,0,0.00,18,0.00%,0.00,0.00,0.00,0.34,0.00,0.00
+Enabled,competitor hema,S | Competitors | NL,EUR, --, --,250%,Not eligible,campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Paused,competitor heist studios,S | General | NL,EUR, --, --,100%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Paused,panty anti ladder 30 den,S | General | NL,EUR, --, --,100%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Paused,competitor blom kousen,S | General | NL,EUR, --, --,100%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Paused,competitors,S | General | UK,EUR, --, --,100%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,All Products,Sh | General | NL,EUR,1.00 (enhanced), --, --,Not eligible,campaign paused; unknown,Shopping – Product,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,panty ladder resist,S | General | NL,EUR, --, --,100%,Not eligible,campaign paused; unknown,Standard,EUR,45.60,191,9,4.71%,0.97,8.71,[],[],0.00,0,0.00,9,0.00%,0.00,0.00,0.00,0.97,0.00,0.00
+Enabled,tights anti ladder,S | General | EU | EN,EUR, --, --,100%,Not eligible,campaign paused; unknown,Standard,EUR,41.47,"3,973",275,6.92%,0.60,164.76,[],[],0.00,0,0.00,275,2.36%,365.81,2.22,6.50,0.60,25.35,365.81
+Paused,competitor kruidvat,S | General | NL,EUR, --, --,100%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Paused,competitor hunkemoller,S | General | NL,EUR, --, --,100%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,competitor zeeman,S | Competitors | NL,EUR, --, --,250%,Not eligible,campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Paused,panty 50 dernier,S | General | NL,EUR, --, --,100%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,panty bijenkorf,S | General | NL,EUR, --, --,100%,Not eligible,campaign paused; unknown,Standard,EUR,0.00,4,0,0.00%,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Paused,Broad,Ehsan - Generic Search_Dutch_NL/BE,EUR, --,40.00, --,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,strumpfhosen bijenkorf,S | General | EU | DE,EUR, --, --,120%,Not eligible,campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Paused,competitor falke,S | General | NL,EUR, --, --,100%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,Phrase - Competitor,Ehsan - Generic Search_Dutch_NL/BE,EUR, --,33.00, --,Not eligible,campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Paused,competitor anni rolfi,S | General | NL,EUR, --, --,100%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Paused,competitor swedish stockings,S | General | NL,EUR, --, --,100%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Paused,competitor kunert,S | General | NL,EUR, --, --,100%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Enabled,14 days add cart,Rem | EU | DE,EUR, --, --, --,Not eligible,campaign paused; unknown,Ad Exchange,EUR,31.43,"3,063",110,3.59%,0.88,96.28,[],[],0.00,0,0.00,59,0.00%,0.00,0.00,0.00,1.63,0.00,0.00
+Paused,competitors,S | General | EU | EN,EUR, --, --,100%,Paused,ad group paused; campaign paused; unknown,Standard,EUR,0,0,0, --,0,0.00,[],[],0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Total: Ad groups,,,,,,,,,,EUR,65.93,"84,562","5,879",6.95%,0.95,5575.15,,,0.00,0,0.00,"5,692",5.57%,"19,045.42",3.42,327.32,0.98,17.03,"19,045.42"
+Total: Account,,,,,,,,,,EUR,6.58,"1,868,675","42,640",2.28%,0.29,12293.56,,,0.00,0,0.00,"30,417",1.17%,"28,811.29",2.34,500.00,0.40,24.59,"28,769.79"
+Total: Smart,,,,,,,,,,EUR,0,0,0, --,0,0.00,,,0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Total: Shopping,,,,,,,,,,EUR,0,0,0, --,0,0.00,,,0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Total: Demand Gen,,,,,,,,,,EUR,0,0,0, --,0,0.00,,,0.00,0,0,0,0.00%,0.00,0.00,0.00,0,0.00,0.00
+Total: Search,,,,,,,,,,EUR,85.51,"61,479","5,485",8.92%,0.96,5257.05,,,0.00,0,0.00,"5,485",5.93%,"18,937.01",3.60,325.32,0.96,16.16,"18,937.01"
+Total: Performance Max,,,,,,,,,,EUR,3.77,"1,784,113","36,761",2.06%,0.18,6718.40,,,0.00,0,0.00,"24,725",0.47%,"9,765.87",1.45,172.68,0.27,38.91,"9,724.37"
+Total: Display,,,,,,,,,,EUR,13.78,"23,083",394,1.71%,0.81,318.10,,,0.00,0,0.00,207,0.51%,108.41,0.34,2.00,1.54,159.05,108.41

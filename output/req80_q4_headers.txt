@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+X-Frame-Options: DENY
+Content-Security-Policy: script-src 'report-sample' 'nonce-JRglFSxQRJggpPJT4L30qg' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval';object-src 'none';base-uri 'self';report-uri https://csp.withgoogle.com/csp/datastudio/;frame-ancestors 'none'
+X-Content-Type-Options: nosniff
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Tue, 24 Mar 2026 14:38:11 GMT
+Content-Disposition: attachment; filename="json.txt"
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Cross-Origin-Opener-Policy: same-origin-allow-popups
+Server: ESF
+X-XSS-Protection: 0
+Set-Cookie: NID=530=Zf9QCRJhtJaNj-kYqqGIgshKFQrspfLeuoH0iCObDieLT-QEUTi8NaLU3_NfvPAmqHuVYgQpqTbVUAp9S-0LofO933oZA4C_bh-vBJYrwmLLJv0kkHa33Q4-b8ZBmUjcV1e3pJ6oxNCbc5HhhzRxFdrcaAdKVY8h4i1NhCgs9CFlPIRQQRKqbOmfHuEKB7hiNAPRwFPsJPTlwVjX; expires=Wed, 23-Sep-2026 14:38:11 GMT; path=/; domain=.google.com; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site,Accept-Encoding
+Transfer-Encoding: chunked
+

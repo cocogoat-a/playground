@@ -1,0 +1,418 @@
+﻿Demographic status,Age,Campaign,Ad group,Status,Bid adj.,Impr.,Interactions,Interaction rate,Currency code,Avg. cost,Cost,Conv. rate,Conversions,Cost / conv.
+Enabled,Unknown,ADa - Competitors,Clinicea,Campaign paused, --,60,5,8.33%,USD,1.94,9.71,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,DOCMate,Campaign paused, --,22,6,27.27%,USD,1.70,10.18,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,Oracle Health,Campaign paused, --,19,2,10.53%,USD,1.74,3.47,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,eClinicalWorks,Campaign paused, --,9,3,33.33%,USD,1.80,5.39,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,DOCMate,Campaign paused, --,130,10,7.69%,USD,1.76,17.58,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,Adroit(UAE),Campaign paused, --,18,2,11.11%,USD,1.90,3.79,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,Athenahealth,Campaign paused, --,5,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,Carepatron,Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,Clinicea,Campaign paused, --,5,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,Practice Fusion,Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,Jane Software,Campaign paused, --,2,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,Clintee(UAE),Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,Zanda (formerly Power Diary),Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,eClinicalWorks,Campaign paused, --,10,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,CentralReach,Campaign paused, --,3,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,РЎlinicsoftwaredubai(UAE),Campaign paused, --,2,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,Care4 EMR(UAE),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,Tebra,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,CureMD,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,Ensora Health,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,Innsof Medcare(UAE),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,AdvancedMD,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,Raintree Systems,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,Praxis EMR,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,Clintee(UAE),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,eClinicalWorks,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,eClinicalWorks,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,Valant,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,CareCloud,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,CentralReach,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,Innsof Medcare(UAE),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,Carepatron,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,Pabau,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,Athenahealth,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,Adroit(UAE),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,ModMed,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,DrChrono,Campaign paused, --,5,1,20.00%,USD,1.94,1.94,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,DrChrono,Campaign paused, --,3,3,100.00%,USD,1.74,5.23,33.33%,1.00,5.23
+Enabled,25 - 34,ADa - Competitors,Practice Fusion,Campaign paused, --,13,1,7.69%,USD,1.70,1.70,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,Epic Systems Corporation,Campaign paused, --,4,1,25.00%,USD,1.56,1.56,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,eClinicalWorks,Campaign paused, --,8,1,12.50%,USD,1.89,1.89,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,NextGen Healthcare,Campaign paused, --,4,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,AdvancedMD,Campaign paused, --,8,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,DOCMate,Campaign paused, --,3,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,ModMed,Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,Experity Health,Campaign paused, --,2,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,РЎlinicsoftwaredubai(UAE),Campaign paused, --,4,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,WebPT,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,WebPT,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,Zanda (formerly Power Diary),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,Azalea Health,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,Veradigm,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,PrognoCIS (Bizmatics Inc.),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,PrognoCIS (Bizmatics Inc.),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,SimplePractice,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,Clintee(UAE),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,Innsof Medcare(UAE),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,TherapyNotes,Campaign paused, --,4,2,50.00%,USD,1.58,3.16,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,Adroit(UAE),Campaign paused, --,5,1,20.00%,USD,1.56,1.56,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,Elation Health,Campaign paused, --,3,1,33.33%,USD,1.94,1.94,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,Zanda (formerly Power Diary),Campaign paused, --,2,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,Adroit(UAE),Campaign paused, --,5,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,PracticeBetter,Ad group not complete, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,DTech IT Solutions(UAE),Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,Raintree Systems,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,Innsof Medcare(UAE),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,Innsof Medcare(UAE),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,Experity Health,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,Carepatron,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,Experity Health,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,Jane Software,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,Elation Health,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,Noterro,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,Pabau,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,Athenahealth,Campaign paused, --,1,1,100.00%,USD,1.64,1.64,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,CareCloud,Campaign paused, --,4,1,25.00%,USD,0.71,0.71,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,CureMD,Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,Athenahealth,Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,Experity Health,Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,Valant,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,PrognoCIS (Bizmatics Inc.),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,Noterro,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,SimplePractice,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,SimplePractice,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,Clintee(UAE),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,Experity Health,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,Practice Better,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,CareCloud,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,Praxis EMR,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,Adroit(UAE),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,Azalea Health,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,Pabau,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,CureMD,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,Pabau,Campaign paused, --,7,1,14.29%,USD,1.99,1.99,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,SimplePractice,Campaign paused, --,1,1,100.00%,USD,1.98,1.98,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,Clintee(UAE),Campaign paused, --,2,2,100.00%,USD,1.93,3.86,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,CareCloud,Campaign paused, --,3,1,33.33%,USD,2.00,2.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,Athenahealth,Campaign paused, --,19,4,21.05%,USD,1.85,7.40,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,Practice Better,Campaign paused, --,3,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,Jane Software,Campaign paused, --,4,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,Zanda (formerly Power Diary),Campaign paused, --,4,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,MedicoPlus,Campaign paused, --,6,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,eClinicalWorks,Campaign paused, --,5,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,Jane Software,Campaign paused, --,7,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,Azalea Health,Campaign paused, --,2,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,ModMed,Campaign paused, --,3,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,MedicoPlus,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,TherapyNotes,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,Ensora Health,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,CareCloud,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,Praxis EMR,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,Raintree Systems,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,Practice Fusion,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,Care4 EMR(UAE),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,DrChrono,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,NextGen Healthcare,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,Elation Health,Campaign paused, --,1,1,100.00%,USD,1.99,1.99,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,Epic Systems Corporation,Campaign paused, --,51,2,3.92%,USD,1.63,3.26,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,Clinicea,Campaign paused, --,56,4,7.14%,USD,1.23,4.93,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,DTech IT Solutions(UAE),Campaign paused, --,1,1,100.00%,USD,1.99,1.99,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,Epic Systems Corporation,Campaign paused, --,54,3,5.56%,USD,1.96,5.89,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,DTech IT Solutions(UAE),Campaign paused, --,20,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,CentralReach,Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,TherapyNotes,Campaign paused, --,2,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,MedicoPlus,Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,РЎlinicsoftwaredubai(UAE),Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,Epic Systems Corporation,Campaign paused, --,5,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,Zanda (formerly Power Diary),Campaign paused, --,3,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,Azalea Health,Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,Practice Better,Campaign paused, --,3,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,Veradigm,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,Tebra,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,NextGen Healthcare,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,Veradigm,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,DTech IT Solutions(UAE),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,РЎlinicsoftwaredubai(UAE),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,PracticeBetter,Ad group not complete, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,Tebra,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,Practice Fusion,Campaign paused, --,5,1,20.00%,USD,1.98,1.98,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,NextGen Healthcare,Campaign paused, --,4,1,25.00%,USD,2.00,2.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,TherapyNotes,Campaign paused, --,2,1,50.00%,USD,1.98,1.98,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,CareCloud,Campaign paused, --,2,1,50.00%,USD,1.08,1.08,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,Zanda (formerly Power Diary),Campaign paused, --,5,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,Carepatron,Campaign paused, --,5,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,Clinicea,Campaign paused, --,6,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,MedicoPlus,Campaign paused, --,10,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,Practice Fusion,Campaign paused, --,2,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,Clintee(UAE),Campaign paused, --,2,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,Valant,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,PrognoCIS (Bizmatics Inc.),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,PrognoCIS (Bizmatics Inc.),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,Innsof Medcare(UAE),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,WebPT,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,TherapyNotes,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,Experity Health,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,WebPT,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,TherapyNotes,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,Azalea Health,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,Care4 EMR(UAE),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,Tebra,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,TherapyNotes,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,AdvancedMD,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,Carepatron,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,Tebra,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,DrChrono,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,Oracle Health,Campaign paused, --,82,1,1.22%,USD,1.97,1.97,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,SimplePractice,Campaign paused, --,4,1,25.00%,USD,2.00,2.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,DOCMate,Campaign paused, --,104,14,13.46%,USD,1.54,21.50,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,DOCMate,Campaign paused, --,121,16,13.22%,USD,1.61,25.79,3.13%,0.50,51.58
+Enabled,35 - 44,ADa - Competitors,Epic Systems Corporation,Campaign paused, --,54,4,7.41%,USD,1.95,7.81,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,Tebra,Campaign paused, --,1,1,100.00%,USD,1.94,1.94,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,AdvancedMD,Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,Practice Better,Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,SimplePractice,Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,PracticeBetter,Ad group not complete, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,Clinicea,Campaign paused, --,12,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,Elation Health,Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,Clinicea,Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,CareCloud,Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,Ensora Health,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,Clintee(UAE),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,Ensora Health,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,Azalea Health,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,Veradigm,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,AdvancedMD,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,Care4 EMR(UAE),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,Practice Fusion,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,Praxis EMR,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,Veradigm,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,Raintree Systems,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,CureMD,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,Veradigm,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,WebPT,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,Praxis EMR,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,DOCMate,Campaign paused, --,22,1,4.55%,USD,1.30,1.30,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,Clinicea,Campaign paused, --,35,2,5.71%,USD,1.33,2.65,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,Oracle Health,Campaign paused, --,37,1,2.70%,USD,1.93,1.93,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,Adroit(UAE),Campaign paused, --,2,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,Oracle Health,Campaign paused, --,11,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,Oracle Health,Campaign paused, --,2,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,ModMed,Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,CureMD,Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,Noterro,Campaign paused, --,2,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,Practice Better,Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,Praxis EMR,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,Noterro,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,PrognoCIS (Bizmatics Inc.),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,WebPT,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,DrChrono,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,ModMed,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,Valant,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,WebPT,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,Noterro,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,Jane Software,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,Jane Software,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,MedicoPlus,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,CentralReach,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,Epic Systems Corporation,Campaign paused, --,23,2,8.70%,USD,1.95,3.89,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,Athenahealth,Campaign paused, --,8,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,Practice Better,Campaign paused, --,2,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,Valant,Campaign paused, --,2,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,PracticeBetter,Ad group not complete, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,РЎlinicsoftwaredubai(UAE),Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,eClinicalWorks,Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,PracticeBetter,Ad group not complete, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,ModMed,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,CentralReach,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,Care4 EMR(UAE),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,Azalea Health,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,SimplePractice,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,Ensora Health,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,PracticeBetter,Ad group not complete, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,Ensora Health,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,Care4 EMR(UAE),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,Elation Health,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,Pabau,Campaign paused, --,7,3,42.86%,USD,1.61,4.83,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,Tebra,Campaign paused, --,4,1,25.00%,USD,0.87,0.87,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,Oracle Health,Campaign paused, --,119,7,5.88%,USD,1.80,12.59,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,MedicoPlus,Campaign paused, --,15,4,26.67%,USD,1.70,6.79,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,Pabau,Campaign paused, --,16,2,12.50%,USD,1.48,2.96,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,РЎlinicsoftwaredubai(UAE),Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,NextGen Healthcare,Campaign paused, --,7,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,DTech IT Solutions(UAE),Campaign paused, --,20,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,Elation Health,Campaign paused, --,4,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,CentralReach,Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,DTech IT Solutions(UAE),Campaign paused, --,12,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,Practice Better,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,Ensora Health,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,Raintree Systems,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,PracticeBetter,Ad group not complete, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,Practice Fusion,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,Veradigm,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,Noterro,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,ModMed,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,PrognoCIS (Bizmatics Inc.),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,DrChrono,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,Innsof Medcare(UAE),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,Carepatron,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,Jane Software,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,CureMD,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,DTech IT Solutions(UAE),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,РЎlinicsoftwaredubai(UAE),Campaign paused, --,4,1,25.00%,USD,1.81,1.81,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,Athenahealth,Campaign paused, --,16,2,12.50%,USD,1.89,3.78,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,Oracle Health,Campaign paused, --,132,8,6.06%,USD,1.88,15.02,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,NextGen Healthcare,Campaign paused, --,4,1,25.00%,USD,1.97,1.97,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,CureMD,Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,DrChrono,Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Competitors,MedicoPlus,Campaign paused, --,13,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,AdvancedMD,Campaign paused, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,Epic Systems Corporation,Campaign paused, --,6,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Competitors,DOCMate,Campaign paused, --,5,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,Valant,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,Zanda (formerly Power Diary),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,Experity Health,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,Raintree Systems,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,AdvancedMD,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,Valant,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,Adroit(UAE),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,NextGen Healthcare,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,Noterro,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,Care4 EMR(UAE),Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,Elation Health,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Competitors,Praxis EMR,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Competitors,CentralReach,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Competitors,Pabau,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Competitors,Raintree Systems,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Competitors,Carepatron,Campaign paused, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Services,Healthcare System,Eligible, --,326,14,4.29%,USD,2.68,37.50,7.14%,1.00,37.50
+Enabled,35 - 44,ADa - Services,Patient Management Software,Eligible, --,34,2,5.88%,USD,2.83,5.66,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Services,Dental Practice Software,Eligible, --,65,9,13.85%,USD,2.54,22.87,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Services,Patient Management System,Eligible, --,9,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Services,Medicine Software,Eligible, --,4,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Services,Clinic Management System,Eligible, --,9,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Services,Patient Management System,Eligible, --,14,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Services,Hospital Software,Eligible, --,8,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Services,Clinic Management System,Eligible, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Services,Clinic Management Software,Eligible, --,131,6,4.58%,USD,2.61,15.65,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Services,Medicine Software,Eligible, --,38,1,2.63%,USD,1.31,1.31,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Services,Patient Management Software,Eligible, --,42,3,7.14%,USD,2.74,8.22,16.67%,0.50,16.44
+Enabled,18 - 24,ADa - Services,Healthcare Software,Eligible, --,43,6,13.95%,USD,2.55,15.31,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Services,Healthcare Software,Eligible, --,177,10,5.65%,USD,2.23,22.33,10.00%,1.00,22.33
+Enabled,18 - 24,ADa - Services,Medical Software,Eligible, --,63,6,9.52%,USD,1.92,11.54,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Services,Clinic Management Software,Eligible, --,142,7,4.93%,USD,2.41,16.89,0.00%,0.00,0.00
+Enabled,65+,ADa - Services,Hospital Software,Eligible, --,4,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Services,Patient Management Software,Eligible, --,2,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Services,Psychiatry Clinic Software,Eligible, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Services,Clinic Management Software,Eligible, --,32,1,3.13%,USD,2.88,2.88,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Services,Dental Practice Software,Eligible, --,190,10,5.26%,USD,2.27,22.69,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Services,Physiotherapy Practice Software,Eligible, --,4,2,50.00%,USD,2.95,5.89,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Services,Healthcare Software,Eligible, --,154,11,7.14%,USD,2.70,29.66,4.55%,0.50,59.32
+Enabled,Unknown,ADa - Services,Clinic Management Software,Eligible, --,696,35,5.03%,USD,2.35,82.35,10.00%,3.50,23.53
+Enabled,45 - 54,ADa - Services,Patient Management Software,Eligible, --,14,2,14.29%,USD,2.46,4.91,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Services,Dental Practice Software,Eligible, --,275,14,5.09%,USD,2.19,30.61,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Services,Medical Software,Eligible, --,208,7,3.37%,USD,2.08,14.55,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Services,Health Records,Eligible, --,65,3,4.62%,USD,2.22,6.67,0.00%,0.00,0.00
+Enabled,65+,ADa - Services,Medical Software,Eligible, --,3,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Services,Medicine Software,Eligible, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Services,Dermatology Clinic Software,Eligible, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Services,Physiotherapy Practice Software,Eligible, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Services,Patient Management System,Eligible, --,46,2,4.35%,USD,2.49,4.97,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Services,Healthcare System,Eligible, --,189,11,5.82%,USD,2.33,25.59,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Services,Healthcare System,Eligible, --,72,4,5.56%,USD,2.66,10.64,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Services,Medical Systems,Eligible, --,58,3,5.17%,USD,2.67,8.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Services,Clinic Management Software,Eligible, --,15,2,13.33%,USD,2.92,5.83,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Services,Healthcare Software,Eligible, --,130,7,5.38%,USD,2.67,18.72,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Services,Hospital Management System,Eligible, --,5,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Services,Health Records,Eligible, --,9,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Services,Hospital Software,Eligible, --,31,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Services,Dermatology Clinic Software,Eligible, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Services,Psychiatry Clinic Software,Eligible, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Services,Dermatology Clinic Software,Eligible, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Services,Medical Systems,Eligible, --,9,1,11.11%,USD,2.97,2.97,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Services,Patient Management Software,Eligible, --,51,3,5.88%,USD,1.35,4.06,33.33%,1.00,4.06
+Enabled,45 - 54,ADa - Services,Hospital Management System,Eligible, --,55,3,5.45%,USD,2.46,7.38,33.33%,1.00,7.38
+Enabled,65+,ADa - Services,Healthcare Software,Eligible, --,4,2,50.00%,USD,2.90,5.79,50.00%,1.00,5.79
+Enabled,25 - 34,ADa - Services,Medical Software,Eligible, --,209,11,5.26%,USD,2.48,27.31,9.09%,1.00,27.31
+Enabled,35 - 44,ADa - Services,Software For Doctors,Eligible, --,23,2,8.70%,USD,2.71,5.41,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Services,Medicine Software,Eligible, --,29,1,3.45%,USD,1.01,1.01,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Services,Medical Software,Eligible, --,41,1,2.44%,USD,2.89,2.89,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Services,Clinic Management Software,Eligible, --,633,41,6.48%,USD,2.37,97.19,2.44%,1.00,97.19
+Enabled,18 - 24,ADa - Services,Patient Management Software,Eligible, --,9,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Services,Health Records,Eligible, --,48,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Services,Psychiatry Clinic Software,Eligible, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Services,Clinic Management System,Eligible, --,25,1,4.00%,USD,3.00,3.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Services,Medical Software,Eligible, --,166,7,4.22%,USD,2.75,19.22,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Services,Dental Practice Software,Eligible, --,52,4,7.69%,USD,2.24,8.95,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Services,Hospital Management System,Eligible, --,35,6,17.14%,USD,2.61,15.64,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Services,Healthcare System,Eligible, --,77,8,10.39%,USD,2.38,19.02,12.50%,1.00,19.02
+Enabled,25 - 34,ADa - Services,Clinic Management System,Eligible, --,15,1,6.67%,USD,2.92,2.92,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Services,Clinic Management System,Eligible, --,4,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Services,Physiotherapy Practice Software,Eligible, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Services,Patient Management Software,Eligible, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Services,Dermatology Clinic Software,Eligible, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Services,Dermatology Clinic Software,Eligible, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Services,Patient Management System,Eligible, --,54,3,5.56%,USD,1.27,3.81,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Services,Medical Systems,Eligible, --,13,1,7.69%,USD,2.92,2.92,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Services,Medicine Software,Eligible, --,53,6,11.32%,USD,1.95,11.68,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Services,Medical Software,Eligible, --,7,1,14.29%,USD,2.93,2.93,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Services,Clinic Management System,Eligible, --,17,1,5.88%,USD,3.00,3.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Services,Dermatology Clinic Software,Eligible, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Services,Psychiatry Clinic Software,Eligible, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Services,Psychiatry Clinic Software,Eligible, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Services,Software For Doctors,Eligible, --,56,3,5.36%,USD,2.59,7.77,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Services,Health Records,Eligible, --,33,1,3.03%,USD,2.86,2.86,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Services,Healthcare System,Eligible, --,17,1,5.88%,USD,2.84,2.84,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Services,Dental Practice Software,Eligible, --,190,24,12.63%,USD,2.30,55.28,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Services,Medical Systems,Eligible, --,401,10,2.49%,USD,2.32,23.17,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Services,Hospital Software,Eligible, --,140,10,7.14%,USD,2.32,23.22,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Services,Dental Practice Software,Eligible, --,18,1,5.56%,USD,2.91,2.91,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Services,Software For Doctors,Eligible, --,17,3,17.65%,USD,2.80,8.41,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Services,Medical Systems,Eligible, --,320,15,4.69%,USD,2.68,40.15,6.67%,1.00,40.15
+Enabled,55 - 64,ADa - Services,Health Records,Eligible, --,5,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Services,Health Records,Eligible, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Services,Healthcare System,Eligible, --,4,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Services,Medicine Software,Eligible, --,3,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Services,Patient Management System,Eligible, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Services,Physiotherapy Practice Software,Eligible, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Services,Hospital Software,Eligible, --,145,6,4.14%,USD,2.16,12.97,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Services,Software For Doctors,Eligible, --,28,1,3.57%,USD,2.99,2.99,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Services,Hospital Management System,Eligible, --,171,15,8.77%,USD,2.83,42.42,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Services,Healthcare System,Eligible, --,309,16,5.18%,USD,2.57,41.14,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - Services,Hospital Management System,Eligible, --,236,13,5.51%,USD,2.46,31.97,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Services,Health Records,Eligible, --,70,4,5.71%,USD,1.43,5.71,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Services,Hospital Management System,Eligible, --,265,18,6.79%,USD,2.56,46.13,5.56%,1.00,46.13
+Enabled,55 - 64,ADa - Services,Healthcare Software,Eligible, --,20,1,5.00%,USD,2.94,2.94,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Services,Medicine Software,Eligible, --,9,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Services,Hospital Software,Eligible, --,37,5,13.51%,USD,2.16,10.80,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Services,Clinic Management Software,Eligible, --,502,26,5.18%,USD,2.22,57.75,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Services,Healthcare Software,Eligible, --,38,2,5.26%,USD,2.18,4.35,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Services,Patient Management System,Eligible, --,24,1,4.17%,USD,2.94,2.94,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - Services,Software For Doctors,Eligible, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Services,Dermatology Clinic Software,Eligible, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Services,Clinic Management System,Eligible, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,18 - 24,ADa - Services,Psychiatry Clinic Software,Eligible, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Services,Software For Doctors,Eligible, --,30,2,6.67%,USD,2.80,5.59,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Services,Medical Systems,Eligible, --,79,5,6.33%,USD,2.35,11.73,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Services,Hospital Software,Eligible, --,110,8,7.27%,USD,1.98,15.83,0.00%,0.00,0.00
+Enabled,65+,ADa - Services,Software For Doctors,Eligible, --,1,1,100.00%,USD,1.92,1.92,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Services,Patient Management System,Eligible, --,29,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Services,Medical Systems,Eligible, --,333,19,5.71%,USD,2.31,43.80,0.00%,0.00,0.00
+Enabled,65+,ADa - Services,Hospital Management System,Eligible, --,2,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,65+,ADa - Services,Dental Practice Software,Eligible, --,4,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Services,Physiotherapy Practice Software,Eligible, --,6,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - Services,Physiotherapy Practice Software,Eligible, --,1,0,0.00%,USD,0,0.00,0.00%,0.00,0.00
+Enabled,Unknown,ADa - Services,Psychiatry Clinic Software,Eligible, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - Services,Physiotherapy Practice Software,Eligible, --,0,0, --,USD,0,0.00,0.00%,0.00,0.00
+Enabled,25 - 34,ADa - PMax, --,Ad group not complete, --,"9,130",546,5.98%,USD,0.15,80.45,0.92%,5.00,16.09
+Enabled,18 - 24,ADa - PMax, --,Ad group not complete, --,"2,533",110,4.34%,USD,0.17,18.64,0.00%,0.00,0.00
+Enabled,55 - 64,ADa - PMax, --,Ad group not complete, --,"1,712",77,4.50%,USD,0.12,9.04,0.00%,0.00,0.00
+Enabled,45 - 54,ADa - PMax, --,Ad group not complete, --,"3,266",168,5.14%,USD,0.09,14.73,0.00%,0.00,0.00
+Enabled,65+,ADa - PMax, --,Ad group not complete, --,"1,551",92,5.93%,USD,0.12,10.75,0.00%,0.00,0.00
+Enabled,35 - 44,ADa - PMax, --,Ad group not complete, --,"7,679",571,7.44%,USD,0.14,77.99,2.45%,14.00,5.57
+Enabled,Unknown,ADa - PMax, --,Ad group not complete, --,"3,233",339,10.49%,USD,0.12,39.02,0.29%,1.00,39.02
+Total: Ages,,,,,,"39,307","2,533",6.44%,USD,0.66,1671.72,1.42%,36.00,46.44
+Total: Account,,,,,,"39,307","2,533",6.44%,USD,0.66,1671.72,1.42%,36.00,46.44
+Total: Performance Max,,,,,,"29,104","1,903",6.54%,USD,0.13,250.62,1.05%,20.00,12.53
+Total: Search,,,,,,"10,203",630,6.17%,USD,2.26,1421.10,2.54%,16.00,88.82

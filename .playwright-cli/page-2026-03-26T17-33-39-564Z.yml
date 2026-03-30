@@ -1,0 +1,248 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - banner "Top navigation" [ref=e6]:
+      - status
+      - generic [ref=e7]:
+        - button [expanded] [ref=e8] [cursor=pointer]:
+          - img [ref=e11]: menu
+        - heading "Google Ads – Go to starting page" [level=1] [ref=e13]:
+          - button "Google Ads – Go to starting page" [ref=e14]:
+            - img [ref=e16] [cursor=pointer]
+        - button "Etavrian MCC Etavrian MCC 837-167-0101" [ref=e1249] [cursor=pointer]:
+          - generic [ref=e632]:
+            - generic [ref=e1250]:
+              - link "Etavrian MCC" [ref=e1251]:
+                - /url: /aw/recommendations?ocid=6547539728&ascid=6547539728&src=overviews&authuser=0&__u=6216113857&__c=4614269072
+              - img [ref=e1253]: chevron_right
+            - generic [ref=e633]:
+              - generic [ref=e634]: Etavrian MCC
+              - generic [ref=e635]: 837-167-0101
+              - img [ref=e637]: arrow_drop_down
+      - generic [ref=e639]:
+        - button "Page search" [ref=e642] [cursor=pointer]:
+          - generic [ref=e644]:
+            - img [ref=e645]: search
+            - text: Search
+        - generic [ref=e647]:
+          - button "Ads advisor" [ref=e648] [cursor=pointer]:
+            - generic [ref=e649]:
+              - generic [ref=e650]:
+                - img [ref=e651]: button_magic
+                - text: Ads Advisor
+              - generic [ref=e652]: Beta
+          - button "Appearance" [ref=e656] [cursor=pointer]:
+            - generic [ref=e658]:
+              - img [ref=e659]: responsive_layout
+              - text: Appearance
+          - button "Refresh" [ref=e663] [cursor=pointer]:
+            - generic [ref=e665]:
+              - img [ref=e666]: refresh
+              - text: Refresh
+          - button "Open the quick help panel" [ref=e669] [cursor=pointer]:
+            - generic [ref=e670]:
+              - text: Help
+              - generic [ref=e671]:
+                - img [ref=e672]: help_outline
+                - text: Help
+          - button "Notifications" [ref=e679] [cursor=pointer]:
+            - generic [ref=e681]:
+              - img [ref=e684]: notifications
+              - generic [ref=e686]: Notifications
+      - button "Google Account" [ref=e691] [cursor=pointer]:
+        - img "Google Account (team@etavrian.com)" [ref=e692]
+    - generic [ref=e29]:
+      - generic [ref=e697]:
+        - img [ref=e699]: report_problem
+        - generic [ref=e701]:
+          - status [ref=e702]:
+            - generic [ref=e704]: Call-only ads are being deprecated - Update to call assets by February 2027.
+          - generic [ref=e706]:
+            - button "Learn more" [ref=e1256] [cursor=pointer]:
+              - generic [ref=e1257]: Learn more
+            - button "Fix it" [ref=e1260] [cursor=pointer]:
+              - generic [ref=e1261]: Fix it
+            - button "Dismiss" [ref=e1264] [cursor=pointer]:
+              - generic [ref=e1265]: Dismiss
+      - generic [ref=e30]:
+        - generic [ref=e32]:
+          - generic [ref=e33]:
+            - generic [ref=e34]:
+              - button "Create" [ref=e36] [cursor=pointer]:
+                - img [ref=e39]
+              - generic [ref=e41]: Create
+            - menu [ref=e42]:
+              - menu [ref=e1267]:
+                - menuitem "Campaigns" [ref=e1270] [cursor=pointer]:
+                  - generic [ref=e1271]:
+                    - img [ref=e1273]: campaign
+                    - generic [ref=e1274]: Campaigns
+                - menuitem "Goals" [ref=e1277] [cursor=pointer]:
+                  - generic [ref=e1278]:
+                    - img [ref=e1280]: rewarded_ads
+                    - generic [ref=e1281]: Goals
+                - menuitem "Tools" [ref=e1284] [cursor=pointer]:
+                  - generic [ref=e1285]:
+                    - img [ref=e1287]: construction
+                    - generic [ref=e1288]: Tools
+                - menuitem "Billing" [ref=e1291] [cursor=pointer]:
+                  - generic [ref=e1292]:
+                    - img [ref=e1294]: credit_card
+                    - generic [ref=e1295]: Billing
+                - menuitem "Admin" [ref=e1298] [cursor=pointer]:
+                  - generic [ref=e1299]:
+                    - img [ref=e1301]: settings
+                    - generic [ref=e1302]: Admin
+          - navigation [ref=e86]:
+            - menu [ref=e87]:
+              - generic [ref=e1303]:
+                - menuitem "Overview" [ref=e1306] [cursor=pointer]:
+                  - generic [ref=e1308]: Overview
+                - menuitem "Recommendations" [ref=e1312] [cursor=pointer]:
+                  - generic [ref=e1314]: Recommendations
+                - menuitem "Insights and reports" [ref=e1318] [cursor=pointer]:
+                  - generic [ref=e1319]:
+                    - generic [ref=e1320]: Insights and reports
+                    - img [ref=e1323]: expand_more
+                - menuitem "Campaigns" [ref=e1326] [cursor=pointer]:
+                  - generic [ref=e1327]:
+                    - generic [ref=e1328]: Campaigns
+                    - img [ref=e1331]: expand_more
+                - menuitem "Assets" [ref=e1334] [cursor=pointer]:
+                  - generic [ref=e1335]:
+                    - generic [ref=e1336]: Assets
+                    - img [ref=e1339]: expand_more
+                - menuitem "Products" [ref=e1342] [cursor=pointer]:
+                  - generic [ref=e1343]:
+                    - generic [ref=e1344]: Products
+                    - img [ref=e1347]: expand_more
+                - menuitem "Audiences, keywords and content" [ref=e1350] [cursor=pointer]:
+                  - generic [ref=e1351]:
+                    - generic [ref=e1352]: Audiences, keywords and content
+                    - img [ref=e1355]: expand_more
+                - menuitem "Change history" [ref=e1358] [cursor=pointer]:
+                  - generic [ref=e1360]: Change history
+            - group [ref=e141]:
+              - generic [ref=e142]:
+                - generic [ref=e143]:
+                  - generic "Get the Google Ads app" [ref=e144]:
+                    - img [ref=e146]: app_promo
+                    - generic [ref=e147]: Get the Google Ads app
+                  - button "Get the Google Ads app dismiss" [ref=e148] [cursor=pointer]:
+                    - img [ref=e151]: close
+                - generic [ref=e153]:
+                  - img "QR Code for Ads Mobile" [ref=e154]
+                  - generic "Scan to download the mobile app and get updates for your campaigns on the go" [ref=e155]
+        - generic [ref=e156]:
+          - generic [ref=e816]:
+            - button "View (2 filters) All campaigns" [ref=e821] [cursor=pointer]:
+              - generic [ref=e822]:
+                - generic [ref=e823]: View (2 filters)
+                - generic [ref=e824]:
+                  - img [ref=e827]: home
+                  - button "All campaigns" [ref=e828]
+              - img [ref=e830]: arrow_drop_down
+            - button "Campaigns (38) Select a campaign" [ref=e1362] [cursor=pointer]:
+              - generic [ref=e1363]:
+                - generic [ref=e1364]: Campaigns (38)
+                - generic [ref=e1365]: Select a campaign
+              - img [ref=e840]: arrow_drop_down
+          - group [ref=e843]:
+            - generic [ref=e844]:
+              - generic [ref=e845] [cursor=pointer]:
+                - generic: Filters
+              - generic: "Filters Applied:"
+              - grid "Filters Applied:" [ref=e846]:
+                - 'row "Campaign status: Enabled, Paused" [ref=e848] [cursor=pointer]':
+                  - 'gridcell "Campaign status: Enabled, Paused" [ref=e849]':
+                    - 'button "Campaign status: Enabled, Paused" [ref=e850]': "Campaign status: Enabled, Paused"
+                - 'row "Ad group status: Enabled, Paused" [ref=e852] [cursor=pointer]':
+                  - 'gridcell "Ad group status: Enabled, Paused" [ref=e853]':
+                    - 'button "Ad group status: Enabled, Paused" [ref=e854]': "Ad group status: Enabled, Paused"
+                - row [ref=e855]:
+                  - gridcell [ref=e856]:
+                    - combobox "Add filter" [ref=e857]
+                    - status [ref=e858]
+              - button "Save" [ref=e861] [cursor=pointer]:
+                - generic [ref=e862]:
+                  - img [ref=e864]: save
+                  - generic [ref=e865]: Save
+          - generic [ref=e161]:
+            - generic [ref=e162]:
+              - generic [ref=e163]:
+                - heading "Recommendations" [level=2] [ref=e867]
+                - generic [ref=e868]:
+                  - button "View cards, selected." [ref=e1366] [cursor=pointer]:
+                    - generic [ref=e1367]:
+                      - img [ref=e1369]: dashboard
+                      - generic [ref=e1370]: View cards
+                  - button "View list" [ref=e1372] [cursor=pointer]:
+                    - generic [ref=e1373]:
+                      - img [ref=e1375]: table_chart
+                      - generic [ref=e1376]: View list
+                  - button "Export" [ref=e1378] [cursor=pointer]:
+                    - generic [ref=e1379]:
+                      - img [ref=e1381]: download
+                      - generic [ref=e1382]: Export
+              - tablist [ref=e890]:
+                - tab "Recommendations" [selected] [ref=e891] [cursor=pointer]:
+                  - generic [ref=e892]: Recommendations
+                - tab "Investment strategy" [ref=e894] [cursor=pointer]:
+                  - generic [ref=e895]: Investment strategy
+                - tab "Auto-apply settings" [ref=e897] [cursor=pointer]:
+                  - generic [ref=e898]: Auto-apply settings
+            - main [ref=e903]:
+              - generic [ref=e905]:
+                - generic [ref=e906]:
+                  - generic [ref=e1384]:
+                    - generic [ref=e1386]:
+                      - generic [ref=e1389]:
+                        - paragraph [ref=e1391]: 100%
+                        - progressbar "Your optimisation score is 100%" [ref=e1393]
+                      - generic [ref=e1396]:
+                        - heading "Your optimisation score More information" [level=3] [ref=e1397]:
+                          - text: Your optimisation score
+                          - button "More information" [ref=e1398] [cursor=pointer]:
+                            - img [ref=e1400]: help_outline
+                        - button "1 campaign focus is unconfirmed 2 campaign focuses are confirmed" [ref=e1401]:
+                          - generic [ref=e1402]:
+                            - img [ref=e1404]: help_outline
+                            - generic [ref=e1405] [cursor=pointer]: 1 campaign focus is unconfirmed
+                          - generic [ref=e1406]:
+                            - img [ref=e1408]: check_circle_outline
+                            - generic [ref=e1409] [cursor=pointer]: 2 campaign focuses are confirmed
+                    - grid [ref=e1412]:
+                      - row "All Dismissed" [ref=e1413]:
+                        - gridcell "All" [selected] [ref=e1414] [cursor=pointer]:
+                          - img [ref=e1417]: check
+                          - generic [ref=e1418]: All
+                        - gridcell "Dismissed" [ref=e1419] [cursor=pointer]:
+                          - generic [ref=e1420]: Dismissed
+                  - generic [ref=e1422]:
+                    - img [ref=e1426]: lightbulb_outline
+                    - heading "You still have dismissed recommendations" [level=1] [ref=e1427]
+                    - paragraph [ref=e1428]:
+                      - text: Check again tomorrow to see if you have any new recommendations.
+                      - link "Learn more about recommendations" [ref=e1430] [cursor=pointer]:
+                        - /url: https://support.google.com/google-ads/answer/3448398?hl=en_GB
+                        - text: Learn more
+                    - button "DISMISSED RECOMMENDATIONS" [ref=e1432] [cursor=pointer]:
+                      - generic [ref=e1433]: DISMISSED RECOMMENDATIONS
+                - generic [ref=e962]: © Google, 2026.
+  - generic:
+    - dialog:
+      - generic:
+        - generic:
+          - heading [level=1]: Turn off ad blockers
+          - paragraph: Google Ads can't work when you're using an ad blocker. To use Google Ads, please turn off any ad blockers for now.
+  - generic:
+    - generic:
+      - generic:
+        - dialog "dialogue"
+  - generic:
+    - generic:
+      - generic:
+        - dialog "dialogue"
+  - generic:
+    - generic:
+      - generic:
+        - dialog "dialogue"

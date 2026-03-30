@@ -1,0 +1,64 @@
+Campaign state,Base Campaign Name,Impressions,Clicks,CTR,CPC,Cost,Revenue,Profit,Conversions,CPA,Conv. Rate,ROAS
+active,[ADa] - PMax: All products - Search,726865,8176,0.011248306081596996,1.1663690974804306,9536.233741,61656.250614,52120.016873,398.0,23.9603862839196,0.046236059479553906,6.465471829713617
+active,[ADa] - PMax: different signals - bestsellers,210699,3234,0.015348910056526135,1.5405583957946816,4982.165852,27966.916904,22984.751052,169.0,29.480271313609467,0.04533261802575107,5.613405441485492
+active,Megaphone - Brand Terms,10235,3090,0.30190522716170004,0.7327653006472492,2264.244779,2412511.338941001,2410247.094162001,395.0,5.732265263291139,0.127831715210356,1065.4816834805656
+paused,[ADa] - PMax: All products - Baby care,142781,1665,0.01166121542782303,1.1239957963963965,1871.453001,9862.090268,7990.637267,69.0,27.122507260869565,0.034482758620689655,5.269750436014289
+paused,AUS - Shopping Campaign - April 2024,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,learning bucket 2024_6_5 17_43,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,Megaphone - Search - Baby Books,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,Megaphone - Search - Best Children's Books,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,Megaphone - Search - Busy Book,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,Megaphone - Search - DSA,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,Megaphone - Search - Picture Books,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,Megaphone - Search - Quiet Book,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,Megaphone - Search - Toddler Books,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,Megaphone - Search - books for 2 years olds,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,Megaphone - Search - books for 5 years olds,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+deleted,Megaphone - Smart Shopping,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,PMax: Shopping HK - AWZ,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,PMax: Shopping NZ - AWZ,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,PMax: Shopping Sg - AWZ,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,PMax: Shopping USA - AWZ,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,Performance Max - AU - October 2023,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,Performance Max - NZ - October 2023,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,Performance Max - USA - October 2023,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,Sales-Smart-1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+deleted,Shopping HK - AWZ,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+deleted,Shopping NZ - AWZ,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+deleted,Shopping Sg - AWZ,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+deleted,Shopping USA - AWZ,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,Smart Shopping - Australia,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,TwitterPated - AWZ,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,Twitterpated - Wondertivity,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,Twitterpated-Non-Brand-Sept'21,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,Twitterpated-Search-1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,Wondertivity - Display Campaign - April 2024,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,Wondertivity Retargeting Campaign,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,Wondertivity Sales-Performance Max - May 2023,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,Wondertivity Search Campaign - Feb 2024 - Ed01,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,[ADa] - Accessories - DSA,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,[ADa] - BestSellers - 01082024,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,[ADa] - Book Pages - DSA,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,[ADa] - Busy Book - DSA,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,[ADa] - Children's Books - DSA,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,[ADa] - Educational Toys - DSA,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,[ADa] - Learning Binder - DSA,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,[ADa] - Outsiders - 01082024,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,Global Campaign,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,Global - PMAX - Feb 2024,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,Educational Toys,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,[ADa] - accessories 2024_6_17,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,[ADa] - book pages 2024_6_17,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+active,[ADa] - books,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,[ADa] - books,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,[ADa] - books we love 2024_6_17,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,[ADa] - busy book 2024_6_17,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,[ADa] - children's books 2024_6_17,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,[ADa] - competitors,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,[ADa] - educational toys 2024_6_17,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,[ADa] - learning binder 2024_6_17,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,[ADa] - toy/calendar/gift,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,campaign -  roas 1 2024_6_5 17_43,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,campaign -  roas 2 2024_6_5 17_43,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,campaign -  roas 3 2024_6_5 17_43,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paused,Megaphone - Retargeting - Responsive Display,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

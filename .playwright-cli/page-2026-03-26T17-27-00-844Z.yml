@@ -1,0 +1,43 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - progressbar [ref=e6]
+      - main [ref=e14]:
+        - generic [ref=e15]:
+          - img [ref=e18]
+          - generic [ref=e23]:
+            - heading "Увійдіть" [level=1] [ref=e24]
+            - generic [ref=e25]: Перейти в Google Ads
+        - generic [ref=e28]:
+          - generic [ref=e33]:
+            - generic [ref=e38]:
+              - textbox "Електронна адреса або телефон" [active] [ref=e39]
+              - generic: Електронна адреса або телефон
+            - button "Забули електронну адресу?" [ref=e43] [cursor=pointer]
+          - generic [ref=e46]:
+            - text: Інший комп’ютер? Щоб увійти в обліковий запис, використовуйте режим гостя.
+            - link "Докладніше про режим гостя" [ref=e47] [cursor=pointer]:
+              - /url: https://support.google.com/chrome/answer/6130773?hl=uk
+        - generic [ref=e49]:
+          - button "Далі" [ref=e53]:
+            - generic [ref=e56]: Далі
+          - button "Створити обліковий запис" [ref=e62]:
+            - generic [ref=e65]: Створити обліковий запис
+    - contentinfo [ref=e69]:
+      - combobox "Змінення мови Українська" [ref=e73] [cursor=pointer]:
+        - generic:
+          - generic: Українська
+        - generic:
+          - img
+      - list [ref=e75]:
+        - listitem [ref=e76]:
+          - link "Довідка" [ref=e77] [cursor=pointer]:
+            - /url: https://support.google.com/accounts?hl=uk&p=account_iph
+        - listitem [ref=e78]:
+          - link "Конфіденційність" [ref=e79] [cursor=pointer]:
+            - /url: https://accounts.google.com/TOS?loc=UA&hl=uk&privacy=true
+        - listitem [ref=e80]:
+          - link "Умови" [ref=e81] [cursor=pointer]:
+            - /url: https://accounts.google.com/TOS?loc=UA&hl=uk
+  - iframe [ref=e82]:
+    

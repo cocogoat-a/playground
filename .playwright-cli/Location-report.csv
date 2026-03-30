@@ -1,0 +1,360 @@
+Location report
+1 January 2026 - 26 March 2026
+Location,Campaign,Ad group,Currency code,Avg. CPM,Impr.,Interactions,Interaction rate,Avg. cost,Cost,Conv. rate,Conversions,Cost / conv.
+Greece,S | General | EU | EN, --,EUR,38.12,"1,399",56,4.00%,0.95,53.33,0.00%,0.00,0.00
+Portugal,S | General | EU | EN, --,EUR,49.46,693,36,5.19%,0.95,34.27,2.78%,1.00,34.27
+Latvia,S | General | EU | EN, --,EUR,57.64,331,22,6.65%,0.87,19.08,0.00%,0.00,0.00
+Spain,S | General | EU | EN, --,EUR,98.27,467,30,6.42%,1.53,45.89,3.33%,1.00,45.89
+Serbia,S | General | EU | EN, --,EUR,25.49,322,17,5.28%,0.48,8.21,0.00%,0.00,0.00
+Slovakia,S | General | EU | EN, --,EUR,88.82,293,15,5.12%,1.73,26.02,0.00%,0.00,0.00
+France,S | General | EU | EN, --,EUR,51.35,259,16,6.18%,0.83,13.30,0.00%,0.00,0.00
+Romania,S | General | EU | EN, --,EUR,26.69,774,24,3.10%,0.86,20.65,0.00%,0.00,0.00
+Bulgaria,S | General | EU | EN, --,EUR,27.64,535,38,7.10%,0.39,14.79,0.00%,0.00,0.00
+Croatia,S | General | EU | EN, --,EUR,41.95,608,51,8.39%,0.50,25.51,0.00%,0.00,0.00
+Moldova,S | General | EU | EN, --,EUR,37.34,216,9,4.17%,0.90,8.07,0.00%,0.00,0.00
+Estonia,S | General | EU | EN, --,EUR,43.74,506,33,6.52%,0.67,22.13,0.00%,0.00,0.00
+Albania,S | General | EU | EN, --,EUR,28.61,137,6,4.38%,0.65,3.92,0.00%,0.00,0.00
+Poland,S | General | EU | EN, --,EUR,48.24,700,42,6.00%,0.80,33.77,0.00%,0.00,0.00
+Kosovo,S | General | EU | EN, --,EUR,32.78,95,6,6.32%,0.52,3.11,0.00%,0.00,0.00
+Lithuania,S | General | EU | EN, --,EUR,36.57,453,33,7.28%,0.50,16.56,0.00%,0.00,0.00
+Sweden,S | General | EU | EN, --,EUR,76.21,645,43,6.67%,1.14,49.16,2.33%,1.00,49.16
+Finland,S | General | EU | EN, --,EUR,41.26,588,31,5.27%,0.78,24.26,0.00%,0.00,0.00
+Slovenia,S | General | EU | EN, --,EUR,45.30,418,32,7.66%,0.59,18.93,0.00%,0.00,0.00
+Bosnia and Herzegovina,S | General | EU | EN, --,EUR,27.03,516,28,5.43%,0.50,13.95,0.00%,0.00,0.00
+Montenegro,S | General | EU | EN, --,EUR,16.61,77,5,6.49%,0.26,1.28,0.00%,0.00,0.00
+Italy,S | General | EU | EN, --,EUR,60.27,488,31,6.35%,0.95,29.41,6.45%,2.00,14.71
+Czechia,S | General | EU | EN, --,EUR,34.92,181,8,4.42%,0.79,6.32,0.00%,0.00,0.00
+Hungary,S | General | EU | EN, --,EUR,50.92,"1,635",51,3.12%,1.63,83.26,0.00%,0.00,0.00
+Norway,S | General | EU | EN, --,EUR,44.30,227,13,5.73%,0.77,10.06,0.00%,0.00,0.00
+Denmark,S | General | EU | EN, --,EUR,77.36,735,47,6.39%,1.21,56.86,2.13%,1.00,56.86
+North Macedonia,S | General | EU | EN, --,EUR,18.13,231,8,3.46%,0.52,4.19,0.00%,0.00,0.00
+United Kingdom,S | Brand | UK, --,EUR,98.33,6,2,33.33%,0.30,0.59,0.00%,0.00,0.00
+Belgium,Rem | NL, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Netherlands,Rem | NL, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Netherlands,PMax | Rem | NL, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Netherlands,Sh | General | NL | old, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+New Zealand,PMax | Rem | AU-NZ | EN, --,EUR,12.70,"1,048",65,6.20%,0.20,13.31,0.00%,0.00,0.00
+Australia,PMax | Rem | AU-NZ | EN, --,EUR,22.63,"2,409",66,2.74%,0.83,54.51,0.00%,0.00,0.00
+Serbia,S | Brand | EU | EN, --,EUR,262.00,5,3,60.00%,0.44,1.31,0.00%,0.00,0.00
+Finland,S | Brand | EU | EN, --,EUR,1.67,6,1,16.67%,0.01,0.01,0.00%,0.00,0.00
+Denmark,S | Brand | EU | EN, --,EUR,0.00,2,0,0.00%,0,0.00,0.00%,0.00,0.00
+Poland,S | Brand | EU | EN, --,EUR,134.00,5,1,20.00%,0.67,0.67,0.00%,0.00,0.00
+France,S | Brand | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Albania,S | Brand | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Kosovo,S | Brand | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Estonia,S | Brand | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Portugal,S | Brand | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Montenegro,S | Brand | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Lithuania,S | Brand | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Romania,S | Brand | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Latvia,S | Brand | EU | EN, --,EUR,5.44,1,2,200.00%,0.00,0.01,0.00%,0.00,0.00
+Hungary,S | Brand | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Spain,S | Brand | EU | EN, --,EUR,0.00,3,0,0.00%,0,0.00,0.00%,0.00,0.00
+Slovenia,S | Brand | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Norway,S | Brand | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Moldova,S | Brand | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Croatia,S | Brand | EU | EN, --,EUR,135.00,4,3,75.00%,0.18,0.54,0.00%,0.00,0.00
+Slovakia,S | Brand | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+North Macedonia,S | Brand | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Czechia,S | Brand | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Bosnia and Herzegovina,S | Brand | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Italy,S | Brand | EU | EN, --,EUR,443.44,1,1,100.00%,0.44,0.44,0.00%,0.00,0.00
+Greece,S | Brand | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Bulgaria,S | Brand | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Sweden,S | Brand | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Netherlands,S | Competitors | NL, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Moldova,Rem | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Latvia,Rem | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Hungary,Rem | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Lithuania,Rem | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Finland,Rem | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+France,Rem | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+North Macedonia,Rem | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Greece,Rem | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Norway,Rem | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Bulgaria,Rem | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Croatia,Rem | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Portugal,Rem | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Slovenia,Rem | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Bosnia and Herzegovina,Rem | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Romania,Rem | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Italy,Rem | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Denmark,Rem | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Slovakia,Rem | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Spain,Rem | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Estonia,Rem | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Albania,Rem | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Kosovo,Rem | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Montenegro,Rem | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Serbia,Rem | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Poland,Rem | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Czechia,Rem | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Sweden,Rem | EU | EN, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Netherlands,Remarketing, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Norway,Rem | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Montenegro,Rem | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Italy,Rem | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Latvia,Rem | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Bulgaria,Rem | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Hungary,Rem | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Slovakia,Rem | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Spain,Rem | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+France,Rem | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Greece,Rem | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Portugal,Rem | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Kosovo,Rem | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Bosnia and Herzegovina,Rem | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Romania,Rem | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Croatia,Rem | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Denmark,Rem | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Sweden,Rem | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Slovenia,Rem | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Albania,Rem | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Czechia,Rem | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Finland,Rem | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Estonia,Rem | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Lithuania,Rem | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Poland,Rem | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Moldova,Rem | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Serbia,Rem | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+North Macedonia,Rem | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Latvia,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Croatia,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Poland,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Spain,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Sweden,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Finland,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Albania,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Switzerland,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+North Macedonia,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+France,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Estonia,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Bulgaria,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Montenegro,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Denmark,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Serbia,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Bosnia and Herzegovina,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Norway,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Germany,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Romania,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Italy,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Czechia,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Greece,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Portugal,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Lithuania,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Slovenia,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Kosovo,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Hungary,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Austria,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Moldova,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Slovakia,S | General | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Netherlands,PMax | Rem | NL #3, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Switzerland,PMAX | shopping | EU | EN, --,EUR,3.55,"1,371",52,3.79%,0.09,4.87,0.00%,0.00,0.00
+Slovakia,PMAX | shopping | EU | EN, --,EUR,1.69,"1,701",44,2.59%,0.07,2.88,2.27%,1.00,2.88
+Spain,PMAX | shopping | EU | EN, --,EUR,5.65,"4,185",552,13.19%,0.04,23.66,0.00%,0.00,0.00
+Finland,PMAX | shopping | EU | EN, --,EUR,7.41,"1,445",78,5.40%,0.14,10.71,1.28%,1.00,10.71
+Belgium,PMAX | shopping | EU | EN, --,EUR,5.82,"2,061",88,4.27%,0.14,11.99,0.00%,0.00,0.00
+Hungary,PMAX | shopping | EU | EN, --,EUR,1.82,"1,719",81,4.71%,0.04,3.13,0.00%,0.00,0.00
+Germany,PMAX | shopping | EU | EN, --,EUR,7.59,"5,772",247,4.28%,0.18,43.83,0.00%,0.00,0.00
+France,PMAX | shopping | EU | EN, --,EUR,5.53,"4,995",402,8.05%,0.07,27.61,0.00%,0.00,0.00
+Denmark,PMAX | shopping | EU | EN, --,EUR,24.86,"1,082",39,3.60%,0.69,26.90,0.00%,0.00,0.00
+Czechia,PMAX | shopping | EU | EN, --,EUR,1.92,939,40,4.26%,0.05,1.81,0.00%,0.00,0.00
+Italy,PMAX | shopping | EU | EN, --,EUR,7.48,"5,487",279,5.08%,0.15,41.05,0.00%,0.00,0.00
+Norway,PMAX | shopping | EU | EN, --,EUR,7.00,"1,162",60,5.16%,0.14,8.14,0.00%,0.00,0.00
+Poland,PMAX | shopping | EU | EN, --,EUR,4.42,"2,628",106,4.03%,0.11,11.61,0.00%,0.00,0.00
+Romania,PMAX | shopping | EU | EN, --,EUR,7.54,"3,812",118,3.10%,0.24,28.76,0.00%,0.00,0.00
+Sweden,PMAX | shopping | EU | EN, --,EUR,6.41,"2,396",77,3.21%,0.20,15.35,0.15%,0.12,129.62
+Luxembourg,DGen | EN,All Products,EUR,0.33,"4,403",11,0.25%,0.13,1.46,0.00%,0.00,0.00
+Denmark,DGen | EN,All Products,EUR,0.42,"6,668",17,0.25%,0.16,2.79,0.00%,0.00,0.00
+Switzerland,DGen | EN,All Products,EUR,1.88,"14,580",51,0.35%,0.54,27.46,0.00%,0.00,0.00
+Poland,DGen | EN,All Products,EUR,0.38,"74,566",170,0.23%,0.17,28.54,0.00%,0.00,0.00
+Portugal,DGen | EN,All Products,EUR,0.47,"27,419",109,0.40%,0.12,12.97,0.00%,0.00,0.00
+Austria,DGen | EN,All Products,EUR,1.30,"10,711",18,0.17%,0.78,13.98,0.00%,0.00,0.00
+Norway,DGen | EN,All Products,EUR,0.65,"21,765",71,0.33%,0.20,14.06,0.00%,0.00,0.00
+Slovakia,DGen | EN,All Products,EUR,0.54,"30,278",102,0.34%,0.16,16.44,0.00%,0.00,0.00
+France,DGen | EN,All Products,EUR,0.54,"32,988",97,0.29%,0.18,17.72,0.00%,0.00,0.00
+Spain,DGen | EN,All Products,EUR,0.61,"46,765",172,0.37%,0.17,28.67,0.00%,0.00,0.00
+Italy,DGen | EN,All Products,EUR,0.58,"28,155",130,0.46%,0.12,16.22,0.00%,0.00,0.00
+Slovenia,DGen | EN,All Products,EUR,0.99,"24,896",124,0.50%,0.20,24.56,0.00%,0.00,0.00
+Belgium,DGen | EN,All Products,EUR,0.81,"16,651",36,0.22%,0.38,13.57,0.00%,0.00,0.00
+Sweden,DGen | EN,All Products,EUR,0.70,"18,909",63,0.33%,0.21,13.28,0.00%,0.00,0.00
+Germany,DGen | EN,All Products,EUR,1.44,"26,517",62,0.23%,0.62,38.24,0.00%,0.00,0.00
+Czechia,DGen | EN,All Products,EUR,0.44,"35,311",100,0.28%,0.16,15.71,0.00%,0.00,0.00
+Netherlands,DGen | EN,All Products,EUR,1.34,"15,338",57,0.37%,0.36,20.53,0.00%,0.00,0.00
+Finland,DGen | EN,All Products,EUR,1.51,"10,493",50,0.48%,0.32,15.86,0.00%,0.00,0.00
+Belgium,Ehsan - Generic Search_Dutch_NL/BE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Germany,PMax | General | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Netherlands,Ehsan - Generic Search_Dutch_NL/BE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Netherlands,Sh | General | NL, --,EUR,18.00,"2,911",44,1.51%,1.19,52.41,0.00%,0.00,0.00
+Canada,PMax | Rem | CA | EN, --,EUR,8.56,"2,460",117,4.76%,0.18,21.05,0.00%,0.00,0.00
+Netherlands,ADa_Pants_NL, --,EUR,13.76,"23,549","1,103",4.68%,0.29,324.00,0.18%,2.00,162.00
+Belgium,S | General | NL, --,EUR,113.78,"2,671",138,5.17%,2.20,303.91,5.07%,7.00,43.42
+Netherlands,S | General | NL, --,EUR,93.23,"9,653",430,4.45%,2.09,899.93,1.74%,7.50,119.99
+Netherlands,ADa_Brand_NL, --,EUR,41.42,85,21,24.71%,0.17,3.52,23.81%,5.00,0.70
+Romania,PMax | Rem | EU | EN, --,EUR,4.28,"13,413",596,4.44%,0.10,57.36,0.00%,0.00,0.00
+Finland,PMax | Rem | EU | EN, --,EUR,10.84,"2,066",79,3.82%,0.28,22.39,1.27%,1.00,22.39
+Switzerland,PMax | Rem | EU | EN, --,EUR,22.74,"2,387",110,4.61%,0.49,54.28,0.91%,1.00,54.28
+Netherlands,S | Brand | NL, --,EUR,91.27,810,243,30.00%,0.30,73.93,16.56%,40.25,1.84
+Denmark,PMax | Rem | EU | EN, --,EUR,33.71,"2,084",52,2.50%,1.35,70.25,0.00%,0.00,0.00
+Belgium,PMax | Rem | EU | EN, --,EUR,11.93,"4,783",830,17.35%,0.07,57.05,0.00%,0.00,0.00
+Italy,PMax | Rem | EU | EN, --,EUR,6.32,"5,376",275,5.12%,0.12,33.99,0.36%,1.00,33.99
+Hungary,PMax | Rem | EU | EN, --,EUR,7.26,"6,957",149,2.14%,0.34,50.52,0.00%,0.00,0.00
+Germany,PMax | Rem | EU | EN, --,EUR,9.60,"8,121",343,4.22%,0.23,77.98,0.58%,2.00,38.99
+Belgium,S | Brand | NL, --,EUR,148.94,174,68,39.08%,0.38,25.92,10.29%,7.00,3.70
+Spain,PMax | Rem | EU | EN, --,EUR,4.69,"4,465",195,4.37%,0.11,20.93,0.00%,0.00,0.00
+France,PMax | Rem | EU | EN, --,EUR,3.22,"6,301",395,6.27%,0.05,20.27,0.00%,0.00,0.00
+Norway,PMax | Rem | EU | EN, --,EUR,10.26,"1,470",43,2.93%,0.35,15.08,0.00%,0.00,0.00
+Czechia,PMax | Rem | EU | EN, --,EUR,3.50,"2,109",91,4.31%,0.08,7.38,0.00%,0.00,0.00
+Poland,PMax | Rem | EU | EN, --,EUR,2.75,"6,639",293,4.41%,0.06,18.27,0.00%,0.00,0.00
+Slovakia,PMax | Rem | EU | EN, --,EUR,4.87,"7,396",480,6.49%,0.08,36.04,0.00%,0.00,0.00
+Sweden,PMax | Rem | EU | EN, --,EUR,11.52,"3,011",87,2.89%,0.40,34.69,1.01%,0.88,39.35
+Moldova,Rem | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Finland,Rem | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Hungary,Rem | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Lithuania,Rem | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Bosnia and Herzegovina,Rem | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Montenegro,Rem | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+North Macedonia,Rem | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Slovenia,Rem | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Romania,Rem | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Sweden,Rem | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Poland,Rem | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Italy,Rem | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Kosovo,Rem | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Albania,Rem | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Portugal,Rem | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Denmark,Rem | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Bulgaria,Rem | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Slovakia,Rem | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+France,Rem | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Norway,Rem | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Spain,Rem | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Serbia,Rem | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Latvia,Rem | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Estonia,Rem | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Croatia,Rem | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Czechia,Rem | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Greece,Rem | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Netherlands,PMax | General | NL, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Norway,S | Brand | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Hungary,S | Brand | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Romania,S | Brand | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Sweden,S | Brand | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Poland,S | Brand | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Denmark,S | Brand | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Czechia,S | Brand | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Serbia,S | Brand | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Lithuania,S | Brand | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Greece,S | Brand | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Kosovo,S | Brand | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Albania,S | Brand | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Finland,S | Brand | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Spain,S | Brand | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Slovakia,S | Brand | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Latvia,S | Brand | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Moldova,S | Brand | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+France,S | Brand | EU | FR, --,EUR,392.00,5,3,60.00%,0.65,1.96,0.00%,0.00,0.00
+Estonia,S | Brand | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Portugal,S | Brand | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Italy,S | Brand | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Slovenia,S | Brand | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Croatia,S | Brand | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+North Macedonia,S | Brand | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Montenegro,S | Brand | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Bosnia and Herzegovina,S | Brand | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Bulgaria,S | Brand | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Netherlands,ADa_Panty_NL, --,EUR,13.54,"24,647","1,455",5.90%,0.23,333.79,0.27%,4.00,83.45
+Belgium,PMax | Rem | DE, --,EUR,2.59,"1,378",90,6.53%,0.04,3.56,0.00%,0.00,0.00
+Switzerland,PMax | Rem | DE, --,EUR,5.07,"6,922",97,1.40%,0.36,35.07,0.00%,0.00,0.00
+Germany,PMax | Rem | DE, --,EUR,14.72,"49,513","1,884",3.81%,0.39,728.76,0.69%,13.00,56.06
+Belgium,PMax | Rem | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Switzerland,PMax | Rem | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+France,PMax | Rem | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+United States,PMax | Rem | US | EN, --,EUR,14.63,"5,455",87,1.59%,0.92,79.78,1.15%,1.00,79.78
+United Kingdom,S | General | UK, --,EUR,78.69,847,56,6.61%,1.19,66.65,1.79%,1.00,66.65
+Switzerland,PMAX | shopping | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Romania,PMAX | shopping | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Hungary,PMAX | shopping | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Austria,PMAX | shopping | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Czechia,PMAX | shopping | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Belgium,PMAX | shopping | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Italy,PMAX | shopping | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Finland,PMAX | shopping | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Portugal,PMAX | shopping | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Spain,PMAX | shopping | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Netherlands,PMAX | shopping | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+France,PMAX | shopping | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Slovakia,PMAX | shopping | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Germany,PMAX | shopping | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Denmark,PMAX | shopping | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Norway,PMAX | shopping | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Greece,PMAX | shopping | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Sweden,PMAX | shopping | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+United Kingdom,PMax | Rem | UK, --,EUR,16.13,"18,727",866,4.62%,0.35,301.98,0.58%,5.00,60.40
+Poland,S | General | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+North Macedonia,S | General | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Czechia,S | General | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Albania,S | General | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Lithuania,S | General | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Estonia,S | General | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Portugal,S | General | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Moldova,S | General | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Bulgaria,S | General | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Latvia,S | General | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Slovenia,S | General | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Montenegro,S | General | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Serbia,S | General | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Croatia,S | General | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Slovakia,S | General | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Sweden,S | General | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Kosovo,S | General | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Norway,S | General | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Denmark,S | General | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Hungary,S | General | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Romania,S | General | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Finland,S | General | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Spain,S | General | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Greece,S | General | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Bosnia and Herzegovina,S | General | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Italy,S | General | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+France,S | General | EU | FR, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Lithuania,S | Brand | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Denmark,S | Brand | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Bulgaria,S | Brand | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Slovenia,S | Brand | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Poland,S | Brand | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Sweden,S | Brand | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Greece,S | Brand | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Albania,S | Brand | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Moldova,S | Brand | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Finland,S | Brand | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Slovakia,S | Brand | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Bosnia and Herzegovina,S | Brand | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Portugal,S | Brand | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Switzerland,S | Brand | EU | DE, --,EUR,35.00,10,4,40.00%,0.09,0.35,0.00%,0.00,0.00
+Romania,S | Brand | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+North Macedonia,S | Brand | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Czechia,S | Brand | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Germany,S | Brand | EU | DE, --,EUR,32.25,75,25,33.33%,0.10,2.42,16.00%,4.00,0.60
+Italy,S | Brand | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Montenegro,S | Brand | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Serbia,S | Brand | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Estonia,S | Brand | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+France,S | Brand | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Latvia,S | Brand | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Croatia,S | Brand | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Kosovo,S | Brand | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Hungary,S | Brand | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Spain,S | Brand | EU | DE, --,EUR,5.00,2,1,50.00%,0.01,0.01,0.00%,0.00,0.00
+Norway,S | Brand | EU | DE, --,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Austria,S | Brand | EU | DE, --,EUR,3.75,8,3,37.50%,0.01,0.03,0.00%,0.00,0.00
+Netherlands,PMax | Rem | NL | New, --,EUR,16.91,"94,390","5,157",5.46%,0.31,1596.48,0.78%,40.25,39.66
+Total: Locations,,,EUR,8.16,"825,057","20,488",2.48%,0.33,6734.01,0.74%,151.00,44.60
+Total: Other locations,,,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Total: Account,,,EUR,8.16,"825,057","20,488",2.48%,0.33,6734.01,0.74%,151.00,44.60
+Total: Demand Gen,,,EUR,0.72,"446,413","1,440",0.32%,0.22,322.04,0.00%,0.00,0.00
+Total: Display,,,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Total: Smart,,,EUR,0,0,0, --,0,0.00,0.00%,0.00,0.00
+Total: Shopping,,,EUR,18.00,"2,911",44,1.51%,1.19,52.41,0.00%,0.00,0.00
+Total: Search,,,EUR,72.70,"27,902","1,736",6.22%,1.17,2028.48,4.48%,77.75,26.09
+Total: Performance Max,,,EUR,12.45,"347,831","17,268",4.96%,0.25,4331.08,0.42%,73.25,59.12

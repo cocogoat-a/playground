@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spreadsheet Cleanup"
+  short_description: "Clean low-signal spreadsheet reports"
+  default_prompt: "Use $spreadsheet-cleanup to trim low-value rows and columns from this spreadsheet."
